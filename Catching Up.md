@@ -1,54 +1,54 @@
 To-Do:
 Leveling - 
 
-# Table of Contents
+## Table of Contents
 - [Raising Your Battle Power](#raising-your-battle-power)
 - [Leveling Up](#leveling-up)
 - [Making N-Meseta](#making-n-meseta)
 - [Upgrading Gear](#upgrading-gear)
 - [Appendix A: The Tutorial and Getting Out of Aelio](#appendix-a-the-tutorial-and-getting-out-of-aelio)
 
-# Raising Your Battle Power
+## Raising Your Battle Power
 
 Battle Power (BP) is the main way that NGS locks content. New areas, quests, and story progression are all behind minimum BP requirements. You can increase your Battle Power in three ways: leveling up your main class. spending skill points in both your main and subclass, and upgrading your gear.
 
-## Level
+### Level
 
 Your level determines which equipment you can use and also provides a good boost to your BP. Every level is worth between 10 BP at low levels and 30 BP at high levels.
 
 See [Leveling Up](#leveling-up) for more information.
 
-## Skill Points
+### Skill Points
 
 Skill Points earn you 3 BP per skill point spent on your Main and Subclass skill tree.
 
-## Armor and Weapons
+### Armor and Weapons
 
 Armor and Weapons directly contribute to BP through their Attack and Defense stats, but most of your power will actually come from how the gear is augmented.
 
 See [Upgrading Gear](#upgrading-gear) for more information.
 
-### Item Enhancement and Limit Break
+#### Item Enhancement and Limit Break
 
-### Add Augments
+#### Add Augments
 
 Each augment adds 3 to 13 BP, with around 6-8 for most budget augments. How good an augment is is roughly proportional to its BP, but this is deceiving sometimes. One of the best augments in the game, Alts Secreta IV, only gives 6 BP which is equivalent to some of the worst augments in the game, the Element Ward IIIs.
 
 See [Augmenting](#augmenting) for more information.
 
-### Unlock Potential
+#### Unlock Potential
 
 Unlocking a weapon's potential grants 10 BP per level and typically a massive Potency Bonus.
 
 
 
-# Leveling Up
+## Leveling Up
 
-## Main Story
+### Main Story
 
 Completing the Story of PSO2 NGS gives you a decent amount of EXP to level up with.
 
-## Side Tasks
+### Side Tasks
 
 In all regions you can find the NPC Guiden, his tasks grant massive XP boosts designed to catch you up to the current content. In particular his quest, "Advice about the Quest Counter" rewards you 10 million EXP. Speeda can also be found in all regions and has a task worth 350,000 EXP that introduces you to the races.
 
@@ -60,15 +60,15 @@ Stia Camp Side Tasks reward 600,000 or 750,000 EXP each.
 
 There are two Weekly Tasks for completing Leah May's Side Tasks (which reset daily). The amount of EXP you receive scales with level.
 
-## Daily Tasks and Leah May's Side Tasks
+### Daily Tasks and Leah May's Side Tasks
 
 Completing your daily tasks will offer a moderate amount of EXP. There are two weekly Tasks with large EXP rewards for completing Leah May's Side Tasks. The amount of EXP you receive scales with level.
 
 
 
-# Making N-Meseta
+## Making N-Meseta
 
-## Daily Gathering and Weekly Tasks
+### Daily Gathering and Weekly Tasks
 
 Each region has its own valuable gathering item you can obtain. They respawn daily and net you 104,000 N-meseta each day.
 
@@ -81,26 +81,26 @@ Additionally you can complete the Weekly Tasks to receive 800,000 N-meseta each 
 
 If you do your daily gathering and Weekly Tasks you'll net a little more than 1.5 million N-meseta each week.
 
-## Red Boxes
+### Red Boxes
 
 Once on your account you may find Red Boxes scattered around Halpha. Each region contains over 100 of these and each one contains either 10,000 N-meseta, Star Gems, or equipment. This will net you around 2 million N-meseta.
 
 - [ARKS-Visiphone map guide](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Collectables)
 - [RPGSite's guide with images](https://www.rpgsite.net/feature/12946-phantasy-star-online-2-new-genesis-all-red-item-container-locations-kvaris-region)
 
-## Combat Zones
+### Combat Zones
 
-## Exploration Zones
+### Exploration Zones
 
 
 
-# Upgrading Gear
+## Upgrading Gear
 
-## Getting New Gear
+### Getting New Gear
 
-## Item Enhancement and Limit Break
+### Item Enhancement and Limit Break
 
-## Augmenting
+### Augmenting
 
 As Ran says before heading to Mt. Magnus, "Battle Power is nothing more than a rough assessment." Its actually not too hard to reach the BP necessary for the endgame and still be very underpowered.
 
@@ -116,11 +116,11 @@ For your low level armor and weapons, I suggest staying as budget as possible. Y
 - Alts Secreta II or Alts Secreta III
 - Triplble, Stat Dualble II or III
 
-## Fixa
+### Fixa
 
 
 
-# Appendix A: The Tutorial and Getting Out of Aelio
+## Appendix A: The Tutorial and Getting Out of Aelio
 
 Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
 
