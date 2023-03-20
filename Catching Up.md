@@ -29,8 +29,6 @@ Retem City Side Tasks reward about 200,000 EXP each.
 Kvaris Camp Side Tasks reward about 300,000 EXP each.
 Stia Camp Side Tasks reward 600,000 or 750,000 EXP each.
 
-There are two Weekly Tasks for completing Leah May's Side Tasks (which reset daily). The amount of EXP you receive scales with level.
-
 ### Daily Tasks and Leah May's Side Tasks
 
 Completing your daily tasks will offer a moderate amount of EXP. There are two weekly Tasks with large EXP rewards for completing Leah May's Side Tasks. The amount of EXP you receive scales with level.
