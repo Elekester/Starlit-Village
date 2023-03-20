@@ -1,43 +1,13 @@
 # Getting Ready for Slayer
 
+
+
 ## Table of Contents
 - [Raising Your Battle Power](#raising-your-battle-power)
 - [Leveling Up](#leveling-up)
 - [Making N-Meseta](#making-n-meseta)
 - [Upgrading Gear](#upgrading-gear)
 - [Appendix A: The Tutorial and Getting Out of Aelio](#appendix-a-the-tutorial-and-getting-out-of-aelio)
-
-## Raising Your Battle Power
-
-Battle Power (BP) is the main way that NGS locks content. New areas, quests, and story progression are all behind minimum BP requirements. You can increase your Battle Power in three ways: leveling up your main class. spending skill points in both your main and subclass, and upgrading your gear.
-
-### Level
-
-Your level determines which equipment you can use and also provides a good boost to your BP. Every level is worth between 10 BP at low levels and 30 BP at high levels.
-
-See [Leveling Up](#leveling-up) for more information.
-
-### Skill Points
-
-Skill Points earn you 3 BP per skill point spent on your Main and Subclass skill tree.
-
-### Armor and Weapons
-
-Armor and Weapons directly contribute to BP through their Attack and Defense stats, but most of your power will actually come from how the gear is augmented.
-
-See [Upgrading Gear](#upgrading-gear) for more information.
-
-#### Item Enhancement and Limit Break
-
-#### Add Augments
-
-Each augment adds 3 to 13 BP, with around 6-8 for most budget augments. How good an augment is is roughly proportional to its BP, but this is deceiving sometimes. One of the best augments in the game, Alts Secreta IV, only gives 6 BP which is equivalent to some of the worst augments in the game, the Element Ward IIIs.
-
-See [Augmenting](#augmenting) for more information.
-
-#### Unlock Potential
-
-Unlocking a weapon's potential grants 10 BP per level and typically a massive Potency Bonus.
 
 
 
@@ -93,6 +63,30 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 
 
 
+## Raising Your Battle Power
+
+Battle Power (BP) is the main way that NGS locks content. New areas, quests, and story progression are all behind minimum BP requirements. You can increase your Battle Power in three ways: leveling up your main class. spending skill points in both your main and subclass, and upgrading your gear.
+
+### Level
+
+Your level determines which equipment you can use and also provides a good boost to your BP. Every level is worth between 10 BP at low levels and 30 BP at high levels.
+
+See [Leveling Up](#leveling-up) for more information.
+
+### Skill Points
+
+Skill Points earn you 3 BP per skill point spent on your Main and Subclass skill tree.
+
+### Armor and Weapons
+
+Armor and Weapons directly contribute to BP through their Attack and Defense stats, but a lot of your BP ll actually come from how the gear is augmented. Each augment adds 3 to 13 BP, with around 6-8 for most budget augments.
+
+You can also unlock a weapon's potential which grants 10 BP per level unlocked.
+
+See [Upgrading Gear](#upgrading-gear) for more information.
+
+
+
 ## Upgrading Gear
 
 ### Getting New Gear
@@ -101,7 +95,7 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 
 ### Augmenting
 
-As Ran says before heading to Mt. Magnus, "Battle Power is nothing more than a rough assessment." Its actually not too hard to reach the BP necessary for the endgame and still be very underpowered.
+As Ran says before heading to Mt. Magnus, "Battle Power is nothing more than a rough assessment." Its actually not too hard to reach the BP necessary for the endgame and still be very underpowered. How good an augment is is roughly proportional to its BP, but this is deceiving sometimes. One of the best augments in the game, Alts Secreta IV, only gives 6 BP which is equivalent to some of the worst augments in the game, the Element Ward IIIs.
 
 As a rule of thumb, Potency is king. When deciding which augments to add to your gear, always pick the augment that increases the Stat Potency of the weapon you use. Increasing potency is a raw increase in your damage.
 
