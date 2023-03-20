@@ -80,8 +80,8 @@ If you do your daily gathering and Weekly Tasks you'll net a little more than 1.
 
 Once on your account you may find Red Boxes scattered around Halpha. Each region contains over 100 of these and each one contains either 10,000 N-meseta, Star Gems, or equipment. This will net you around 2 million N-meseta.
 
-ARKS-Visiphone map guide: https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Collectables
-RPGSite's guide with images: https://www.rpgsite.net/feature/12946-phantasy-star-online-2-new-genesis-all-red-item-container-locations-kvaris-region
+- [ARKS-Visiphone map guide](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Collectables)
+- [RPGSite's guide with images](https://www.rpgsite.net/feature/12946-phantasy-star-online-2-new-genesis-all-red-item-container-locations-kvaris-region)
 
 ## Combat Zones
 
