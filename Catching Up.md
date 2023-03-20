@@ -17,7 +17,7 @@ In order for a class to reach level 70, the current level cap, you need to get a
 
 ### Main Story
 
-Completing the Story of PSO2 NGS gives you a decent amount of EXP to start with.
+Completing the Story of PSO2 NGS gives you a decent amount of EXP to start with. They're also necessary to unlock all the content in the game.
 
 ### Side Tasks
 
