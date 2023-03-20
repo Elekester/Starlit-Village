@@ -1,5 +1,4 @@
-To-Do:
-Leveling - 
+# Getting Ready for Slayer
 
 ## Table of Contents
 - [Raising Your Battle Power](#raising-your-battle-power)
