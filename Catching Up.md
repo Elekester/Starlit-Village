@@ -45,6 +45,8 @@ Completing your daily tasks will offer a moderate amount of EXP. There are two w
 
 ### Daily Gathering and Weekly Tasks
 
+~ 800,000 N-Meseta/Hour (1.5 million N-Meseta/Week)
+
 Each region has its own valuable gathering item you can obtain. They respawn daily and net you 104,000 N-meseta each day.
 
 - In Central Aelio there are 14 alpha reactors. They are each worth 3,500 N-meseta.
