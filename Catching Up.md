@@ -35,6 +35,8 @@ There are two Weekly Tasks for completing Leah May's Side Tasks (which reset dai
 
 Completing your daily tasks will offer a moderate amount of EXP. There are two weekly Tasks with large EXP rewards for completing Leah May's Side Tasks. The amount of EXP you receive scales with level.
 
+### Yellow Triggers and the Trooper Quests
+
 ### Combat Zones
 
 
@@ -64,6 +66,10 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 ### Combat Zones
 
 ### Exploration Zones
+
+### Yellow Triggers and the Troopers Quests
+
+### Purple Triggers and the Devastators Quests
 
 
 
