@@ -13,9 +13,11 @@
 
 ## Leveling Up
 
+In order for a class to reach level 70, the current level cap, you need to get a total of 58,642,839 EXP. After that every 2,080,486 EXP grants you 1 N-EX-Cube and 10 N-Class-Cubes which allow you to further upgrade your gear and use Add-on Skills.
+
 ### Main Story
 
-Completing the Story of PSO2 NGS gives you a decent amount of EXP to level up with.
+Completing the Story of PSO2 NGS gives you a decent amount of EXP to start with.
 
 ### Side Tasks
 
