@@ -1,7 +1,12 @@
 To-Do:
 Leveling - 
 
-
+# Table of Contents
+- [Raising Your Battle Power](#raising-your-battle-power)
+- [Leveling Up](#leveling-up)
+- [Making N-Meseta](#making-n-meseta)
+- [Upgrading Gear](#upgrading-gear)
+- [Appendix A: The Tutorial and Getting Out of Aelio](#appendix-a-the-tutorial-and-getting-out-of-aelio)
 
 # Raising Your Battle Power
 
