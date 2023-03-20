@@ -35,6 +35,8 @@ There are two Weekly Tasks for completing Leah May's Side Tasks (which reset dai
 
 Completing your daily tasks will offer a moderate amount of EXP. There are two weekly Tasks with large EXP rewards for completing Leah May's Side Tasks. The amount of EXP you receive scales with level.
 
+### Combat Zones
+
 
 
 ## Making N-Meseta
