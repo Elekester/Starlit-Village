@@ -43,9 +43,9 @@ Completing your daily tasks will offer a moderate amount of EXP. There are two w
 
 ## Making N-Meseta
 
-### Daily Gathering and Weekly Tasks
+### Daily Gathering, Weekly Tasks, and Alliance Tasks
 
-**Rate:** 1.5 million N-meseta/week (850,000 N-meseta/hour)
+**Rate:** 1.8 million N-meseta/week (800,000 N-meseta/hour)
 
 Each region has its own valuable gathering item you can obtain. They respawn daily and net you 104,000 N-meseta each day.
 
@@ -54,9 +54,7 @@ Each region has its own valuable gathering item you can obtain. They respawn dai
 - In Central Kvaris there are 10 Snoal. They are each worth 3,500 N-meseta.
 - At Dreisen Plant in Stia, you can find Invisible Boxes that contain rare augments and minerals.
 
-Additionally you can complete the Weekly Tasks to receive 800,000 N-meseta each week.
-
-If you do your daily gathering and Weekly Tasks you'll net a little more than 1.5 million N-meseta each week.
+Additionally you can complete the Weekly Tasks to receive 800,000 N-meseta each week and your Alliance Tasks to receive 1-5 Beta Reactors worth 100,000 N-meseta each. If you're in a top 10 Alliance, you'll receive 3 for a total of 300,000 N-Meseta from Alliance Tasks.
 
 ### Red Boxes
 
