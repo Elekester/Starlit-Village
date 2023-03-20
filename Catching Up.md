@@ -37,6 +37,8 @@ Completing your daily tasks will offer a moderate amount of EXP. There are two w
 
 ### Yellow Triggers and the Trooper Quests
 
+Aelios can be done at a rate of 35 runs/hour.
+
 ### Combat Zones
 
 
@@ -70,6 +72,8 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 ### Exploration Zones
 
 ### Yellow Triggers and the Troopers Quests
+
+Aelios can be done at a rate of 35 runs/hour.
 
 ### Purple Triggers and the Devastators Quests
 
