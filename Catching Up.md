@@ -45,7 +45,7 @@ Completing your daily tasks will offer a moderate amount of EXP. There are two w
 
 ### Daily Gathering and Weekly Tasks
 
-~ 800,000 N-Meseta/Hour (1.5 million N-Meseta/Week)
+**Rate:** 1.5 million N-meseta/week
 
 Each region has its own valuable gathering item you can obtain. They respawn daily and net you 104,000 N-meseta each day.
 
@@ -59,6 +59,8 @@ Additionally you can complete the Weekly Tasks to receive 800,000 N-meseta each 
 If you do your daily gathering and Weekly Tasks you'll net a little more than 1.5 million N-meseta each week.
 
 ### Red Boxes
+
+**Rate:** 2 million N-meseta once
 
 Once on your account you may find Red Boxes scattered around Halpha. Each region contains over 100 of these and each one contains either 10,000 N-meseta, Star Gems, or equipment. This will net you around 2 million N-meseta.
 
