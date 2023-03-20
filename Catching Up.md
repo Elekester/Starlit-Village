@@ -24,7 +24,7 @@ Skill Points earn you 3 BP per skill point spent on your Main and Subclass skill
 
 ## Armor and Weapons
 
-As Ran says before heading to Mt. Magnus, "Battle Power is nothing more than a rough assessment." Its actually not too hard to reach the BP necessary for the endgame and still be very underpowered. Armor and Weapons directly contribute to BP through their Attack and Defense stats, but most of your power will actually come from how the gear is augmented.
+Armor and Weapons directly contribute to BP through their Attack and Defense stats, but most of your power will actually come from how the gear is augmented.
 
 See [Upgrading Gear](#upgrading-gear) for more information.
 
@@ -101,6 +101,8 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 ## Item Enhancement and Limit Break
 
 ## Augmenting
+
+As Ran says before heading to Mt. Magnus, "Battle Power is nothing more than a rough assessment." Its actually not too hard to reach the BP necessary for the endgame and still be very underpowered.
 
 As a rule of thumb, Potency is king. When deciding which augments to add to your gear, always pick the augment that increases the Stat Potency of the weapon you use. Increasing potency is a raw increase in your damage.
 
