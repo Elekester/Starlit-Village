@@ -103,11 +103,11 @@ After potency, the next most important statistic is probably Potency Floor. You 
 
 For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 N-meseta each. The below augments can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons.
 
-Stat IV
-Boss Soul III or Boss Soul IV
-Gigas Stat II or Gigas Stat III
-Alts Secreta II or Alts Secreta III
-Triplble, Stat Dualble II or III
+- Stat IV
+- Boss Soul III or Boss Soul IV
+- Gigas Stat II or Gigas Stat III
+- Alts Secreta II or Alts Secreta III
+- Triplble, Stat Dualble II or III
 
 ## Fixa
 
