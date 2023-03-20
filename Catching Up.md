@@ -6,7 +6,7 @@
 - [Leveling Up](#leveling-up)
 - [Making N-Meseta](#making-n-meseta)
 - [Raising Your Battle Power](#raising-your-battle-power)
-- [Upgrading Gear](#upgrading-gear)
+- [Upgrading Your Gear](#upgrading-your-gear)
 - [Appendix A: The Tutorial and Getting Out of Aelio](#appendix-a-the-tutorial-and-getting-out-of-aelio)
 
 
@@ -93,11 +93,11 @@ Armor and Weapons directly contribute to BP through their Attack and Defense sta
 
 You can also unlock a weapon's potential which grants 10 BP per level unlocked.
 
-See [Upgrading Gear](#upgrading-gear) for more information.
+See [Upgrading Your Gear](#upgrading-your-gear) for more information.
 
 
 
-## Upgrading Gear
+## Upgrading Your Gear
 
 ### Getting New Gear
 
