@@ -11,7 +11,7 @@ Battle Power (BP) is the main way that NGS locks content. New areas, quests, and
 
 Your level determines which equipment you can use and also provides a good boost to your BP. Every level is worth between 10 BP at low levels and 30 BP at high levels.
 
-See the section # Leveling Up for more information.
+See the section (Leveling Up)[#Leveling Up] for more information.
 
 ## Skill Points
 
