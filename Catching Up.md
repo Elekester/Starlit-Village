@@ -11,7 +11,7 @@ Battle Power (BP) is the main way that NGS locks content. New areas, quests, and
 
 Your level determines which equipment you can use and also provides a good boost to your BP. Every level is worth between 10 BP at low levels and 30 BP at high levels.
 
-See the section (Leveling Up)[#leveling-up] for more information.
+See the section [Leveling Up](#leveling-up) for more information.
 
 ## Skill Points
 
@@ -21,7 +21,7 @@ Skill Points earn you 3 BP per skill point spent on your Main and Subclass skill
 
 As Ran says before heading to Mt. Magnus, "Battle Power is nothing more than a rough assessment." Its actually not too hard to reach the BP necessary for the endgame and still be very underpowered. Armor and Weapons directly contribute to BP through their Attack and Defense stats, but most of your power will actually come from how the gear is augmented.
 
-See the section (Upgrading Gear)[#upgrading-gear] for more information.
+See the section [Upgrading Gear](#upgrading-gear) for more information.
 
 ### Item Enhancement and Limit Break
 
@@ -29,7 +29,7 @@ See the section (Upgrading Gear)[#upgrading-gear] for more information.
 
 Each augment adds 3 to 13 BP, with around 6-8 for most budget augments. How good an augment is is roughly proportional to its BP, but this is deceiving sometimes. One of the best augments in the game, Alts Secreta IV, only gives 6 BP which is equivalent to some of the worst augments in the game, the Element Ward IIIs.
 
-See the section (Augmenting)[#augmenting] for more information.
+See the section [Augmenting](#augmenting) for more information.
 
 ### Unlock Potential
 
