@@ -45,7 +45,7 @@ Aelios can be done at a rate of 35 runs/hour.
 
 ### Daily Gathering, Weekly Tasks, and Alliance Tasks
 
-**Rate:** 1.8 million N-meseta/week (800,000 N-meseta/hour)
+**Rate:** 1.8 million N-meseta/week (500,000 N-meseta/hour)
 
 Each region has its own valuable gathering item you can obtain. They respawn daily and net you 104,000 N-meseta each day.
 
