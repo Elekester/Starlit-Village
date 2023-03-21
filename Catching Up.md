@@ -72,6 +72,7 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 ### Yellow Triggers and the Troopers Quests
 
 **Rate (buying Yellow Triggers):** 740,000 to 1.5 million N-Meseta/hour
+
 **Rate (not buying Yellow Triggers):** 840,000 to 1.4 million N-Meseta/hour
 
 The Battledia Yellows, Aelio Troopers and Retem Troopers, both drop Gold Primm Sword +30 and Gold Primm Armor +30 as well as the Domina for that region. The sword can sell on the personal shop for 15,000 to 25,000 N-Meseta and the armor for 3,000 to 9,000 N-Meseta depending on demand. Ael Dominas sell for 13,000 to 15,000 N-Meseta. Meaning you can earn 27,900 to 41,700 N-Meseta each run, accounting for the seller's fee on the personal shop.
