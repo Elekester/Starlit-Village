@@ -79,6 +79,8 @@ Because of the speed at which enemies are defeated you'll need to have Auto Sell
 
 Don't forget to use any boost items like N-Meseta Earned, Triboosts, and Rappy-Shaped Fritters to increase the amount of N-Meseta earned. If you have premium a Food Boost will also grant you an N-Meseta earned boost.
 
+You'll also earn around 1 million EXP/hour.
+
 ### Exploration Zones
 
 ### Yellow Triggers and the Troopers Quests
