@@ -67,6 +67,18 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 
 ### Combat Zones
 
+**Rate (not boosted):** 270,000 N-Meseta/hour <br />
+
+Enemies drop N-Meseta and items that can be converted into N-Meseta when defeated and so Combat Zones are a valid way of making N-Meseta. Since other enemy drops aren't as valuable, its best to simply defeat low level enemies. Due to its small size and low enemy levels, Retem Alnothe is the best combat zone for this purpose. Since enemy level does not significantly affect the N-Meseta received, a low rank combat zone is actually better than a high rank combat zone, so Retem Alnothe Rank 1 is the best choice.
+
+The general strategy is to ignore the enemy or trial markers and to spread out over the combat zone while using a class that can cast techniques as a main or subclass. Use the Zonde to defeat as many enemies as possible until a trial appears while you have 4 PSE bars at which point you defeat the trial and trigger a PSE Burst. Use either Zonde or a talis' Spread Shot mode to defeat the enemies spawned. When the boss appears, if there is a chance for a PSE Encore stay and defeat it, otherwise have one person stay to defeat it while everyone else leasves to defeat normal enemies.
+
+This strategy is best performed with eight players that agree to use it, but it can be done in public rooms as well. If you do it in public rooms, do not expect others to follow the strategy and do not try to force others to follow the strategy.
+
+Because of the speed at which enemies are defeated you'll need to have Auto Sell on using either Premium or an Auto Sell pass if you don't want to waste significant time clearing your interval every few minutes.
+
+Don't forget to use any boost items like N-Meseta Earned, Triboosts, and Rappy-Shaped Fritters to increase the amount of N-Meseta earned. If you have premium a Food Boost will also grant you an N-Meseta earned boost.
+
 ### Exploration Zones
 
 ### Yellow Triggers and the Troopers Quests
