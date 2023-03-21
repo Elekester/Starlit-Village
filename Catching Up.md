@@ -80,7 +80,7 @@ The Battledia Yellows, Aelio Troopers and Retem Troopers, both drop Gold Primm S
 
 If you must buy the Yellow Triggers, which cost 1,000 to 2,000 N-Meseta each, you'll end up paying 1,250 N-Meseta to 2,500 N-Meseta a run if the cost is split between a party of 4. Thus you can earn 24,800 to 40,450 N-Meseta per run if you must buy the Yellow Triggers.
 
-Aelio's Yellow Triggers can be done at a rate of 30 to 35 runs/hour with a party of 4, netting you the above rates.
+Aelio's Yellow Triggers can be done at a rate of 30 to 35 runs/hour with a party of 4, netting you the above rates. In adition you'll receive 8 million to 10 million experience an hour (boostable).
 
 If Stia's Yellow Triggers get a Rank 2, expect that quest to replace Aelio's as the go to quest for this method.
 
