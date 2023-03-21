@@ -71,8 +71,8 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 
 ### Yellow Triggers and the Troopers Quests
 
-**Rate (buying Yellow Triggers):** 740,000 to 1.5 million N-Meseta/hour <br />
-**Rate (not buying Yellow Triggers):** 840,000 to 1.4 million N-Meseta/hour
+**Rate (buying Yellow Triggers):** 740,000 to 1.4 million N-Meseta/hour <br />
+**Rate (not buying Yellow Triggers):** 840,000 to 1.5 million N-Meseta/hour
 
 **Warning:** This method requires selling a great deal of items on the Personal Shop, which is limited to 30 items at a time.
 
