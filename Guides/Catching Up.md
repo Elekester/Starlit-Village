@@ -46,7 +46,7 @@ Aelios can be done at a rate of 35 runs/hour.
 In the table below **Level** refers to the level of enemies that appear in this method, **Boostable** refers to whether or N-Meseta Earned boosts will affect the rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
 
 |Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Level|Boostable|Player Shop|Auto Sell|Notes|
-|:-----|:------------------:|:-------:|:-----------:|:-------:|:---|
+|:-----|:------------------:|:-:|:-------:|:-----------:|:-------:|:---|
 |[Recurring Tasks](#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
 |[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil N-meseta, obtainable once per account. Rate is a very rough estimate.|
 |[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|20|❌|✔️|❌|You must sell a great deal of non-stackable items on the Player Shop. You also gain 8mil to 10mil EXP/hour.|
