@@ -74,6 +74,7 @@ Additionally you can complete the Weekly Tasks to receive 800,000 N-meseta each 
 
 Once on your account you may find Red Boxes scattered around Halpha. Each region contains over 100 of these and each one contains either 10,000 N-meseta, Star Gems, or equipment. This will net you around 2 million N-meseta.
 
+- [The League's Map Guides](https://discord.com/channels/841958014503223308/978354867519258634)
 - [ARKS-Visiphone map guide](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Collectables)
 - [RPGSite's guide with images](https://www.rpgsite.net/feature/12946-phantasy-star-online-2-new-genesis-all-red-item-container-locations-kvaris-region)
 
