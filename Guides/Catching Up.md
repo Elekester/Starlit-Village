@@ -43,16 +43,16 @@ Aelios can be done at a rate of 35 runs/hour.
 
 ## Making N-Meseta
 
-In the table below **Boostable** refers to whether or N-Meseta Earned boosts will affect the rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
+In the table below **Level** refers to the level of enemies that appear in this method, **Boostable** refers to whether or N-Meseta Earned boosts will affect the rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
 
-|Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Boostable|Player Shop|Auto Sell|Notes|
+|Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Level|Boostable|Player Shop|Auto Sell|Notes|
 |:-----|:------------------:|:-------:|:-----------:|:-------:|:---|
-|[Recurring Tasks](#recurring-tasks)|510k - 1mil|❌|❌|❌|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
-|[Red Boxes](#red-boxes)|300k|❌|❌|❌|Red Boxes contain about 2mil N-meseta, obtainable once per account. Rate is a very rough estimate.|
-|[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|❌|✔️|❌|You must sell a great deal of non-stackable items on the Player Shop. You also gain 8mil to 10mil EXP/hour.|
-|[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k - 330k|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Use zonde or talis spread shot to quickly defeat many enemies.|
-|[Dreisen Plant Giga Recon](#dreisen-plant-giga-recon)||❌|✔️|❌||
-|[Purple Triggers](#purple-triggers)||❌|✔️|❌||
+|[Recurring Tasks](#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
+|[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil N-meseta, obtainable once per account. Rate is a very rough estimate.|
+|[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|20|❌|✔️|❌|You must sell a great deal of non-stackable items on the Player Shop. You also gain 8mil to 10mil EXP/hour.|
+|[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k - 330k|35|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Use zonde or talis spread shot to quickly defeat many enemies.|
+|[Dreisen Plant Recon Gigants](#dreisen-plant-giga-recon)||?|❌|✔️|❌||
+|[Purple Triggers](#purple-triggers)||74|❌|✔️|❌||
 
 ### Recurring Tasks
 
@@ -92,7 +92,7 @@ Don't forget to use any boost items like N-Meseta Earned, Triboosts, and Rappy-S
 
 You'll also earn around 1 million EXP/hour.
 
-### Dreisen Plant Giga Recon
+### Dreisen Plant Gigant Recon
 
 ### Aelio Yellow Rank 2
 
