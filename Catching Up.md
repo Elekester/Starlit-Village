@@ -43,7 +43,9 @@ Aelios can be done at a rate of 35 runs/hour.
 
 ## Making N-Meseta
 
-|Method|Rate (N-Meseta/hour)|Boostable|Requires Player Shop|Requires Auto Sell|Notes|
+In the table below **Boostable** refers to whether or N-Meseta Earned boosts will affect the rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
+
+|Method|N-Meseta/hour|Boostable|Player Shop|Auto Sell|Notes|
 |:-----|:------------------:|:-------:|:-----------:|:-------:|:---|
 |[Recurring Tasks](#recurring-tasks)|510k - 1mil|❌|❌|❌|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
 |[Red Boxes](#red-boxes)|300k|❌|❌|❌|Red Boxes contain about 2mil N-meseta, obtainable once per account. Rate is a very rough estimate.|
