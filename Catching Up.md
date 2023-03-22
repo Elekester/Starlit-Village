@@ -4,6 +4,7 @@
 
 ### Making N-Meseta
 |Method|Rate (N-Meseta/hour)|Boostable|Personal Shop|Auto Sell|Notes|
+|:-----|:------------------:|:-------:|:-----------:|:-------:|:---:|
 |Daily Gathering, Weekly Tasks, Alliance Tasks|510k - 1mil|No|No|No|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
 |Red Boxes|300k|No|No|No|Red Boxes contain about 2mil N-meseta, obtainable once per account. Rate is a very rough estimate.|
 |Battledia Yellow: Aelio Troopers Rank 2|740k - 1.5mil|No|Yes|No|You must sell a great deal of non-stackable items on the Player Shop. You also gain 8mil to 10mil EXP/hour.|
