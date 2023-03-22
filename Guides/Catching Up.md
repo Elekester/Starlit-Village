@@ -110,9 +110,9 @@ If Stia's Yellow Triggers get a Rank 2, expect that quest to replace Aelio's as 
 
 ### Dreisen Plant Gigant Recon
 
-### Purple Triggers
-
 ### Geo Lab Rank 2
+
+### Purple Triggers
 
 
 
