@@ -3,7 +3,7 @@
 ## Summary
 
 ### Making N-Meseta
-|Method|Rate (N-Meseta/hour)|Boostable|Requires Personal Shop|Requires Auto Sell|Notes|
+|Method|Rate (N-Meseta/hour)|Boostable|Requires Player Shop|Requires Auto Sell|Notes|
 |:-----|:------------------:|:-------:|:-----------:|:-------:|:---:|
 |Daily Gathering, Weekly Tasks, Alliance Tasks|510k - 1mil|❌|❌|❌|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
 |Red Boxes|300k|❌|❌|❌|Red Boxes contain about 2mil N-meseta, obtainable once per account. Rate is a very rough estimate.|
