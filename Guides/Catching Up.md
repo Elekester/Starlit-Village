@@ -50,7 +50,7 @@ In the table below **Lvl** refers to the level of enemies that appear in this me
 |[Recurring Tasks](#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
 |[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil N-meseta, obtainable once per account. Rate is a very rough estimate.|
 |[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|20|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop. You also gain 8mil to 10mil EXP/hour.|
-|[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k - 330k|35|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bounder and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
+|[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k - 330k|35|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
 |[Dreisen Plant Recon Gigants](#dreisen-plant-giga-recon)||?|❌|✔️|❌||
 |[Purple Triggers](#purple-triggers)||74|❌|✔️|❌||
 
