@@ -43,16 +43,17 @@ Aelios can be done at a rate of 35 runs/hour.
 
 ## Making N-Meseta
 
-In the table below **Lvl** refers to the level of enemies that appear in this method, **Boost** refers to whether or N-Meseta Earned boosts will increase the listed rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
+In the table below **Lvl** refers to the minimum level required to use the method and be effective, **Boost** refers to whether or N-Meseta Earned boosts will increase the listed rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
 
 |Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Lvl|Boost|Player Shop|Auto Sell|Notes|
 |:-----|:------------------:|:-:|:-------:|:-----------:|:-------:|:---|
 |[Recurring Tasks](#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
 |[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil N-meseta, obtainable once per account. Rate is a very rough estimate.|
-|[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|20|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
-|[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k - 330k|35|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
+|[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|25|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
+|[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k - 330k|40|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
 |[Dreisen Plant Recon Gigants](#dreisen-plant-giga-recon)||?|❌|✔️|❌||
-|[Purple Triggers](#purple-triggers)||74|❌|✔️|❌||
+|(Geo Lab Rank 2)(#geo-lab-rank-2)||70|❌|✔️|❌|Geo Lab Rank 2 can be done at level 65, but most parties will include level 70 players.|
+|[Purple Triggers](#purple-triggers)||70|❌|✔️|❌||
 
 ### Recurring Tasks
 
@@ -92,8 +93,6 @@ Don't forget to use any boost items like N-Meseta Earned, Triboosts, and Rappy-S
 
 You'll also earn around 1 million EXP/hour.
 
-### Dreisen Plant Gigant Recon
-
 ### Aelio Yellow Rank 2
 
 **Rate (buying Yellow Triggers):** 740,000 to 1.4 million N-Meseta/hour <br />
@@ -109,7 +108,11 @@ Aelio's Yellow Triggers can be done at a rate of 30 to 35 runs/hour with a party
 
 If Stia's Yellow Triggers get a Rank 2, expect that quest to replace Aelio's as the go to quest for this method.
 
+### Dreisen Plant Gigant Recon
+
 ### Purple Triggers
+
+### Geo Lab Rank 2
 
 
 
