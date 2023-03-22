@@ -4,13 +4,13 @@
 
 ### Making N-Meseta
 |Method|Rate (N-Meseta/hour)|Boostable|Requires Player Shop|Requires Auto Sell|Notes|
-|:-----|:------------------:|:-------:|:-----------:|:-------:|:---:|
-|Daily Gathering, Weekly Tasks, Alliance Tasks|510k - 1mil|❌|❌|❌|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
+|:-----|:------------------:|:-------:|:-----------:|:-------:|:---|
+|[Recurring Tasks](#recurring-tasks)|510k - 1mil|❌|❌|❌|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
 |Red Boxes|300k|❌|❌|❌|Red Boxes contain about 2mil N-meseta, obtainable once per account. Rate is a very rough estimate.|
-|Battledia Yellow: Aelio Troopers Rank 2|740k - 1.5mil|❌|✔️|❌|You must sell a great deal of non-stackable items on the Player Shop. You also gain 8mil to 10mil EXP/hour.|
-|Retem Alnothe Rank 1 - 3|270k - 330k|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Use zonde or talis spread shot to quickly defeat many enemies.|
-|Stia Dreisen Plant Gigantix Recon||❌|✔️|❌||
-|Geometric Lab Rank 2||❌|✔️|❌||
+|Aelio Yellow Rank 2|740k - 1.5mil|❌|✔️|❌|You must sell a great deal of non-stackable items on the Player Shop. You also gain 8mil to 10mil EXP/hour.|
+|Retem Alnothe Rank 1|270k - 330k|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Use zonde or talis spread shot to quickly defeat many enemies.|
+|Dreisen Plant Giga Recon||❌|✔️|❌||
+|Purple Triggers||❌|✔️|❌||
 
 
 
@@ -56,7 +56,7 @@ Aelios can be done at a rate of 35 runs/hour.
 
 ## Making N-Meseta
 
-### Daily Gathering, Weekly Tasks, and Alliance Tasks
+### Recurring Tasks
 
 **Rate:** 1.8 million N-meseta/week (500,000 N-meseta/hour)
 
@@ -78,7 +78,7 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 - [ARKS-Visiphone map guide](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Collectables)
 - [RPGSite's guide with images](https://www.rpgsite.net/feature/12946-phantasy-star-online-2-new-genesis-all-red-item-container-locations-kvaris-region)
 
-### Combat Zones
+### Retem Alnothe Rank 1
 
 **Rate (not boosted):** 270,000 N-Meseta/hour <br />
 
@@ -94,9 +94,9 @@ Don't forget to use any boost items like N-Meseta Earned, Triboosts, and Rappy-S
 
 You'll also earn around 1 million EXP/hour.
 
-### Exploration Zones
+### Dreisen Plant Giga Recon
 
-### Yellow Triggers and the Troopers Quests
+### Aelio Yellow Rank 2
 
 **Rate (buying Yellow Triggers):** 740,000 to 1.4 million N-Meseta/hour <br />
 **Rate (not buying Yellow Triggers):** 840,000 to 1.5 million N-Meseta/hour
@@ -111,7 +111,7 @@ Aelio's Yellow Triggers can be done at a rate of 30 to 35 runs/hour with a party
 
 If Stia's Yellow Triggers get a Rank 2, expect that quest to replace Aelio's as the go to quest for this method.
 
-### Purple Triggers and the Devastators Quests
+### Purple Triggers
 
 
 
