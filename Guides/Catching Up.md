@@ -77,6 +77,21 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 - [ARKS-Visiphone map guide](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Collectables)
 - [RPGSite's guide with images](https://www.rpgsite.net/feature/12946-phantasy-star-online-2-new-genesis-all-red-item-container-locations-kvaris-region)
 
+### Aelio Yellow Rank 2
+
+**Rate (buying Yellow Triggers):** 740,000 to 1.4 million N-Meseta/hour <br />
+**Rate (not buying Yellow Triggers):** 840,000 to 1.5 million N-Meseta/hour
+
+**Warning:** This method requires selling a great deal of items on the Personal Shop, which is limited to 30 items at a time.
+
+The Battledia Yellows, Aelio Troopers and Retem Troopers, both drop Gold Primm Sword +30 and Gold Primm Armor +30 as well as the Domina for that region. The sword can sell on the personal shop for 15,000 to 25,000 N-Meseta and the armor for 3,000 to 9,000 N-Meseta depending on demand. Ael Dominas sell for 13,000 to 15,000 N-Meseta. Meaning you can earn 27,900 to 41,700 N-Meseta each run, accounting for the seller's fee on the personal shop.
+
+If you must buy the Yellow Triggers, which cost 1,000 to 2,000 N-Meseta each, you'll end up paying 1,250 N-Meseta to 2,500 N-Meseta a run if the cost is split between a party of 4. Thus you can earn 24,800 to 40,450 N-Meseta per run if you must buy the Yellow Triggers.
+
+Aelio's Yellow Triggers can be done at a rate of 30 to 35 runs/hour with a party of 4, netting you the above rates. In adition you'll receive 8 million to 10 million experience an hour (boostable).
+
+If Stia's Yellow Triggers get a Rank 2, expect that quest to replace Aelio's as the go to quest for this method.
+
 ### Retem Alnothe Rank 1
 
 **Rate (not boosted):** 270,000 N-Meseta/hour <br />
@@ -92,21 +107,6 @@ Because of the speed at which enemies are defeated you'll need to have Auto Sell
 Don't forget to use any boost items like N-Meseta Earned, Triboosts, and Rappy-Shaped Fritters to increase the amount of N-Meseta earned. If you have premium a Food Boost will also grant you an N-Meseta earned boost.
 
 You'll also earn around 1 million EXP/hour.
-
-### Aelio Yellow Rank 2
-
-**Rate (buying Yellow Triggers):** 740,000 to 1.4 million N-Meseta/hour <br />
-**Rate (not buying Yellow Triggers):** 840,000 to 1.5 million N-Meseta/hour
-
-**Warning:** This method requires selling a great deal of items on the Personal Shop, which is limited to 30 items at a time.
-
-The Battledia Yellows, Aelio Troopers and Retem Troopers, both drop Gold Primm Sword +30 and Gold Primm Armor +30 as well as the Domina for that region. The sword can sell on the personal shop for 15,000 to 25,000 N-Meseta and the armor for 3,000 to 9,000 N-Meseta depending on demand. Ael Dominas sell for 13,000 to 15,000 N-Meseta. Meaning you can earn 27,900 to 41,700 N-Meseta each run, accounting for the seller's fee on the personal shop.
-
-If you must buy the Yellow Triggers, which cost 1,000 to 2,000 N-Meseta each, you'll end up paying 1,250 N-Meseta to 2,500 N-Meseta a run if the cost is split between a party of 4. Thus you can earn 24,800 to 40,450 N-Meseta per run if you must buy the Yellow Triggers.
-
-Aelio's Yellow Triggers can be done at a rate of 30 to 35 runs/hour with a party of 4, netting you the above rates. In adition you'll receive 8 million to 10 million experience an hour (boostable).
-
-If Stia's Yellow Triggers get a Rank 2, expect that quest to replace Aelio's as the go to quest for this method.
 
 ### Dreisen Plant Gigant Recon
 
