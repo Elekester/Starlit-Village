@@ -157,6 +157,10 @@ After potency, the next most important statistic is probably Potency Floor. You 
 
 For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 N-meseta each. The below augments can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons.
 
+Once you obtain your high level armor and weapons consider investing in either budget or Best in Slot gear.
+
+#### Ultra Budget Augments
+
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
 |Might IV|Precision IV|Technique IV|
@@ -165,11 +169,25 @@ For your low level armor and weapons, I suggest staying as budget as possible. Y
 |Alts Secreta II or III|Alts Secreta II or III|Alts Secreta II or III|
 |Melra/Meltech Dualble II or III|Melra/Ratech Dualble II or III|Meltech/Ratech Dualble II or III|
 
-- Stat IV
-- Boss Soul III or Boss Soul IV
-- Gigas Stat II or Gigas Stat III
-- Alts Secreta II or Alts Secreta III
-- Triplble, Stat Dualble II or III
+#### Budget Augments
+
+|Melee Weapon|Ranged Weapon|Tech Weapon|
+|:----|:--------|:-------|
+|Might IV|Precision IV|Technique IV|
+|Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
+|Gigas Might II or III|Gigas Precision II or III|Gigas Technique II or III|
+|Alts Secreta II or III|Alts Secreta II or III|Alts Secreta II or III|
+|Melra/Meltech Dualble II or III|Melra/Ratech Dualble II or III|Meltech/Ratech Dualble II or III|
+
+#### Best in Slot Augments
+
+|Melee Weapon|Ranged Weapon|Tech Weapon|
+|:----|:--------|:-------|
+|Might IV|Precision IV|Technique IV|
+|Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
+|Gigas Might II or III|Gigas Precision II or III|Gigas Technique II or III|
+|Alts Secreta II or III|Alts Secreta II or III|Alts Secreta II or III|
+|Melra/Meltech Dualble II or III|Melra/Ratech Dualble II or III|Meltech/Ratech Dualble II or III|
 
 ### Fixa
 
