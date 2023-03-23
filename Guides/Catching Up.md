@@ -158,7 +158,7 @@ After potency, the next most important statistic is probably Potency Floor. You 
 For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 N-meseta each. The below augments can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons.
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
-|:----|:--------|:=-------|
+|:----|:--------|:-------|
 |Might IV|Precision IV|Technique IV|
 |Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
 |Gigas Might II or III|Gigas Precision II or III|Gigas Technique II or III|
