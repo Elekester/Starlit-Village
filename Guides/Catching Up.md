@@ -170,7 +170,7 @@ The costs listed below are the costs to augment a single weapon or armor using o
 |Might IV|Precision IV|Technique IV|
 |Gigas Might II or III|Gigas Precision II or III|Gigas Technique II or III|
 |Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
-|Alts Secreta II or III*|Alts Secreta II or III*|0Alts Secreta II or III*|
+|Alts Secreta II or III*|Alts Secreta II or III*|Alts Secreta II or III*|
 
 * If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
