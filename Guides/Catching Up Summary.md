@@ -4,6 +4,15 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 
 
 
+## Table of Contents
+- [Getting Ready Checklist](#getting-ready-checklist)
+- [Leveling Up](#leveling-up)
+- [Making N-Meseta](#making-n-meseta)
+- [Raising Your Battle Power](#raising-your-battle-power)
+- [Upgrading Your Gear](#upgrading-your-gear)
+
+
+
 ## Getting Ready Checklist
 
 |Goals|
@@ -23,14 +32,6 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 |☐&emsp;Reach Level 70 in other classes you enjoy|
 |**☐&emsp;Gather augments and gear for Slayer, which appears to be a Ranged Class**|
 |☐&emsp;Update your Phashion and add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear|
-
-
-
-## Table of Contents
-- [Leveling Up](#leveling-up)
-- [Making N-Meseta](#making-n-meseta)
-- [Raising Your Battle Power](#raising-your-battle-power)
-- [Upgrading Your Gear](#upgrading-your-gear)
 
 
 
