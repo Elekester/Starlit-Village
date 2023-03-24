@@ -199,7 +199,7 @@ The costs listed below are the costs to augment a single weapon or armor using o
 |Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
 |Alts Secreta II or III*|Alts Secreta II or III*|Alts Secreta II or III*|
 
-* If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
+\* If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
 #### Budget Augments
 
@@ -214,7 +214,7 @@ The costs listed below are the costs to augment a single weapon or armor using o
 |Daityl/Dust/Frostyl/Freid Soul IV|Pettas/Ragras/Crocys/Doldor Soul IV|Nex/Renus/Ams/Nils Soul IV|
 |Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
-* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
+\* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
 #### Best in Slot Augments
 
@@ -229,7 +229,7 @@ The costs listed below are the costs to augment a single weapon or armor using o
 |Gigas Might IV or Daityl/Dust/Frostyl/Freid Soul IV|Gigas Precision IV Pettas/Ragras/Crocys/Doldor Soul IV|Gigas Technique IV Nex/Renus/Ams/Nils Soul IV|
 |Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
-* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use both a Gigas augment and a Soul augment instead.
+\* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use both a Gigas augment and a Soul augment instead.
 
 ### Fixa
 
