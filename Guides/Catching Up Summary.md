@@ -1,4 +1,4 @@
-# Getting Ready for Slayer
+# Getting Ready for Slayer Summary
 
 You can see the full guide [here](Catching%20Up.md).
 
