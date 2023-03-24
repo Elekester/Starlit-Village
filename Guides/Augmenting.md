@@ -16,7 +16,7 @@ The downside of 1 capsule Augmenting is the massive varianc it introduces. While
 
 \* Averages and Standard Deviations were calculated using the geometric distribution. The probability was calculated using simulations.
 
-```(python)
+```python3
 from random import random
 from math import sqrt
 
