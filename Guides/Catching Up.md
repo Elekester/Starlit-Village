@@ -18,21 +18,23 @@ This page has a [Summary](Catching%20Up%20Summary.md).
 
 |Goals|
 |:---|
-|☐&emsp;Augment your Renaissa or other low-level gear with [Ultra Budget Augments](#ultra-budget-augments)|
-|☐&emsp;**Complete Chapter 1 of the Main Story in Aelio**|
+|☐&emsp;Start augmenting your Renaissa or other low-level gear with [Ultra Budget Augments](#ultra-budget-augments). You do not need to finish this now, just add more augments as you earn N-meseta.|
+|☐&emsp;**Complete Chapter 1 of the Main Story in Aelio.**|
 |☐&emsp;Complete Aelio Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Complete Chapter 2 of the Main Story in Retem**|
+|☐&emsp;**Complete Chapter 2 of the Main Story in Retem.**|
 |☐&emsp;Complete Retem Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Complete Chapter 3 of the Main Story in Kvaris**|
+|☐&emsp;**Complete Chapter 3 of the Main Story in Kvaris.**|
 |☐&emsp;Complete Kvaris Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Complete Chapter 4 of the Main Story in Stia**|
+|☐&emsp;**Complete Chapter 4 of the Main Story in Stia.**|
 |☐&emsp;Complete Stia Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Reach Level 70 in your first class**|
-|☐&emsp;Add [Budget Augments](#budget-augments) to your endgame gear|
-|☐&emsp;**Find rare items, make N-Meseta, and enjoy the endgame**|
-|☐&emsp;Reach Level 70 in other classes you enjoy|
-|**☐&emsp;Gather augments and gear for Slayer, which appears to be a Ranged Class**|
-|☐&emsp;Update your Phashion and add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear|
+|☐&emsp;**Reach Level 70 in your first class.**|
+|☐&emsp;Add [Budget Augments](#budget-augments) to your endgame gear.|
+|☐&emsp;**Find rare items, make N-Meseta, and enjoy the endgame.**|
+|☐&emsp;Generate Add-On Skills for your first class.|
+|☐&emsp;**Reach Level 70 in other classes you enjoy.**|
+|☐&emsp;Generate Add-On Skills for your other classes.|
+|☐&emsp;**Gather augments and gear for Slayer, which appears to be a Ranged Class.**|
+|☐&emsp;Update your Phashion and add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear.|
 
 
 
@@ -237,9 +239,9 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 #### Ultra Budget Augments
 
-**Method 1 Cost:** 58k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Method 2 Cost:** 30k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Stats:**  +10.67% in one potency, +1.5% potency floor, some HP and PP
+**Method 1 Cost:** 53k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
+**Method 2 Cost:** 27k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
+**Stats:**  +10.67% in one potency, +1.5% potency floor, some HP and PP, +32 BP
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
@@ -255,7 +257,7 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 **Method 1 Cost:** 1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Method 2 Cost:** 860k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Stats**: +13.7% in one potency, +4.0% potency floor, some HP and PP
+**Stats**: +13.7% in one potency, +4.0% potency floor, some HP and PP, +45 BP
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
@@ -271,7 +273,7 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 **Method 1 Cost:** 35mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Method 2 Cost:** 20mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Stats**: +15.9% in one potency, +12.5% in a second potency, +9.26% in a third potency, +8.0% potency floor, some HP and PP
+**Stats**: +15.9% in one potency, +12.5% in a second potency, +9.26% in a third potency, +8.0% potency floor, some HP and PP, +54 BP
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
