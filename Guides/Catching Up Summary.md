@@ -25,11 +25,11 @@ In the table below **Lvl** refers to the minimum level required to use the metho
 
 ### Level
 
-Every level is worth between 10 BP at low levels and 30 BP at high levels.
+Every level is worth between 10 BP at low levels and 30 BP at high levels. At the level cap you'll have around 2100 BP from level alone.
 
 ### Skill Points
 
-Skill Points earn you 3 BP per skill point spent on your Main or Subclass skill tree. There are currently 47
+Skill Points earn you 3 BP per skill point spent on your Main or Subclass skill tree, so that each skill point is worth 6 BP. There is currently 47 skill points available from completing Cocoons and Towers. That's worth a total of 282 BP.
 
 ### Armor and Weapons
 
