@@ -56,9 +56,6 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 #### Ultra Budget Augments
 
-**Method 1 Cost:** 53k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Method 2 Cost:** 27k ![N-Meseta](/Images/NGSUIMSTIcon.png)
-
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
 |Melra/Meltech Dualble II or III|Melra/Ratech Dualble II or III|Meltech/Ratech Dualble II or III|
@@ -69,10 +66,10 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 * If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
-#### Budget Augments
+**Method 1 Cost:** 53k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
+**Method 2 Cost:** 27k ![N-Meseta](/Images/NGSUIMSTIcon.png)
 
-**Method 1 Cost:** 1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Method 2 Cost:** 860k ![N-Meseta](/Images/NGSUIMSTIcon.png)
+#### Budget Augments
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
@@ -84,10 +81,10 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 * If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
-#### Best in Slot Augments
+**Method 1 Cost:** 1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
+**Method 2 Cost:** 860k ![N-Meseta](/Images/NGSUIMSTIcon.png)
 
-**Method 1 Cost:** 35mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Method 2 Cost:** 20mil ![N-Meseta](/Images/NGSUIMSTIcon.png)
+#### Best in Slot Augments
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
@@ -98,6 +95,9 @@ The costs listed below are the costs to augment a single weapon or armor using o
 |Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
 * If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use both a Gigas augment and a Soul augment instead.
+
+**Method 1 Cost:** 35mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
+**Method 2 Cost:** 20mil ![N-Meseta](/Images/NGSUIMSTIcon.png)
 
 ### Fixa
 
