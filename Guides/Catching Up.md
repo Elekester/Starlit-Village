@@ -45,9 +45,9 @@ Aelios can be done at a rate of 35 runs/hour.
 
 ## Making N-Meseta
 
-In the table below **Lvl** refers to the minimum level required to use the method and be effective, **Boost** refers to whether or N-Meseta Earned boosts will increase the listed rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
+In the table below **Lv** refers to the minimum level required to use the method and be effective, **Boost** refers to whether or N-Meseta Earned boosts will increase the listed rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
 
-|Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Lvl|Boost|Player Shop|Auto Sell|Notes|
+|Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Lv|Boost|Player Shop|Auto Sell|Notes|
 |:-----|:------------------:|:-:|:-------:|:-----------:|:-------:|:---|
 |[Recurring Tasks](#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/week. Takes 15 minutes to 30 minutes daily to complete.|
 |[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil ![N-Meseta](/Images/NGSUIMSTIcon.png), obtainable once per account. Rate is a very rough estimate.|
@@ -167,7 +167,7 @@ There are two different paths you can take for armor upgrades. Most Armor is def
 Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Eclaireur Armor provides a slightly higher boost to potency at the cost of -5% Damage Resist. Ajax Armor has slightly more defense, provides +30 HP, +5 PP, and +1% Damage Resist. The Eclaireur Armor is technically best in slot, but both armors are good.
 
 #### Common Defensive Armors
-|Name|Lvl|Potency|Notes|
+|Name|Lv|Potency|Notes|
 |:---|:-:|:------|:----|
 |Renaissa Armor|1|+1% to all potencies|This armor could last you until the endgame.|
 |Qual De Armor Arga/Belta/Sheza|12|+1% to two potencies|-|
@@ -180,7 +180,7 @@ Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Ecl
 |Ajax Armor|70|+3.5% to all potencies|Endgame armor.|
 
 #### Gigantix Armors
-|Name|Lvl|Potency|Notes|
+|Name|Lv|Potency|Notes|
 |:---|:-:|:------|:----|
 |Geant Armor|15|+2% to all potencies|-|
 |Greas Armor|31|+2% to all potencies|Provides more PP and defense than Geant armor at the cost of HP.|
