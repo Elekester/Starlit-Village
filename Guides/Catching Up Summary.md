@@ -21,6 +21,7 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 |☐&emsp;Add [Budget Augments](#budget-augments) to your endgame gear|
 |☐&emsp;**Find rare items, make N-Meseta, and enjoy the endgame**|
 |☐&emsp;Reach Level 70 in other classes you enjoy|
+|**☐&emsp;Gather augments and gear for Slayer, which appears to be a Ranged Class**|
 |☐&emsp;Update your Phashion and add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear|
 
 
