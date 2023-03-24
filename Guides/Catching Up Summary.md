@@ -73,6 +73,8 @@ Skill Points earn you 3 BP per skill point spent on your Main or Subclass skill 
 |Kvaris|6|1|10|60|
 |Stia|3|1|7|42|
 
+See the [Cocoons and Towers Page on the Arks-Visiphone](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Cocoons_and_Towers) for more detailed information on the cocoons and towers.
+
 ### Armor and Weapons
 
 Armor and Weapons directly contribute to BP through their Attack and Defense stats. Each augment adds 3 to 13 BP, with around 6-8 for most budget augments.
