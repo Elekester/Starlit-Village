@@ -64,6 +64,13 @@ Every level is worth between 10 BP at low levels and 30 BP at high levels. At th
 
 Skill Points earn you 3 BP per skill point spent on your Main or Subclass skill tree, so that each skill point is worth 6 BP. There is currently 47 skill points available from completing Cocoons and Towers. That's worth a total of 282 BP.
 
+|Region|Cocoons|Towers|Skill Points|BP|
+|:-----|:-----:|:----:|:----------------:|:-:|
+|Aelio|8|3|20|120|
+|Retem|6|1|10|60|
+|Kvaris|6|1|10|60|
+|Stia|3|1|7|42|
+
 ### Armor and Weapons
 
 Armor and Weapons directly contribute to BP through their Attack and Defense stats. Each augment adds 3 to 13 BP, with around 6-8 for most budget augments.
