@@ -54,7 +54,7 @@ In the table below **Lvl** refers to the minimum level required to use the metho
 |[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|25|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
 |[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k - 330k|40|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
 |[Dreisen Plant Recon Gigants](#dreisen-plant-giga-recon)||70|❌|✔️|❌||
-|[Geo Lab Rank 2](#geo-lab-rank-2)|800k|70|❌|✔️|❌|Geo Lab Rank 2 can be done at level 65, but most parties will include level 70 players. Higher ranks drop better and rewards. There's a few Challenge Settings you can use to get the S rank. For this rate I used Enemy Max HP +25%, Enemy Attack +300% and the highest level Restasigne Consumption and Decreased Max Carry Limit of Signe Items.|
+|[Geo Lab Rank 2](#geo-lab-rank-2)|800k|70|❌|✔️|❌|Geo Lab Rank 2 can be done at level 65, but most parties will include level 70 players. Higher ranks drop better and rewards. There's a few easy Challenge Settings you can use to get the S rank.|
 |[Purple Triggers](#purple-triggers)||70|❌|✔️|❌||
 
 ### Recurring Tasks
@@ -114,6 +114,18 @@ You'll also earn around 1 million EXP/hour.
 ### Dreisen Plant Gigant Recon
 
 ### Geo Lab Rank 2
+
+The Trinitas in Central Retem, also known as the Geometric Laboratory, has generous augment drops when you achieve A and S scores in Rank 2. The most valuable drops are the regional Domina augments, but Alts Secretas, Dread Keepers, the Gigas Stat IIIs, and the Boss Soul IVs are also worth selling. In order to achieve an S rank you need to apply some of the Challenge Settings, but you don't need to apply them all. Below are two good options. Option 1 is faster and option 2 is easier.
+
+#### Challenge Settings
+
+|Option 1|Option 2|
+|:-------|:-------|
+|Enemy Max HP +25%|Enemy Max HP +200%|
+|Enemy Attack +300%|Enemy Attack +300%|
+|Increase Restasigne Consumption: Lv. 5|Increase Restasigne Consumption: Lv. 5|
+|Decreased Max Carry Limit of Signe Items: Lv. 4|Decreased Max Carry Limit of Signe Items: Lv. 4|
+||Enemy Level Down: -10 Levels|
 
 ### Purple Triggers
 
