@@ -152,8 +152,8 @@ Aside from Renaissa armor you can obtain all your gear from the Player Shop for 
 #### Defensive Armor
 |Name|Lvl|Potency|Notes|
 |:---|:-:|:------|:----|
-|Renaissa Armor|1||+1% to all potencies|This armor could last you until the endgame.|
-|Qual De Armor Arga/Belta/Sheza|12||+1% to two potencies|-|
+|Renaissa Armor|1|+1% to all potencies|This armor could last you until the endgame.|
+|Qual De Armor Arga/Belta/Sheza|12|+1% to two potencies|-|
 |Vios Armor|24|+1% to all potencies|-|
 |Schwarzest/Schwarzgarde/Schwarzrosso Armor|31|+2% to one potency|-|
 |Defrozzis Armor|42|+2% to all potencies|-|
