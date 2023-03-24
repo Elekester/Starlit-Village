@@ -4,6 +4,20 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 
 
 
+## Getting Ready Checklist
+
+|⬜|Augment your Renaissa or other low-level gear|
+|⬜|Finish the Main Story|
+|⬜|Do the Cocoons and Towers of each region. Make sure to spend those Skill Points!|
+|⬜|Reach Level 70 in your first class|
+|⬜|Start upgrading to endgame gear|
+|⬜|Add Budget Augments to your endgame gear|
+|⬜|Reach Level 70 in other classes you enjoy|
+|⬜|Phashion|
+|⬜|Add Best In Slot Augments to your endgame gear|
+
+
+
 ## Table of Contents
 - [Leveling Up](#leveling-up)
 - [Making N-Meseta](#making-n-meseta)
