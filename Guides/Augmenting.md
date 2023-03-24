@@ -8,6 +8,10 @@ If you have even just a +5% Augmentation Success Rate Boost from an event or ite
 
 The savings increase if you have greater boosts or if your attempting to add augments with lower success rates. By just spending a +10% Augmentation Success Rate Boost you'll save 61% of your capsules on average when attempting to add a Halphinale augment for example.
 
+**However**, we've ignored the variance introduced by the second method.
+
 ## Supporting Data
 
 ![Supporting Data](/Images/Augmenting_Method_Stats.png)
+
+\* The probability was calculated treating the two distributions as normal distributions with
