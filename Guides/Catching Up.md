@@ -52,9 +52,9 @@ In the table below **Lvl** refers to the minimum level required to use the metho
 |[Recurring Tasks](#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/week. Takes 15 minutes to 30 minutes daily to complete.|
 |[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil ![N-Meseta](/Images/NGSUIMSTIcon.png), obtainable once per account. Rate is a very rough estimate.|
 |[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|25|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
+|[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k|40|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
 |[Geo Lab Rank 2](#geo-lab-rank-2)|800k|70|❌|✔️|❌|Geo Lab Rank 2 can be done at level 65, but most parties will include level 70 players. Higher ranks drop better and rewards. There's a few easy Challenge Settings you can use to get the S rank.|
 |[Purple Triggers](#purple-triggers)||70|❌|✔️|❌||
-|[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k|40|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
 
 ### Recurring Tasks
 
@@ -94,6 +94,22 @@ Aelio's Yellow Triggers can be done at a rate of 30 to 35 runs/hour with a party
 
 If Stia's Yellow Triggers get a Rank 2, expect that quest to replace Aelio's as the go to quest for this method.
 
+### Retem Alnothe Rank 1
+
+**Rate (not boosted):** 270,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
+
+Enemies drop N-Meseta and items that can be converted into N-Meseta when defeated and so Combat Zones are a valid way of making N-Meseta. Since other enemy drops aren't as valuable, its best to simply defeat low level enemies. Due to its small size and low enemy levels, Retem Alnothe is the best combat zone for this purpose. Since enemy level does not significantly affect the N-Meseta received, a low rank combat zone is actually better than a high rank combat zone, so Retem Alnothe Rank 1 is the best choice.
+
+The general strategy is to ignore the enemy or trial markers and to spread out over the combat zone while using a class that can cast techniques as a main or subclass. Use the Zonde to defeat as many enemies as possible until a trial appears while you have 4 PSE bars at which point you defeat the trial and trigger a PSE Burst. Use either Zonde or a talis' Spread Shot mode to defeat the enemies spawned. When the boss appears, if there is a chance for a PSE Encore stay and defeat it, otherwise have one person stay to defeat it while everyone else leasves to defeat normal enemies.
+
+This strategy is best performed with eight players that agree to use it, but it can be done in public rooms as well. If you do it in public rooms, do not expect others to follow the strategy and do not try to force others to follow the strategy.
+
+Because of the speed at which enemies are defeated you'll need to have Auto Sell on using either Premium or an Auto Sell pass if you don't want to waste significant time clearing your interval every few minutes.
+
+Don't forget to use any boost items like N-Meseta Earned, Triboosts, and Rappy-Shaped Fritters to increase the amount of N-Meseta earned. If you have premium a Food Boost will also grant you an N-Meseta earned boost.
+
+You'll also earn around 1 million EXP/hour.
+
 ### Geo Lab Rank 2
 
 **Rate (not boosted):** 800,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
@@ -113,22 +129,6 @@ Don't forget to sell your rewards on the Personal Shop.
 |-|Enemy Level Down: -10 Levels|
 
 ### Purple Triggers
-
-### Retem Alnothe Rank 1
-
-**Rate (not boosted):** 270,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
-
-Enemies drop N-Meseta and items that can be converted into N-Meseta when defeated and so Combat Zones are a valid way of making N-Meseta. Since other enemy drops aren't as valuable, its best to simply defeat low level enemies. Due to its small size and low enemy levels, Retem Alnothe is the best combat zone for this purpose. Since enemy level does not significantly affect the N-Meseta received, a low rank combat zone is actually better than a high rank combat zone, so Retem Alnothe Rank 1 is the best choice.
-
-The general strategy is to ignore the enemy or trial markers and to spread out over the combat zone while using a class that can cast techniques as a main or subclass. Use the Zonde to defeat as many enemies as possible until a trial appears while you have 4 PSE bars at which point you defeat the trial and trigger a PSE Burst. Use either Zonde or a talis' Spread Shot mode to defeat the enemies spawned. When the boss appears, if there is a chance for a PSE Encore stay and defeat it, otherwise have one person stay to defeat it while everyone else leasves to defeat normal enemies.
-
-This strategy is best performed with eight players that agree to use it, but it can be done in public rooms as well. If you do it in public rooms, do not expect others to follow the strategy and do not try to force others to follow the strategy.
-
-Because of the speed at which enemies are defeated you'll need to have Auto Sell on using either Premium or an Auto Sell pass if you don't want to waste significant time clearing your interval every few minutes.
-
-Don't forget to use any boost items like N-Meseta Earned, Triboosts, and Rappy-Shaped Fritters to increase the amount of N-Meseta earned. If you have premium a Food Boost will also grant you an N-Meseta earned boost.
-
-You'll also earn around 1 million EXP/hour.
 
 
 
