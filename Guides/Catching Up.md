@@ -4,6 +4,16 @@ This page has a [Summary](Catching%20Up%20Summary.md).
 
 
 
+## Table of Contents
+- [Getting Ready Checklist](#getting-ready-checklist)
+- [Leveling Up](#leveling-up)
+- [Making N-Meseta](#making-n-meseta)
+- [Raising Your Battle Power](#raising-your-battle-power)
+- [Upgrading Your Gear](#upgrading-your-gear)
+- [Appendix A: The Tutorial and Getting Out of Aelio](#appendix-a-the-tutorial-and-getting-out-of-aelio)
+
+
+
 ## Getting Ready Checklist
 
 |Goals|
@@ -23,15 +33,6 @@ This page has a [Summary](Catching%20Up%20Summary.md).
 |☐&emsp;Reach Level 70 in other classes you enjoy|
 |**☐&emsp;Gather augments and gear for Slayer, which appears to be a Ranged Class**|
 |☐&emsp;Update your Phashion and add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear|
-
-
-
-## Table of Contents
-- [Leveling Up](#leveling-up)
-- [Making N-Meseta](#making-n-meseta)
-- [Raising Your Battle Power](#raising-your-battle-power)
-- [Upgrading Your Gear](#upgrading-your-gear)
-- [Appendix A: The Tutorial and Getting Out of Aelio](#appendix-a-the-tutorial-and-getting-out-of-aelio)
 
 
 
