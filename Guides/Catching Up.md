@@ -1,5 +1,7 @@
 # Getting Ready for Slayer Full Guide
 
+This page has a [Summary](Catching%20Up%20Summary.md).
+
 
 
 ## Table of Contents
