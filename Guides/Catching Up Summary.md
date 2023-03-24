@@ -8,9 +8,9 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 
 ## Making N-Meseta
 
-In the table below **Lvl** refers to the minimum level required to use the method and be effective, **Boost** refers to whether or N-Meseta Earned boosts will increase the listed rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
+In the table below **Lv** refers to the minimum level required to use the method and be effective, **Boost** refers to whether or N-Meseta Earned boosts will increase the listed rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
 
-|Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Lvl|Boost|Player Shop|Auto Sell|Notes|
+|Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Lv|Boost|Player Shop|Auto Sell|Notes|
 |:-----|:------------------:|:-:|:-------:|:-----------:|:-------:|:---|
 |[Recurring Tasks](Catching%20Up.md#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/week. Takes 15 minutes to 30 minutes daily to complete.|
 |[Red Boxes](Catching%20Up.md#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil ![N-Meseta](/Images/NGSUIMSTIcon.png), obtainable once per account. Rate is a very rough estimate.|
