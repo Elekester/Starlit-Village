@@ -50,6 +50,8 @@ Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Ecl
 
 Make sure to augment your gear.
 
+### Augmenting
+
 #### Ultra Budget Augments
 
 **Method 1 Cost:** 53k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
