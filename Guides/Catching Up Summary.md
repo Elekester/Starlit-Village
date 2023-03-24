@@ -6,7 +6,7 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 
 ## Getting Ready Checklist
 
-|Goal|
+|Goals|
 |:---|
 |Augment your Renaissa or other low-level gear with [Ultra Budget Augments](#ultra-budget-augments)|
 |**Complete Chapter 1 of the Main Story in Aelio**|
