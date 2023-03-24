@@ -149,6 +149,8 @@ The Renaissa Armor you received or whatever high level armor you have will work 
 
 There are two different paths you can take for armor upgrades. Most Armor is defensive in nature, providing small HP, PP, and potency boosts and a large defense. The Gigantix enemies of each region drop their own series of armor which trades some defense, HP, and damage resistance for more potency. The Gigantix armor is best in slot, but you should feel comfortable using other armor, as the potency difference is small.
 
+Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Eclaireur Armor provides a slightly higher boost to potency at the cost of -5% Damage Resist. Ajax Armor has slightly more defense, provides +30 HP, +5 PP, and +1% Damage Resist. The Eclaireur Armor is technically best in slot, but both armors are good.
+
 #### Common Defensive Armors
 |Name|Lvl|Potency|Notes|
 |:---|:-:|:------|:----|
