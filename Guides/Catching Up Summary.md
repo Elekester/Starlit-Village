@@ -8,15 +8,15 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 
 |-|Task|
 |-|:---|
-|⬜|Augment your Renaissa or other low-level gear|
-|⬜|Finish the Main Story|
-|⬜|Do the Cocoons and Towers of each region. Make sure to spend those Skill Points!|
-|⬜|Reach Level 70 in your first class|
-|⬜|Start upgrading to endgame gear|
-|⬜|Add Budget Augments to your endgame gear|
-|⬜|Reach Level 70 in other classes you enjoy|
-|⬜|Phashion|
-|⬜|Add Best In Slot Augments to your endgame gear|
+|<input type="checkbox">|Augment your Renaissa or other low-level gear|
+|<input type="checkbox">|Finish the Main Story|
+|<input type="checkbox">|Do the Cocoons and Towers of each region. Make sure to spend those Skill Points!|
+|<input type="checkbox">|Reach Level 70 in your first class|
+|<input type="checkbox">|Start upgrading to endgame gear|
+|<input type="checkbox">|Add Budget Augments to your endgame gear|
+|<input type="checkbox">|Reach Level 70 in other classes you enjoy|
+|<input type="checkbox">|Phashion|
+|<input type="checkbox">|Add Best In Slot Augments to your endgame gear|
 
 
 
