@@ -8,7 +8,7 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 
 |Goal|
 |:---|
-|Augment your Renaissa or other low-level gear|
+|Augment your Renaissa or other low-level gear with [Ultra Budget Augments](#ultra-budget-augments)|
 |**Complete Chapter 1 of the Main Story in Aelio**|
 |Complete Aelio Cocoons and Towers. Make sure to spend those Skill Points!|
 |**Complete Chapter 2 of the Main Story in Retem**|
@@ -18,11 +18,11 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 |**Complete Chapter 4 of the Main Story in Stia**|
 |Complete Stia Cocoons and Towers. Make sure to spend those Skill Points!|
 |**Reach Level 70 in your first class**|
-|**Add Budget Augments to your endgame gear**|
-|Reach Level 70 in other classes you enjoy|
+|Add [Budget Augments](#budget-augments) to your endgame gear|
 |**Find rare items, make N-Meseta, and enjoy the endgame**|
+|Reach Level 70 in other classes you enjoy|
 |The Real Endgame: Phashion|
-|Add Best In Slot Augments to your endgame gear|
+|Add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear|
 
 
 
