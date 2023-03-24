@@ -143,11 +143,13 @@ See [Upgrading Your Gear](#upgrading-your-gear) for more information.
 
 ## Upgrading Your Gear
 
-### Getting New Gear
+### Armor Upgrades
 
 There are two different paths you can take for armor upgrades. Most Armor is defensive in nature, providing small stat and potency boosts and large defense. The Gigantix enemies of each region drop their own series of armor which trades some defense and damage resistance for more potency. The Gigantix armor is best in slot, but you should feel comfortable using other armor, as the potency difference is small.
 
-Aside from Renaissa armor you can obtain all your gear from the Player Shop for relatively low prices.
+Aside from Renaissa armor you can obtain all your gear from the Player Shop for relatively low prices for unaffixed armor.
+
+The Renaissa Armor you received or whatever high level armor you have will work for you until you reach the endgame. The augments on your armor are more impactful and more costly to replace each time you upgrade.
 
 #### Defensive Armor
 |Name|Lvl|Potency|Notes|
@@ -167,7 +169,7 @@ Aside from Renaissa armor you can obtain all your gear from the Player Shop for 
 |:---|:-:|:------|:----|
 |Geant Armor|15|+2% to all potencies|-|
 |Behlgren Armor|52|+2.75% to all potencies|-|
-|Eclaireur Armor|65|+4% to all potencies|-|
+|Eclaireur Armor|65|+4% to all potencies|Endgame armor.|
 
 ### Item Enhancement and Limit Break
 
