@@ -155,37 +155,41 @@ As a rule of thumb, Potency is king. When deciding which augments to add to your
 
 After potency, the next most important statistic is probably Potency Floor. You might notice that the Renaissa weapon has a Damage Adjustment of 75.0% - 100.0%. This means that each attack does between 75% and 100% of your maximum damage. Potency Floor increases the minimum, but its multiplicative. So 10% Potency Floor would mean your new minimum would be 82.5%, this means that raw Potency Floor is almost never worth getting over raw Potency. But augments that give both Potency and Potency Floor are amazing.
 
-For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 N-meseta each. The **Ultra Budget Augments** can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons. Once you obtain your high level armor and weapons consider investing in either **Budget Augments** or **Best in Slot Augments**.
+For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 N-meseta each. The **Ultra Budget Augments** can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons. Once you obtain your high level armor and weapons consider augmenting towards the **Budget Augments** or the **Best in Slot Augments**.
 
 #### Ultra Budget Augments
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
-|Might IV|Precision IV|Technique IV|
-|Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
-|Gigas Might II or III|Gigas Precision II or III|Gigas Technique II or III|
-|Alts Secreta II or III|Alts Secreta II or III|Alts Secreta II or III|
 |Melra/Meltech Dualble II or III|Melra/Ratech Dualble II or III|Meltech/Ratech Dualble II or III|
+|Might IV|Precision IV|Technique IV|
+|Gigas Might II or III|Gigas Precision II or III|Gigas Technique II or III|
+|Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
+|Alts Secreta II or III|Alts Secreta II or III|Alts Secreta II or III|
 
-#### Budget Augments
+### Budget Augments
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
+|Mastery IV|Mastery IV|Mastery IV|
 |Might IV|Precision IV|Technique IV|
-|Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
-|Gigas Might II or III|Gigas Precision II or III|Gigas Technique II or III|
-|Alts Secreta II or III|Alts Secreta II or III|Alts Secreta II or III|
-|Melra/Meltech Dualble II or III|Melra/Ratech Dualble II or III|Meltech/Ratech Dualble II or III|
+|Gigas Might IV|Gigas Precision IV| Gigas Technique IV|
+|Daityl/Dust/Frostyl/Freid Soul IV|Pettas/Ragras/Crocys/Doldor Soul IV|Nex/Renus/Ams/Nils Soul IV|
+|Alts Secreta IV|Alts Secreta IV|Alts Secreta IV|Alts Secreta IV|
+
+* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, 
 
 #### Best in Slot Augments
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
-|Might IV|Precision IV|Technique IV|
-|Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
-|Gigas Might II or III|Gigas Precision II or III|Gigas Technique II or III|
-|Alts Secreta II or III|Alts Secreta II or III|Alts Secreta II or III|
-|Melra/Meltech Dualble II or III|Melra/Ratech Dualble II or III|Meltech/Ratech Dualble II or III|
+|Mastery IV|Mastery IV|Mastery IV|
+|Halphinale|Halphinale|Halphinale|
+|Addi Deftmelra/Deftmeltech|Addi Deftmelra/Deftratech|Addi Deftmeltech/Deftratech|
+|Gigas Might IV or Daityl/Dust/Frostyl/Freid Soul IV|Gigas Precision IV Pettas/Ragras/Crocys/Doldor Soul IV|Gigas Technique IV Nex/Renus/Ams/Nils Soul IV|
+|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
+
+* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use both a Gigas augment and a Soul augment.
 
 ### Fixa
 
