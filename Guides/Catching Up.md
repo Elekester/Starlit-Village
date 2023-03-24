@@ -117,6 +117,8 @@ You'll also earn around 1 million EXP/hour.
 
 The Trinitas in Central Retem, also known as the Geometric Laboratory, has generous augment drops when you achieve A and S scores in Rank 2. The most valuable drops are the regional Domina augments, but Alts Secretas, Dread Keepers, the Gigas Stat IIIs, and the Boss Soul IVs are also worth selling. In order to achieve an S rank you need to apply some of the Challenge Settings, but you don't need to apply them all. Below are two good options. Option 1 is faster and option 2 is easier.
 
+Don't forget to sell your rewards on the Personal Shop.
+
 #### Challenge Settings
 
 |Option 1|Option 2|
