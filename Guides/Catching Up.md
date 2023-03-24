@@ -125,7 +125,7 @@ The Trinitas in Central Retem, also known as the Geometric Laboratory, has gener
 |Enemy Attack +300%|Enemy Attack +300%|
 |Increase Restasigne Consumption: Lv. 5|Increase Restasigne Consumption: Lv. 5|
 |Decreased Max Carry Limit of Signe Items: Lv. 4|Decreased Max Carry Limit of Signe Items: Lv. 4|
-||Enemy Level Down: -10 Levels|
+|-|Enemy Level Down: -10 Levels|
 
 ### Purple Triggers
 
