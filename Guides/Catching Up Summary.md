@@ -6,6 +6,8 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 
 ## Getting Ready Checklist
 
+|||Task|
+|-|:---|
 |⬜|Augment your Renaissa or other low-level gear|
 |⬜|Finish the Main Story|
 |⬜|Do the Cocoons and Towers of each region. Make sure to spend those Skill Points!|
