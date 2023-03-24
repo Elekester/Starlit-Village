@@ -1,5 +1,7 @@
 # Optimizing Augment Capsule Use in PSO2: NGS
 
+When adding augments to your weapons and armor, it is more efficient to spend 1 capsule per augment than 10 capsules per augment if you have a boost to Augmentation Success Rate through an event or item. To make best use of the boost and your time you can still do separate augments simultaneously, just don't spend more than 1 capsule per augment type.
+
 ## The Two Methods
 
 When adding augments to your weapons and armor, you're provided with the option to use up to 10 capsules on an augment at once. The success rate of that augment is then the success rate of a single capsule times the number of capsules. That means you can save time and money by spending 10 capsules at once instead of trying to augment them one capsule at a time. On average you'll end up spending the same number of capsules, even accounting for failures. However, this is only true if your Augmentation Success Rate is not being boosted.
