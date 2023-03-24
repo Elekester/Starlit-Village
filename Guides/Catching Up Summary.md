@@ -46,7 +46,7 @@ You can also unlock a weapon's potential which grants 10 BP per level unlocked.
 
 Until the endgame, use whatever armor you have. The Renaissa Armor that you receive for free is good.
 
-Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Eclaireur Armor provides a slightly higher boost to potency at the cost of -5% Damage Resist. Ajax Armor has slightly more defense, provides +30 HP, +5 PP, and +1% Damage Resist. The Eclaireur Armor is technically best in slot, but both armors are great.
+Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Eclaireur Armor provides a slightly higher boost to potency at the cost of -5% Damage Resist. Ajax Armor has slightly more defense, provides +30 HP, +5 PP, and +1% Damage Resist. The Eclaireur Armor is technically best in slot, but both armors are good.
 
 Make sure to augment your gear.
 
