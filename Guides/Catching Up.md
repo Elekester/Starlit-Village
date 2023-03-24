@@ -1,4 +1,4 @@
-# Getting Ready for Slayer
+# Getting Ready for Slayer Full Guide
 
 
 
