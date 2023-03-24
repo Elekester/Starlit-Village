@@ -157,13 +157,12 @@ After potency, the next most important statistic is probably Potency Floor. You 
 
 For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each. The **Ultra Budget Augments** can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons. Once you obtain your high level armor and weapons consider augmenting towards the **Budget Augments** or the **Best in Slot Augments**.
 
-The costs listed below are the costs using two methods. **Method 1** uses 10 capsules per augment and an N-Augmentation Success Rate +10%. **Method 2** uses 1 capsule per augment and an N-Augmentation Success +10%. The second method has a much lower cost for the low success rate augments, but uses more N-Augmentation Success Rate items and has a much higher variance. For more details on the advantanges and disadvantages of Method 2, refer to [XXXXXXXX]().
+The costs listed below are the costs to augment a single weapon or armor using one of two methods. **Method 1** uses 10 capsules per augment and an N-Augmentation Success Rate +10%. **Method 2** uses 1 capsule per augment and an N-Augmentation Success +10%. The second method has a much lower cost for the low success rate augments, but uses more N-Augmentation Success Rate items and has a much higher variance. For more details on the advantanges and disadvantages of Method 2, refer to [XXXXXXXX]().
 
 #### Ultra Budget Augments
 
-**Method 1 Cost:** 53k ![N-Meseta](/Images/NGSUIMSTIcon.png)/item
-
-**Method 2 Cost:** 27k ![N-Meseta](/Images/NGSUIMSTIcon.png)/item
+**Method 1 Cost:** 53k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
+**Method 2 Cost:** 27k ![N-Meseta](/Images/NGSUIMSTIcon.png)
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
@@ -177,9 +176,8 @@ The costs listed below are the costs using two methods. **Method 1** uses 10 cap
 
 #### Budget Augments
 
-**Method 1 Cost:** 1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/item
-
-**Method 2 Cost:** 860k ![N-Meseta](/Images/NGSUIMSTIcon.png)/item
+**Method 1 Cost:** 1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
+**Method 2 Cost:** 860k ![N-Meseta](/Images/NGSUIMSTIcon.png)
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
@@ -193,9 +191,8 @@ The costs listed below are the costs using two methods. **Method 1** uses 10 cap
 
 #### Best in Slot Augments
 
-**Method 1 Cost:** 35mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/item
-
-**Method 2 Cost:** 20mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/item
+**Method 1 Cost:** 35mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
+**Method 2 Cost:** 20mil ![N-Meseta](/Images/NGSUIMSTIcon.png)
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
