@@ -47,8 +47,8 @@ In the table below **Lvl** refers to the minimum level required to use the metho
 
 |Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Lvl|Boost|Player Shop|Auto Sell|Notes|
 |:-----|:------------------:|:-:|:-------:|:-----------:|:-------:|:---|
-|[Recurring Tasks](#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil N-Meseta/week. Takes 15 minutes to 30 minutes daily to complete.|
-|[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil N-meseta, obtainable once per account. Rate is a very rough estimate.|
+|[Recurring Tasks](#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/week. Takes 15 minutes to 30 minutes daily to complete.|
+|[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil ![N-Meseta](/Images/NGSUIMSTIcon.png), obtainable once per account. Rate is a very rough estimate.|
 |[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|25|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
 |[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k - 330k|40|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
 |[Dreisen Plant Recon Gigants](#dreisen-plant-giga-recon)||70|❌|✔️|❌||
@@ -57,22 +57,22 @@ In the table below **Lvl** refers to the minimum level required to use the metho
 
 ### Recurring Tasks
 
-**Rate:** 1.8 million N-meseta/week (500,000 N-meseta/hour)
+**Rate:** 1.8 million ![N-Meseta](/Images/NGSUIMSTIcon.png)/week (500,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour)
 
 Each region has its own valuable gathering item you can obtain. They respawn daily and net you 104,000 N-meseta each day.
 
-- In Central Aelio there are 14 alpha reactors. They are each worth 3,500 N-meseta.
-- In West Retem, surrounding the Sagan Mountain Road: east Ryuker, there are 10 Stellar Fragments. They are worth 2,000 N-meseta each.
-- In Central Kvaris there are 10 Snoal. They are each worth 3,500 N-meseta.
+- In Central Aelio there are 14 alpha reactors. They are each worth 3,500 ![N-Meseta](/Images/NGSUIMSTIcon.png).
+- In West Retem, surrounding the Sagan Mountain Road: east Ryuker, there are 10 Stellar Fragments. They are worth 2,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each.
+- In Central Kvaris there are 10 Snoal. They are each worth 3,500 ![N-Meseta](/Images/NGSUIMSTIcon.png).
 - At Dreisen Plant in Stia, you can find Invisible Boxes that contain rare augments and minerals.
 
-Additionally you can complete the Weekly Tasks to receive 800,000 N-meseta each week and your Alliance Tasks to receive 1-5 Beta Reactors worth 100,000 N-meseta each. If you're in a top 10 Alliance, you'll receive 3 for a total of 300,000 N-Meseta from Alliance Tasks.
+Additionally you can complete the Weekly Tasks to receive 800,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each week and your Alliance Tasks to receive 1-5 Beta Reactors worth 100,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each. If you're in a top 10 Alliance, you'll receive 3 for a total of 300,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) from Alliance Tasks.
 
 ### Red Boxes
 
-**Rate:** 2 million N-meseta once (300,000 N-meseta/hour)
+**Rate:** 2 million ![N-Meseta](/Images/NGSUIMSTIcon.png) once (300,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour)
 
-Once on your account you may find Red Boxes scattered around Halpha. Each region contains over 100 of these and each one contains either 10,000 N-meseta, Star Gems, or equipment. This will net you around 2 million N-meseta.
+Once on your account you may find Red Boxes scattered around Halpha. Each region contains over 100 of these and each one contains either 10,000 ![N-Meseta](/Images/NGSUIMSTIcon.png), Star Gems, or equipment. This will net you around 2 million ![N-Meseta](/Images/NGSUIMSTIcon.png).
 
 - [The League's Map Guides](https://discord.com/channels/841958014503223308/978354867519258634)
 - [ARKS-Visiphone map guide](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Collectables)
@@ -80,14 +80,14 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 
 ### Aelio Yellow Rank 2
 
-**Rate (buying Yellow Triggers):** 740,000 to 1.4 million N-Meseta/hour <br />
-**Rate (not buying Yellow Triggers):** 840,000 to 1.5 million N-Meseta/hour
+**Rate (buying Yellow Triggers):** 740,000 to 1.4 million ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour <br />
+**Rate (not buying Yellow Triggers):** 840,000 to 1.5 million ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
 
 **Warning:** This method requires selling a great deal of items on the Personal Shop, which is limited to 30 items at a time.
 
-The Battledia Yellows, Aelio Troopers and Retem Troopers, both drop Gold Primm Sword +30 and Gold Primm Armor +30 as well as the Domina for that region. The sword can sell on the personal shop for 15,000 to 25,000 N-Meseta and the armor for 3,000 to 9,000 N-Meseta depending on demand. Ael Dominas sell for 13,000 to 15,000 N-Meseta. Meaning you can earn 27,900 to 41,700 N-Meseta each run, accounting for the seller's fee on the personal shop.
+The Battledia Yellows, Aelio Troopers and Retem Troopers, both drop Gold Primm Sword +30 and Gold Primm Armor +30 as well as the Domina for that region. The sword can sell on the personal shop for 15,000 to 25,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) and the armor for 3,000 to 9,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) depending on demand. Ael Dominas sell for 13,000 to 15,000 ![N-Meseta](/Images/NGSUIMSTIcon.png). Meaning you can earn 27,900 to 41,700 ![N-Meseta](/Images/NGSUIMSTIcon.png) each run, accounting for the seller's fee on the personal shop.
 
-If you must buy the Yellow Triggers, which cost 1,000 to 2,000 N-Meseta each, you'll end up paying 1,250 N-Meseta to 2,500 N-Meseta a run if the cost is split between a party of 4. Thus you can earn 24,800 to 40,450 N-Meseta per run if you must buy the Yellow Triggers.
+If you must buy the Yellow Triggers, which cost 1,000 to 2,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each, you'll end up paying 1,250 to 2,500 ![N-Meseta](/Images/NGSUIMSTIcon.png) a run if the cost is split between a party of 4. Thus you can earn 24,800 to 40,450 ![N-Meseta](/Images/NGSUIMSTIcon.png) per run if you must buy the Yellow Triggers.
 
 Aelio's Yellow Triggers can be done at a rate of 30 to 35 runs/hour with a party of 4, netting you the above rates. In adition you'll receive 8 million to 10 million experience an hour (boostable).
 
@@ -95,7 +95,7 @@ If Stia's Yellow Triggers get a Rank 2, expect that quest to replace Aelio's as 
 
 ### Retem Alnothe Rank 1
 
-**Rate (not boosted):** 270,000 N-Meseta/hour <br />
+**Rate (not boosted):** 270,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour <br />
 
 Enemies drop N-Meseta and items that can be converted into N-Meseta when defeated and so Combat Zones are a valid way of making N-Meseta. Since other enemy drops aren't as valuable, its best to simply defeat low level enemies. Due to its small size and low enemy levels, Retem Alnothe is the best combat zone for this purpose. Since enemy level does not significantly affect the N-Meseta received, a low rank combat zone is actually better than a high rank combat zone, so Retem Alnothe Rank 1 is the best choice.
 
@@ -155,7 +155,7 @@ As a rule of thumb, Potency is king. When deciding which augments to add to your
 
 After potency, the next most important statistic is probably Potency Floor. You might notice that the Renaissa weapon has a Damage Adjustment of 75.0% - 100.0%. This means that each attack does between 75% and 100% of your maximum damage. Potency Floor increases the minimum, but its multiplicative. So 10% Potency Floor would mean your new minimum would be 82.5%, this means that raw Potency Floor is almost never worth getting over raw Potency. But augments that give both Potency and Potency Floor are amazing.
 
-For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 N-meseta each. The **Ultra Budget Augments** can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons. Once you obtain your high level armor and weapons consider augmenting towards the **Budget Augments** or the **Best in Slot Augments**.
+For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each. The **Ultra Budget Augments** can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons. Once you obtain your high level armor and weapons consider augmenting towards the **Budget Augments** or the **Best in Slot Augments**.
 
 The costs listed below are the costs using two methods. **Method 1** uses 10 capsules per augment and an N-Augmentation Success Rate +10%. **Method 2** uses 1 capsule per augment and an N-Augmentation Success +10%. The second method has a much lower cost for the low success rate augments, but uses more N-Augmentation Success Rate items and has a much higher variance. For more details on the advantanges and disadvantages of Method 2, refer to [XXXXXXXX]().
 
@@ -221,10 +221,10 @@ When you learn weapon enhancement during **Advice form Rossa** make sure not to 
 
 If you do accidentally get rid of the Renaissa weapons, other easily available weapons at this point are Primm, Tzvia, and Theseus weapons.
 
-During **Residents of Central City** you'll need to limit break one of your weapons. The Renaissa weapons require a whopping 30 Trinite and 120,000 N-meseta to limit break. Instead grab some monotite in Central Aelio and limit break a Primm weapon.
+During **Residents of Central City** you'll need to limit break one of your weapons. The Renaissa weapons require a whopping 30 Trinite and 120,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to limit break. Instead grab some monotite in Central Aelio and limit break a Primm weapon.
 
 **An Abundance of Caution** will likely be the first Task that requires you to reach a certain Battle Power that you don't meet due to the Renaissa gear. Ran helpfully mentions speaking to Segreto by the Cafe, who will help you unlock your weapon's potential. You might also speak with Deeno now to learn about the Personal Shops. Even with unlocking the first level of your weapon's potential, you probably still won't have enough Battle Power. This is important. Battle Power is how NGS locks you out of content you're not ready for. In order to reach the endgame, you'll have to deal with it one way or another. At this point you have three main ways to get BP:
 
 1. Complete Cocoons and spend skill points. The Skill Trees for all classes have abilities that increase your power or even change how a class plays. You will want to do these all eventually.
 2. Level up by either completing Side Tasks and defeating enemies in Combat Zones. I really enjoyed doing the side tasks and suggest doing those as well. They also provide N-meseta that you can spend on upgrading your gear.
-3. Upgrading your gear. Right now you probably won't have too much money or materials to upgrade your gear. BUT, there is an easy way to make some money available to you: Red Boxes. Scattered around each region is about 100 Red Boxes containing N-Meseta, SG, and gear. There are also 10 alpha reactors around Aelio that respawn daily for an easy 49,000 N-meseta.
+3. Upgrading your gear. Right now you probably won't have too much money or materials to upgrade your gear. BUT, there is an easy way to make some money available to you: Red Boxes. Scattered around each region is about 100 Red Boxes containing N-Meseta, SG, and gear. There are also 10 alpha reactors around Aelio that respawn daily for an easy 49,000 ![N-Meseta](/Images/NGSUIMSTIcon.png).
