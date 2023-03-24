@@ -224,7 +224,7 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 **Method 1 Cost:** 35mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Method 2 Cost:** 20mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Stats**: +15.9% in one potency, +12.5% in a second potency, +9.26% in a third potency, +8.0% potency Floor, some HP and PP
+**Stats**: +15.9% in one potency, +12.5% in a second potency, +9.26% in a third potency, +8.0% potency floor, some HP and PP
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
