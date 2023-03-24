@@ -1,6 +1,6 @@
 # Getting Ready for Slayer
 
-You can see the full guide [here](catching%20up.md).
+You can see the full guide [here](Catching%20Up.md).
 
 ## Leveling Up
 
