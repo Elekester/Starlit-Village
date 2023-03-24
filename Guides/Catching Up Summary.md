@@ -2,6 +2,16 @@
 
 This page summarizes the [Full Guide](Catching%20Up.md).
 
+
+
+## Table of Contents
+- [Leveling Up](#leveling-up)
+- [Making N-Meseta](#making-n-meseta)
+- [Raising Your Battle Power](#raising-your-battle-power)
+- [Upgrading Your Gear](#upgrading-your-gear)
+
+
+
 ## Leveling Up
 
 
