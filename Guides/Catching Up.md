@@ -175,7 +175,7 @@ The costs listed below are the costs using two methods. **Method 1** uses 10 cap
 
 * If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
-### Budget Augments
+#### Budget Augments
 
 **Method 1 Cost:** 1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/item
 
