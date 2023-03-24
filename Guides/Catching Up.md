@@ -97,7 +97,7 @@ If Stia's Yellow Triggers get a Rank 2, expect that quest to replace Aelio's as 
 
 ### Retem Alnothe Rank 1
 
-**Rate (not boosted):** 270,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour <br />
+**Rate (not boosted):** 270,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
 
 Enemies drop N-Meseta and items that can be converted into N-Meseta when defeated and so Combat Zones are a valid way of making N-Meseta. Since other enemy drops aren't as valuable, its best to simply defeat low level enemies. Due to its small size and low enemy levels, Retem Alnothe is the best combat zone for this purpose. Since enemy level does not significantly affect the N-Meseta received, a low rank combat zone is actually better than a high rank combat zone, so Retem Alnothe Rank 1 is the best choice.
 
@@ -115,13 +115,15 @@ You'll also earn around 1 million EXP/hour.
 
 ### Geo Lab Rank 2
 
-The Trinitas in Central Retem, also known as the Geometric Laboratory, has generous augment drops when you achieve A and S scores in Rank 2. The most valuable drops are the regional Domina augments, but Alts Secretas, Dread Keepers, the Gigas Stat IIIs, and the Boss Soul IVs are also worth selling. In order to achieve an S rank you need to apply some of the Challenge Settings, but you don't need to apply them all. Below are two good options. Option 1 is faster and option 2 is easier.
+**Rate (not boosted):** 800,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
+
+The Trinitas in Central Retem, also known as the Geometric Laboratory, has generous augment drops when you achieve A and S scores in Rank 2. The most valuable drops are the regional Domina augments, but Alts Secretas, Dread Keepers, the Gigas Stat IIIs, and the Boss Soul IVs are also worth selling. In order to achieve an S rank you need to apply some of the Challenge Settings, but you don't need to apply them all. Below are two different settings you can use to achieve an S rank. You'll be able to achieve about 20 runs an hour.
 
 Don't forget to sell your rewards on the Personal Shop.
 
 #### Challenge Settings
 
-|Option 1|Option 2|
+|Settings 1|Settings 2|
 |:-------|:-------|
 |Enemy Max HP +25%|Enemy Max HP +200%|
 |Enemy Attack +300%|Enemy Attack +300%|
