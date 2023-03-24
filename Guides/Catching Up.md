@@ -157,7 +157,11 @@ After potency, the next most important statistic is probably Potency Floor. You 
 
 For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 N-meseta each. The **Ultra Budget Augments** can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons. Once you obtain your high level armor and weapons consider augmenting towards the **Budget Augments** or the **Best in Slot Augments**.
 
+The costs listed below are the costs using two methods. **Method 1** uses 10 capsules per augment and an N-Augmentation Success Rate +10%. **Method 2** uses 1 capsule per augment and an N-Augmentation Success +10%. The second method has a much lower cost for the low success rate augments, but uses more N-Augmentation Success Rate items and has a much higher variance. For more details on the advantanges and disadvantages of Method 2, refer to [XXXXXXXX]().
+
 #### Ultra Budget Augments
+
+**Method 1 Cost:** 50k ![N-Meseta](/Images/NGSUIMSTIcon.png)/item
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
@@ -165,21 +169,27 @@ For your low level armor and weapons, I suggest staying as budget as possible. Y
 |Might IV|Precision IV|Technique IV|
 |Gigas Might II or III|Gigas Precision II or III|Gigas Technique II or III|
 |Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
-|Alts Secreta II or III|Alts Secreta II or III|Alts Secreta II or III|
+|Alts Secreta II or III*|Alts Secreta II or III*|0Alts Secreta II or III*|
+
+* If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
 ### Budget Augments
 
+**Method 1 Cost:** 1.4mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/item
+
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
-|Mastery IV|Mastery IV|Mastery IV|
+|Mastery III or IV|Mastery III or IV|Mastery III or IV|
 |Might IV|Precision IV|Technique IV|
 |Gigas Might IV|Gigas Precision IV| Gigas Technique IV|
 |Daityl/Dust/Frostyl/Freid Soul IV|Pettas/Ragras/Crocys/Doldor Soul IV|Nex/Renus/Ams/Nils Soul IV|
-|Alts Secreta IV|Alts Secreta IV|Alts Secreta IV|Alts Secreta IV|
+|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
-* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, 
+* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
 #### Best in Slot Augments
+
+**Method 1 Cost:** 30mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/item
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
@@ -189,7 +199,7 @@ For your low level armor and weapons, I suggest staying as budget as possible. Y
 |Gigas Might IV or Daityl/Dust/Frostyl/Freid Soul IV|Gigas Precision IV Pettas/Ragras/Crocys/Doldor Soul IV|Gigas Technique IV Nex/Renus/Ams/Nils Soul IV|
 |Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
-* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use both a Gigas augment and a Soul augment.
+* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use both a Gigas augment and a Soul augment instead.
 
 ### Fixa
 
