@@ -9,13 +9,20 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 |Goal|
 |:---|
 |Augment your Renaissa or other low-level gear|
-|Finish the Main Story|
-|Do the Cocoons and Towers of each region. Make sure to spend those Skill Points!|
+|Complete Chapter 1 of the Main Story in Aelio|
+|Complete Aelio Cocoons and Towers. Make sure to spend those Skill Points!|
+|Complete Chapter 2 of the Main Story in Retem|
+|Complete Retem Cocoons and Towers. Make sure to spend those Skill Points!|
+|Complete Chapter 3 of the Main Story in Kvaris|
+|Complete Kvaris Cocoons and Towers. Make sure to spend those Skill Points!|
+|Complete Chapter 4 of the Main Story in Stia|
+|Complete Stia Cocoons and Towers. Make sure to spend those Skill Points!|
 |Reach Level 70 in your first class|
 |Start upgrading to endgame gear|
 |Add Budget Augments to your endgame gear|
 |Reach Level 70 in other classes you enjoy|
-|Phashion|
+|Find rare items, make N-Meseta, and enjoy the endgame|
+|The Real Endgame: Phashion|
 |Add Best In Slot Augments to your endgame gear|
 
 
