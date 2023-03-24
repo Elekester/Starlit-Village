@@ -54,7 +54,8 @@ Make sure to augment your gear.
 
 The costs listed below are the costs to augment a single weapon or armor using one of two methods. **Method 1** uses 10 capsules per augment and an N-Augmentation Success Rate +10%. **Method 2** uses 1 capsule per augment and an N-Augmentation Success +10%. The second method has a much lower cost for the low success rate augments, but uses more N-Augmentation Success Rate items and has a much higher variance. For more details on the advantanges and disadvantages of Method 2, refer to [XXXXXXXX]().
 
-#### Ultra Budget Augments <br />
+#### Ultra Budget Augments
+
 **Method 1 Cost:** 53k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Method 2 Cost:** 27k ![N-Meseta](/Images/NGSUIMSTIcon.png)
 
@@ -68,7 +69,8 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 \* If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
-#### Budget Augments <br />
+#### Budget Augments
+
 **Method 1 Cost:** 1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Method 2 Cost:** 860k ![N-Meseta](/Images/NGSUIMSTIcon.png)
 
@@ -82,7 +84,8 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 \* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
-#### Best in Slot Augments <br />
+#### Best in Slot Augments
+
 **Method 1 Cost:** 35mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Method 2 Cost:** 20mil ![N-Meseta](/Images/NGSUIMSTIcon.png)
 
