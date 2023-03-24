@@ -97,7 +97,7 @@ The costs listed below are the costs to augment a single weapon or armor using o
 |Mastery IV|Mastery IV|Mastery IV|
 |Halphinale|Halphinale|Halphinale|
 |Addi Deftmelra/Deftmeltech|Addi Deftmelra/Deftratech|Addi Deftmeltech/Deftratech|
-|Gigas Might IV or Daityl/Dust/Frostyl/Freid Soul IV|Gigas Precision IV Pettas/Ragras/Crocys/Doldor Soul IV|Gigas Technique IV Nex/Renus/Ams/Nils Soul IV|
+|Gigas Might IV or Daityl/Dust/Frostyl/Freid Soul IV|Gigas Precision IV or Pettas/Ragras/Crocys/Doldor Soul IV|Gigas Technique IV or Nex/Renus/Ams/Nils Soul IV|
 |Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
 \* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use both a Gigas augment and a Soul augment instead.
