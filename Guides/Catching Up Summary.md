@@ -6,7 +6,7 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 
 ## Getting Ready Checklist
 
-|||Task|
+||Task|
 |-|:---|
 |⬜|Augment your Renaissa or other low-level gear|
 |⬜|Finish the Main Story|
