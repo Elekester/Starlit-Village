@@ -144,7 +144,7 @@ See [Leveling Up](#leveling-up) for more information.
 
 ### Skill Points
 
-Skill Points earn you 3 BP per skill point spent on your Main and Subclass skill tree.
+Skill Points earn you 3 BP per skill point spent on your Main or Subclass skill tree, so that each skill point is worth 6 BP. There is currently 47 skill points available from completing Cocoons and Towers. That's worth a total of 282 BP.
 
 ### Armor and Weapons
 
