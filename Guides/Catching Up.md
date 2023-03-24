@@ -145,6 +145,30 @@ See [Upgrading Your Gear](#upgrading-your-gear) for more information.
 
 ### Getting New Gear
 
+There are two different paths you can take for armor upgrades. Most Armor is defensive in nature, providing small stat and potency boosts and large defense. The Gigantix enemies of each region drop their own series of armor which trades some defense and damage resistance for more potency. The Gigantix armor is best in slot, but you should feel comfortable using other armor, as the potency difference is small.
+
+Aside from Renaissa armor you can obtain all your gear from the Player Shop for relatively low prices.
+
+#### Defensive Armor
+|Name|Lvl|Potency|Notes|
+|:---|:-:|:------|:----|
+|Renaissa Armor|1||+1% to all potencies|This armor could last you until the endgame.|
+|Qual De Armor Arga/Belta/Sheza|12||+1% to two potencies|-|
+|Vios Armor|24|+1% to all potencies|-|
+|Schwarzest/Schwarzgarde/Schwarzrosso Armor|31|+2% to one potency|-|
+|Defrozzis Armor|42|+2% to all potencies|-|
+|Sestato Armor Arga/Belta/Sheza|47|+2.25% to two potencies|-|
+|Efitus Armor Arga/Belta/Sheza|57|+3% to two potencies|-|
+|Eptize Armor Vida/Vio|61|+3% to all potencies|Vida provides HP and Vio provides PP|
+|Ajax Armor|70|+3.5% to all potencies|Endgame armor.|
+
+#### Gigantix Armor
+|Name|Lvl|Potency|Notes|
+|:---|:-:|:------|:----|
+|Geant Armor|15|+2% to all potencies|-|
+|Behlgren Armor|52|+2.75% to all potencies|-|
+|Eclaireur Armor|65|+4% to all potencies|-|
+
 ### Item Enhancement and Limit Break
 
 ### Augmenting
