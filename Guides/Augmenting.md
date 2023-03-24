@@ -14,4 +14,4 @@ The savings increase if you have greater boosts or if your attempting to add aug
 
 ![Supporting Data](/Images/Augmenting_Method_Stats.png)
 
-\* The probability was calculated treating the two distributions as normal distributions with
+\* Averages and Standard Deviations were calculated using the geometric distribution. The probability was calculated using simulations.
