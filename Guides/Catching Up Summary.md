@@ -17,21 +17,23 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 
 |Goals|
 |:---|
-|☐&emsp;Augment your Renaissa or other low-level gear with [Ultra Budget Augments](#ultra-budget-augments)|
-|☐&emsp;**Complete Chapter 1 of the Main Story in Aelio**|
+|☐&emsp;Start augmenting your Renaissa or other low-level gear with [Ultra Budget Augments](#ultra-budget-augments). You do not need to finish this now, just add more augments as you earn N-meseta.|
+|☐&emsp;**Complete Chapter 1 of the Main Story in Aelio.**|
 |☐&emsp;Complete Aelio Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Complete Chapter 2 of the Main Story in Retem**|
+|☐&emsp;**Complete Chapter 2 of the Main Story in Retem.**|
 |☐&emsp;Complete Retem Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Complete Chapter 3 of the Main Story in Kvaris**|
+|☐&emsp;**Complete Chapter 3 of the Main Story in Kvaris.**|
 |☐&emsp;Complete Kvaris Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Complete Chapter 4 of the Main Story in Stia**|
+|☐&emsp;**Complete Chapter 4 of the Main Story in Stia.**|
 |☐&emsp;Complete Stia Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Reach Level 70 in your first class**|
-|☐&emsp;Add [Budget Augments](#budget-augments) to your endgame gear|
-|☐&emsp;**Find rare items, make N-Meseta, and enjoy the endgame**|
-|☐&emsp;Reach Level 70 in other classes you enjoy|
-|**☐&emsp;Gather augments and gear for Slayer, which appears to be a Ranged Class**|
-|☐&emsp;Update your Phashion and add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear|
+|☐&emsp;**Reach Level 70 in your first class.**|
+|☐&emsp;Add [Budget Augments](#budget-augments) to your endgame gear.|
+|☐&emsp;**Find rare items, make N-Meseta, and enjoy the endgame.**|
+|☐&emsp;Generate Add-On Skills for your first class.|
+|☐&emsp;**Reach Level 70 in other classes you enjoy.**|
+|☐&emsp;Generate Add-On Skills for your other classes.|
+|☐&emsp;**Gather augments and gear for Slayer, which appears to be a Ranged Class.**|
+|☐&emsp;Update your Phashion and add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear.|
 
 
 
