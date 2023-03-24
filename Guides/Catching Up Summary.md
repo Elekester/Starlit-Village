@@ -16,7 +16,6 @@ In the table below **Lvl** refers to the minimum level required to use the metho
 |[Red Boxes](Catching%20Up.md#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil ![N-Meseta](/Images/NGSUIMSTIcon.png), obtainable once per account. Rate is a very rough estimate.|
 |[Aelio Yellow Rank 2](Catching%20Up.md#aelio-yellow-rank-2)|740k - 1.5mil|25|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
 |[Retem Alnothe Rank 1](Catching%20Up.md#retem-alnothe-rank-1)|270k|40|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
-|[Dreisen Plant Recon Gigants](Catching%20Up.md#dreisen-plant-giga-recon)||70|❌|✔️|❌||
 |[Geo Lab Rank 2](Catching%20Up.md#geo-lab-rank-2)|800k|70|❌|✔️|❌|Geo Lab Rank 2 can be done at level 65, but most parties will include level 70 players. Higher ranks drop better and rewards. There's a few easy Challenge Settings you can use to get the S rank.|
 |[Purple Triggers](Catching%20Up.md#purple-triggers)||70|❌|✔️|❌||
 
