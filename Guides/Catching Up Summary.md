@@ -30,7 +30,7 @@ Every level is worth between 10 BP at low levels and 30 BP at high levels.
 
 ### Skill Points
 
-Skill Points earn you 3 BP per skill point spent on your Main or Subclass skill tree.
+Skill Points earn you 3 BP per skill point spent on your Main or Subclass skill tree. There are currently 47
 
 ### Armor and Weapons
 
