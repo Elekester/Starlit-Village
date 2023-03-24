@@ -21,8 +21,7 @@ This page summarizes the [Full Guide](Catching%20Up.md).
 |Add [Budget Augments](#budget-augments) to your endgame gear|
 |**Find rare items, make N-Meseta, and enjoy the endgame**|
 |Reach Level 70 in other classes you enjoy|
-|The Real Endgame: Phashion|
-|Add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear|
+|Update your Phashion and add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear|
 
 
 
