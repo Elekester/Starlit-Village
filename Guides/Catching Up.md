@@ -372,4 +372,4 @@ During **Residents of Central City** you'll need to limit break one of your weap
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your Renaissa gear. You might be able to afford filling three slots on each piece of gear as well as fully unlocking the potential of your Renaissa weapon.
 
-**The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level!
+**The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
