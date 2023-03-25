@@ -205,6 +205,31 @@ See [Upgrading Your Gear](#upgrading-your-gear) for more information.
 
 ## Upgrading Your Gear
 
+### Weapon Upgrades
+
+The Renaissa Weapons you received or whatever high level weapon you have will work for you until you reach the endgame. The augments on your weapon are more impactful and more costly to replace each time you upgrade.
+
+Each weapon has a few stats that determine its usefulness: Attack Power, Variance, and Potential. Attack Power determines your maximum damage and contributes to Battle Power, variance determines the minimum and range of damage you can deal, and a Weapon's potential increases your Potency and adds additional effects. Generally speaking, most weapons before level 53 have a variance of around 75% - 100% and a max attack power of 530, while most weapons after level 53 have a variance of around 50% - 100% and a max attack power of 730. The tradeoff in variance is worth it for the massive increase in attack.
+
+Some weapon's have an Element. They have significantly lower Base Attack in exchange for dealing extra elemental damage. This tends to mean they're a little weaker than their non elemental counterparts against most enemies, but stronger against enemies with their elemental weakness.
+
+The current endgame is dominated by the Neos Astraean Weapons, which drop from the Battle of Halphia Lake Urgent Quest and can be obtained from the Aegis Integra Exchange Shop. Since these items are not tradeable on the Personal Shop, you must find any Fixa you want on the weapon. You can obtain enough Aegis Integra to purchase one weapon by clearing the Geometric Laboratory Rank 2 Quest once, further Aegis Integra can be obtained by trading in unwanted Neos Astraean weapons. If you wish to multiweapon a Neos Astraean weapon, it can be multiweaponed with the Neos Justitean series, just be sure to use whichever weapon whose stats you want as the base weapon.
+
+If you can't obtain a Neos Astraean Weapon there are several alternatives you can use until you obtain one, listed below.
+
+#### Weapon Series
+|Name|Lv|Element|Notes|
+|:-|:-:|:-:|:-|
+|Effulgent|60|Fire|-|
+|Tenebrous|60|Ice|-|
+|Trunkul|62|-|The Trunkul weapon's potency provides a massive damage resistance, making it the ideal defensive weapon.|
+|Kouklophis|62|-|Available in the Stia Exchange Shop.|
+|Gunblaze|65|-|-|
+|Neos Justitean|70|Light|-|
+|Neos Astraean|70|-|Available in the Aegis Integra Exchange Shop.|
+
+For an exhaustive list of weapons see the [Weapons Pages on the Arks-Visiphone](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Swords).
+
 ### Armor Upgrades
 
 The Renaissa Armor you received or whatever high level armor you have will work for you until you reach the endgame. The augments on your armor are more impactful and more costly to replace each time you upgrade.
@@ -299,6 +324,27 @@ The costs listed below are the costs to augment a single weapon or armor using o
 \* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use both a Gigas augment and a Soul augment instead.
 
 ### Fixa
+
+Weapons and Armor can sometimes be found or obtained with Preset Skills known as Fixa, which can dramatically increase the damage a weapon does, the damage reduction an armor provides, or provide skills for PP efficiency on armor. These can be transferred between items of the exact same name.
+
+#### Weapon Fixa
+|Name|Effect|
+|:-|:-|
+|Fixa Attack|Damage Boos|
+|Fixa Fatale|Critical Hit Rate Boost|
+|Fixa Termina|Critical Damage Boost|
+
+For weapons with 75% - 100% variance, Fixa Attack is better than Fixa Fatale. For weapons with 50% - 100% variance, Fixa Fatale is better than Fixa Attack, especially once you have the Critical Damage Boosts from Fighter's Add-On Skills.
+
+#### Armor Fixa
+|Name|Effect|
+|:-|:-|
+|Fixa Guard|Damage Reduction|
+|Fixa Performa|PP Cost Recution|
+|Fixa Natura|Natural PP Recovery Boost|
+|Fixa Enthusia|Active PP Recovery Boost|
+
+Which Fixa you prefer on your weapons is going to depend a lot on your playstyle and which class you're using. For classes with poor PP management, Fixa Performa, Natura, and Enthusia will help. For classes that lack defensive abilities, Fixa Guard will be useful.
 
 
 
