@@ -11,6 +11,7 @@ This page has a [Summary](Catching%20Up%20Summary.md).
 - [Raising Your Battle Power](#raising-your-battle-power)
 - [Upgrading Your Gear](#upgrading-your-gear)
 - [Appendix A: The Tutorial and Getting Out of Aelio](#appendix-a-the-tutorial-and-getting-out-of-aelio)
+- [Appendix R: Meeting Nadereh and Leaving Retem](#appendix-r-meeting-nadereh-and-leaving-retem)
 
 
 
