@@ -52,7 +52,7 @@ In all regions you can find the NPC Guiden, his tasks grant massive XP boosts de
 
 Yuri and Truxtun in Kvaris Camp both have relatively quick Tasks for 1 million EXP. The last task in Roald's Rookies Run Ragged Series is also worth 1 million EXP and Reso offers two tasks worth 1 million EXP each, though they're a bit long.
 
-|Region|Side Task EXP|Rate EXP/hour|
+|Region|Side Task EXP|EXP/hour|
 |:-----|------------:|---:|
 |Retem|100k - 200k|2.4mil|
 |Kvaris|300k||
@@ -68,7 +68,7 @@ Battledia: Yellows are the best repeatable source of EXP bar none. You get bonus
 
 The listed level is the level at which you can expect to be able to utilize that Battledia: Yellow.
 
-|Battledia: Yellow|Lv|Host Exp|Party Member Exp|Exp Rate|
+|Battledia: Yellow|Lv|Host Exp|Party Member Exp|Exp/hour|
 |:----------------|:-:|------:|---------------:|-------:|
 |Aelio Troopers Rank 1|12|107k|97k|3.4mil Exp/hour|
 |Retem Troopers Rank 1|21|168k|153k|-|
