@@ -82,7 +82,7 @@ Battledia: Yellows are the best repeatable source of EXP bar none. You get bonus
 In the table below **Lv** refers to the minimum level required to use the method and be effective, **Boost** refers to whether or N-Meseta Earned boosts will increase the listed rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
 
 |Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Lv|Boost|Player Shop|Auto Sell|Notes|
-|:-----|:------------------:|:-:|:-------:|:-----------:|:-------:|:---|
+|:-----|------------------:|:-:|:-------:|:-----------:|:-------:|:---|
 |[Recurring Tasks](#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/week. Takes 15 minutes to 30 minutes daily to complete.|
 |[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil ![N-Meseta](/Images/NGSUIMSTIcon.png), obtainable once per account. Rate is a very rough estimate.|
 |[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|25|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
