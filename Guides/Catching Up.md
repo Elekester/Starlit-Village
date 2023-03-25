@@ -64,6 +64,8 @@ Completing your daily tasks will offer a moderate amount of EXP. There are two w
 
 Battledia: Yellows are the best repeatable source of EXP bar none. You get bonus experience for completing these with a party, so make sure to do so! You'll also receive Gold Primm Swords and Armor that can be sold on the Personal Shop for profit or used to enhance your own gear. The party leader must have 5 B-Trigger/Common Yellows, which can be bought for 1,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each. In exchange they receive a small boost in Exp earned.
 
+The listed level is the level at which you can expect to be able to utilize that Battledia: Yellow.
+
 |Battledia: Yellow|Lv|Host Exp|Party Member Exp|Exp Rate|
 |:----------------|:-:|------:|---------------:|-------:|
 |Aelio Troopers Rank 1|12|107k|97k|3.4mil Exp/hour|
