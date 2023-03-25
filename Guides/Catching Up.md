@@ -272,7 +272,7 @@ As a rule of thumb, Potency is king. When deciding which augments to add to your
 
 After potency, the next most important statistic is probably Potency Floor. You might notice that the Renaissa weapon has a Damage Adjustment of 75.0% - 100.0%. This means that each attack does between 75% and 100% of your maximum damage. Potency Floor increases the minimum, but its multiplicative. So 10% Potency Floor would mean your new minimum would be 82.5%, this means that raw Potency Floor is almost never worth getting over raw Potency. But augments that give both Potency and Potency Floor are amazing.
 
-For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each. The **Ultra Budget Augments** can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons. Once you obtain your high level armor and weapons consider augmenting towards the **Budget Augments** or the **Best in Slot Augments**.
+For your low level armor and weapons, I suggest staying as budget as possible. You can buy some really good augments in the Personal Shop for just 1,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each. The **Ultra Budget Augments** can be bought off of the Player Shop for about 1k each, making it easy to buy 40 of each and apply them to your weapons. Once you obtain your high level armor and weapons consider augmenting towards the **Budget Augments** and eventually the **Best in Slot Augments**.
 
 The costs listed below are the costs to augment a single weapon or armor using one of two methods. **Method 1** uses 10 capsules per augment and an N-Augmentation Success Rate +10%. **Method 2** uses 1 capsule per augment and an N-Augmentation Success +10%. The second method has a much lower cost for the low success rate augments, but uses more N-Augmentation Success Rate items and has a much higher variance. For more details on the advantanges and disadvantages of Method 2, refer to [Optimizing Augment Capsule Use in PSO2: NGS](Augmenting.md).
 
@@ -280,7 +280,8 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 **Method 1 Cost:** 53k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Method 2 Cost:** 27k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Stats:**  +10.67% in one potency, +1.5% potency floor, some HP and PP, +32 BP
+**Stats:**  +10.67% in one potency, +1.5% potency floor, some HP and PP, +32 BP <br />
+**Goal:** +60% potency and +6% potency floor overall
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
@@ -296,7 +297,8 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 **Method 1 Cost:** 1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Method 2 Cost:** 860k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Stats**: +13.7% in one potency, +4.0% potency floor, some HP and PP, +45 BP
+**Stats**: +13.7% in one potency, +4.0% potency floor, some HP and PP, +45 BP <br />
+**Goal:** +80% potency and +17% potency floor overall
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
@@ -312,7 +314,8 @@ The costs listed below are the costs to augment a single weapon or armor using o
 
 **Method 1 Cost:** 35mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Method 2 Cost:** 20mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Stats**: +15.9% in one potency, +12.5% in a second potency, +9.26% in a third potency, +8.0% potency floor, some HP and PP, +54 BP
+**Stats**: +15.9% in one potency, +12.5% in a second potency, +9.26% in a third potency, +8.0% potency floor, some HP and PP, +54 BP <br />
+**Goal:** +100% potency and +36% potency floor overall
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
