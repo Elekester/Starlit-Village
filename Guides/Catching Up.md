@@ -52,9 +52,15 @@ In all regions you can find the NPC Guiden, his tasks grant massive XP boosts de
 
 Yuri and Truxtun in Kvaris Camp both have relatively quick Tasks for 1 million EXP. The last task in Roald's Rookies Run Ragged Series is also worth 1 million EXP and Reso offers two tasks worth 1 million EXP each, though they're a bit long.
 
-Retem City Side Tasks reward about 200,000 EXP each.
+Retem City Side Tasks reward about 100,000 or 200,000 EXP each.
 Kvaris Camp Side Tasks reward about 300,000 EXP each.
 Stia Camp Side Tasks reward 600,000 or 750,000 EXP each.
+
+|Region|Side Task EXP|Rate EXP/hour|
+|:-----|------------:|---:|
+|Retem|100k - 200k|2.4mil|
+|Kvaris|300k||
+|Stia|600k - 750k||
 
 ### Daily Tasks and Leah May's Side Tasks
 
