@@ -218,15 +218,15 @@ The current endgame is dominated by the Neos Astraean Weapons, which drop from t
 If you can't obtain a Neos Astraean Weapon there are several alternatives you can use until you obtain one, listed below.
 
 #### Weapon Series
-|Name|Lv|Element|Notes|
-|:-|:-:|:-:|:-|
-|Effulgent|60|Fire|-|
-|Tenebrous|60|Ice|-|
-|Trunkul|62|-|The Trunkul weapon's potency provides a massive damage resistance, making it the ideal defensive weapon.|
-|Kouklophis|62|-|Available in the Stia Exchange Shop.|
-|Gunblaze|65|-|-|
-|Neos Justitean|70|Light|-|
-|Neos Astraean|70|-|Available in the Aegis Integra Exchange Shop.|
+|Name|Lv|Notes|
+|:-|:-:|:-|
+|Effulgent|60|Fire Element.|
+|Tenebrous|60|Ice Element.|
+|Trunkul|62|The Trunkul weapon's potency provides a massive damage resistance, making it the ideal defensive weapon.|
+|Kouklophis|62|Available in the Stia Exchange Shop.|
+|Gunblaze|65|-|
+|Neos Justitean|70|Light Element.|
+|Neos Astraean|70|Available in the Aegis Integra Exchange Shop.|
 
 For an exhaustive list of weapons see the [Weapons Pages on the Arks-Visiphone](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Swords).
 
@@ -345,6 +345,10 @@ For weapons with 75% - 100% variance, Fixa Attack is better than Fixa Fatale. Fo
 |Fixa Enthusia|Active PP Recovery Boost|
 
 Which Fixa you prefer on your weapons is going to depend a lot on your playstyle and which class you're using. For classes with poor PP management, Fixa Performa, Natura, and Enthusia will help. For classes that lack defensive abilities, Fixa Guard will be useful.
+
+### Optimization
+
+As you're upgrading your gear, you can use the [NGS Damage Calculator 2](https://docs.google.com/spreadsheets/d/195u5PhyZNLBWO0kkR7ebbcf9XARvtBS9eJbSRkiAyIk/edit#gid=0) to determine the exact outcome of making certain changes. You can calculate how different weapons, armor, augments, and fixa will affect your weapon's damage.
 
 
 
