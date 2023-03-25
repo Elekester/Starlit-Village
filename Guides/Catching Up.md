@@ -18,7 +18,7 @@ This page has a [Summary](Catching%20Up%20Summary.md).
 
 |Goals|
 |:---|
-|☐&emsp;Start augmenting your Renaissa or other low-level gear with [Ultra Budget Augments](#ultra-budget-augments). You do not need to finish this now, just add more augments as you earn N-meseta.|
+|☐&emsp;Start augmenting your Renaissa or other low-level gear with [Ultra Budget Augments](#ultra-budget-augments).|
 |☐&emsp;**Complete Chapter 1 of the Main Story in Aelio.**|
 |☐&emsp;Complete Aelio Cocoons and Towers. Make sure to spend those Skill Points!|
 |☐&emsp;**Complete Chapter 2 of the Main Story in Retem.**|
