@@ -62,7 +62,16 @@ Completing your daily tasks will offer a moderate amount of EXP. There are two w
 
 ### Yellow Triggers and the Trooper Quests
 
-Aelios can be done at a rate of 35 runs/hour.
+Battledia: Yellows are the best repeatable source of EXP bar none. You get bonus experience for completing these with a party, so make sure to do so! You'll also receive Gold Primm Swords and Armor that can be sold on the Personal Shop for profit or used to enhance your own gear. The party leader must have 5 B-Trigger/Common Yellows, which can be bought for 1,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each. In exchange they receive a small boost in Exp earned.
+
+|Battledia: Yellow|Lv|Host Exp|Party Member Exp|Exp Rate|
+|:----------------|:-:|------:|---------------:|-------:|
+|Aelio Troopers Rank 1|12|107k|97k|3.4mil Exp/hour|
+|Retem Troopers Rank 1|21|168k|153k|-|
+|Aelio Troopers Rank 2|31|295k|268k|9.4mil Exp/hour|
+|Retem Troopers Rank 2|41|361k|328k|-|
+|Kvaris Troopers Rank 1|51|537k|488k|-|
+|Stia Troppers Rank 1|61|669k|608k|21mil Exp/hour|
 
 ### Combat Zones
 
