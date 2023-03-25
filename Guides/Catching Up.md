@@ -48,13 +48,9 @@ Completing the Story of PSO2 NGS gives you a decent amount of EXP to start with.
 
 ### Side Tasks
 
-In all regions you can find the NPC Guiden, his tasks grant massive XP boosts designed to catch you up to the current content. In particular his quest, "Advice about the Quest Counter" rewards you 10 million EXP. Speeda can also be found in all regions and has a task worth 350,000 EXP that introduces you to the races.
+In all regions you can find the NPC Guiden, his tasks grant massive XP boosts designed to catch you up to the current content. In particular his quest, "Advice about the Quest Counter" rewards you 10 million EXP. Speeda can also be found in all regions and has a task worth 350,000 EXP that introduces you to the field races.
 
 Yuri and Truxtun in Kvaris Camp both have relatively quick Tasks for 1 million EXP. The last task in Roald's Rookies Run Ragged Series is also worth 1 million EXP and Reso offers two tasks worth 1 million EXP each, though they're a bit long.
-
-Retem City Side Tasks reward about 100,000 or 200,000 EXP each.
-Kvaris Camp Side Tasks reward about 300,000 EXP each.
-Stia Camp Side Tasks reward 600,000 or 750,000 EXP each.
 
 |Region|Side Task EXP|Rate EXP/hour|
 |:-----|------------:|---:|
