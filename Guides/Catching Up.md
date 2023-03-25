@@ -306,3 +306,11 @@ During **Residents of Central City** you'll need to limit break one of your weap
 1. Complete Cocoons and spend skill points. The Skill Trees for all classes have abilities that increase your power or even change how a class plays. You will want to do these all eventually.
 2. Level up by either completing Side Tasks and defeating enemies in Combat Zones. I really enjoyed doing the side tasks and suggest doing those as well. They also provide N-meseta that you can spend on upgrading your gear.
 3. Upgrading your gear. Right now you probably won't have too much money or materials to upgrade your gear. BUT, there is an easy way to make some money available to you: Red Boxes. Scattered around each region is about 100 Red Boxes containing N-Meseta, SG, and gear. There are also 10 alpha reactors around Aelio that respawn daily for an easy 49,000 ![N-Meseta](/Images/NGSUIMSTIcon.png).
+
+
+
+## Appendix R: Meeting Nadereh and Leaving Retem
+
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your Renaissa gear. You might be able to afford filling three slots on each piece of gear as well as fully unlocking the potential of your Renaissa weapon.
+
+**The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level!
