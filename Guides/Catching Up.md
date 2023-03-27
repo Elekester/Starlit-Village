@@ -88,7 +88,7 @@ In the table below **Lv** refers to the minimum level required to use the method
 
 |Method|![N-Meseta](/Images/NGSUIMSTIcon.png)/hour|Lv|Boost|Player Shop|Auto Sell|Notes|
 |:-----|------------------:|:-:|:-------:|:-----------:|:-------:|:---|
-|[Recurring Tasks](#recurring-tasks)|510k - 1mil|1|❌|❌|❌|1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/week. Takes 15 minutes to 30 minutes daily to complete.|
+|[Recurring Tasks](#recurring-tasks)|600k - 1.2mil|1|❌|❌|❌|1.8mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/week. Takes 15 minutes to 30 minutes daily to complete.|
 |[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil ![N-Meseta](/Images/NGSUIMSTIcon.png), obtainable once per account. Rate is a very rough estimate.|
 |[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|25|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
 |[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k|40|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
@@ -97,7 +97,7 @@ In the table below **Lv** refers to the minimum level required to use the method
 
 ### Recurring Tasks
 
-**Rate:** 1.8 million ![N-Meseta](/Images/NGSUIMSTIcon.png)/week (500,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour)
+**Rate:** 2.1 million ![N-Meseta](/Images/NGSUIMSTIcon.png)/week (600,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour)
 
 Each region has its own valuable gathering item you can obtain. They respawn daily and net you 104,000 N-meseta each day.
 
@@ -106,7 +106,7 @@ Each region has its own valuable gathering item you can obtain. They respawn dai
 - In Central Kvaris there are 10 Snoal. They are each worth 3,500 ![N-Meseta](/Images/NGSUIMSTIcon.png).
 - At Dreisen Plant in Stia, you can find Invisible Boxes that contain rare augments and minerals.
 
-Additionally you can complete the Weekly Tasks to receive 800,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each week and your Alliance Tasks to receive 1-5 Beta Reactors worth 100,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each. If you're in a top 10 Alliance, you'll receive 3 for a total of 300,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) from Alliance Tasks.
+Additionally you can complete the Daily Tasks to receive 134,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) daily, the Weekly Tasks to receive 150,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each week and your Alliance Tasks to receive 1-5 Beta Reactors worth 100,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each. If you're in a top 10 Alliance, you'll receive 3 for a total of 300,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) from Alliance Tasks.
 
 ### Red Boxes
 
