@@ -1,6 +1,4 @@
-# Getting Ready for Slayer Full Guide
-
-This page has a [Summary](Catching%20Up%20Summary.md).
+# Nel's Guide to Catchin Up
 
 ## To-Do
 
