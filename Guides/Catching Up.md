@@ -1,4 +1,4 @@
-# Nel's Guide to Catchin Up
+# Nel's Guide to Catching Up in PSO2: NGS
 
 ## To-Do
 
@@ -15,7 +15,7 @@ This code regens the ToC.
 console.log([...document.getElementsByTagName('h2')].map(e => {
     header = e.innerText;
     html = header.replaceAll(' ', '-').replaceAll(':','')
-    return '- ['+header+'](#' + html + ')'
+    return '\t- ['+header+'](#' + html + ')'
 }).join('\n'))
 ```
 
