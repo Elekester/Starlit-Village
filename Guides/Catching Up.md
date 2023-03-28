@@ -4,7 +4,8 @@
 
 |To-Do|
 |:---|
-|☐&emsp;Finish writing the "appendicies"|
+|☐&emsp;Finish writing the main story|
+|☐&emsp;Write the postgame|
 |☐&emsp;Update the gearing guide with info on natural grind limits.|
 |☐&emsp;Revise|
 |☐&emsp;Edit|
