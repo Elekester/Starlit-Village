@@ -63,9 +63,9 @@ Yuri and Truxtun in Kvaris Camp both have relatively quick Tasks for 1 million E
 
 |Region|Side Task EXP|EXP/hour|
 |:-----|------------:|---:|
-|Retem|100k - 200k|2.4mil|
-|Kvaris|300k||
-|Stia|600k - 750k||
+|Retem|100k - 200k|2mil|
+|Kvaris|300k|6mil|
+|Stia|600k - 750k|12mil|
 
 ### Daily Tasks and Leah May's Side Tasks
 
