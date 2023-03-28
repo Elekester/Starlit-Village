@@ -102,7 +102,7 @@ Right off the bat, the first quest will lead you to Guiden's 10 million Exp ques
 
 
 
-## Endgame and Slayer Preparation
+## The Endgame and Update Preparation
 
 ### Stia Checklist
 |Goals|
