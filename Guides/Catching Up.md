@@ -8,7 +8,16 @@ This page has a [Summary](Catching%20Up%20Summary.md).
 |:---|
 |☐&emsp;Finish writing the "appendicies"|
 |☐&emsp;Update the gearing guide with info on natural grind limits.|
-|☐&emsp;Swap the appendicies and the main content.|
+
+This code regens the ToC.
+
+```JavaScript
+console.log([...document.getElementsByTagName('h2')].map(e => {
+    header = e.innerText;
+    html = header.replaceAll(' ', '-').replaceAll(':','')
+    return '- ['+header+'](#' + html + ')'
+}).join('\n'))
+```
 
 
 
