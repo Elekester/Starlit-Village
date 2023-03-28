@@ -27,12 +27,15 @@ console.log([...document.getElementsByTagName('h2')].map(e => {
     - [Main Story Chapter 2: Retem](#Main-Story-Chapter-2-Retem)
     - [Main Story Chapter 3: Kvaris](#Main-Story-Chapter-3-Kvaris)
     - [Main Story Chapter 4: Stia](#Main-Story-Chapter-4-Stia)
-- [The Endgame and Update Preparation](#The-Endgame-and-Update-Preparation)
+- Postgame
+    - [The Endgame and Update Preparation](#The-Endgame-and-Update-Preparation)
 - Appendicies
     - [Appendix A: Raising Your Battle Power](#Appendix-A-Raising-Your-Battle-Power)
     - [Appendix B: Leveling Up](#Appendix-B-Leveling-Up)
     - [Appendix C: Upgrading Your Gear](#Appendix-C-Upgrading-Your-Gear)
     - [Appendix D: Making N-Meseta](#Appendix-D-Making-N-Meseta)
+
+
 
 ## Main Story Chapter 1: Aelio Main Story
 
@@ -104,7 +107,15 @@ Right off the bat, the first quest will lead you to Guiden's 10 million Exp ques
 
 
 
-## The Endgame and Update Preparation
+## The Endgame
+
+### Stia Checklist
+|Goals|
+|:---|
+
+
+
+## Update Preparation
 
 ### Stia Checklist
 |Goals|
