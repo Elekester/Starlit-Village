@@ -240,7 +240,7 @@ There are two different paths you can take for armor upgrades. Most Armor is def
 Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Eclaireur Armor provides a slightly higher boost to potency at the cost of -5% Damage Resist. Ajax Armor has slightly more defense, provides +30 HP, +5 PP, and +1% Damage Resist. The Eclaireur Armor is technically best in slot, but both armors are good.
 
 #### Common Defensive Armors
-|Name|Lv|Grind Limit|Potency|Notes|
+|Name|Grind|Lv|Potency|Notes|
 |:---|:-:|:-:|:------|:----|
 |Renaissa Armor|+30|1|+1% to all potencies|This armor is obtained for free on new accounts by progressing through the story.|
 |Theseus Armor|+30|5|-|-|
@@ -254,7 +254,7 @@ Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Ecl
 |Ajax Armor|+50|70|+3.5% to all potencies|Endgame armor.|
 
 #### Gigantix Armors
-|Name|Lv|Grind Limit|Potency|Notes|
+|Name|Grind|Lv|Potency|Notes|
 |:---|:-:|:-:|:------|:----|
 |Geant Armor|+40|15|+2% to all potencies|-|
 |Greas Armor|+40|31|+2% to all potencies|Provides more PP and defense than Geant armor at the cost of HP.|
