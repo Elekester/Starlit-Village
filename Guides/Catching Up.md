@@ -22,15 +22,17 @@ console.log([...document.getElementsByTagName('h2')].map(e => {
 
 
 ## Table of Contents
-- [Main Story Chapter 1: Aelio Main Story](#Main-Story-Chapter-1-Aelio-Main-Story)
-- [Main Story Chapter 2: Retem](#Main-Story-Chapter-2-Retem)
-- [Main Story Chapter 3: Kvaris](#Main-Story-Chapter-3-Kvaris)
-- [Main Story Chapter 4: Stia](#Main-Story-Chapter-4-Stia)
+- Main Story
+    - [Main Story Chapter 1: Aelio Main Story](#Main-Story-Chapter-1-Aelio-Main-Story)
+    - [Main Story Chapter 2: Retem](#Main-Story-Chapter-2-Retem)
+    - [Main Story Chapter 3: Kvaris](#Main-Story-Chapter-3-Kvaris)
+    - [Main Story Chapter 4: Stia](#Main-Story-Chapter-4-Stia)
 - [The Endgame and Update Preparation](#The-Endgame-and-Update-Preparation)
-- [Appendix A: Raising Your Battle Power](#Appendix-A-Raising-Your-Battle-Power)
-- [Appendix B: Leveling Up](#Appendix-B-Leveling-Up)
-- [Appendix C: Upgrading Your Gear](#Appendix-C-Upgrading-Your-Gear)
-- [Appendix D: Making N-Meseta](#Appendix-D-Making-N-Meseta)
+- Appendicies
+    - [Appendix A: Raising Your Battle Power](#Appendix-A-Raising-Your-Battle-Power)
+    - [Appendix B: Leveling Up](#Appendix-B-Leveling-Up)
+    - [Appendix C: Upgrading Your Gear](#Appendix-C-Upgrading-Your-Gear)
+    - [Appendix D: Making N-Meseta](#Appendix-D-Making-N-Meseta)
 
 ## Main Story Chapter 1: Aelio Main Story
 
