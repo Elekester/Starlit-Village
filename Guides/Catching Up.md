@@ -13,8 +13,15 @@ This page has a [Summary](Catching%20Up%20Summary.md).
 
 
 ## Table of Contents
-
-
+- [Main Story Chapter 1: Aelio Main Story](#Main-Story Chapter 1 Aelio Main Story)
+- [Main Story Chapter 2: Retem](#Main-Story Chapter 2 Retem)
+- [Main Story Chapter 3: Kvaris](#Main-Story Chapter 3 Kvaris)
+- [Main Story Chapter 4: Stia](#Main-Story Chapter 4 Stia)
+- [Endgame and Slayer Preparation](#Endgame-and Slayer Preparation)
+- [Appendix A: Raising Your Battle Power](#Appendix-A Raising Your Battle Power)
+- [Appendix B: Leveling Up](#Appendix-B Leveling Up)
+- [Appendix C: Upgrading Your Gear](#Appendix-C Upgrading Your Gear)
+- [Appendix D: Making N-Meseta](#Appendix-D Making N-Meseta)
 
 ## Main Story Chapter 1: Aelio Main Story
 
