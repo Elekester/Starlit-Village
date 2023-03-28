@@ -1,6 +1,6 @@
 # Nel's Guide to Catching Up in PSO2: NGS
 
-## To-Do
+## Editor's Notes
 
 |To-Do|
 |:---|
