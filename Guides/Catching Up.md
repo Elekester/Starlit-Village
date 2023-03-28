@@ -6,6 +6,8 @@
 |:---|
 |☐&emsp;Finish writing the "appendicies"|
 |☐&emsp;Update the gearing guide with info on natural grind limits.|
+|☐&emsp;Revise|
+|☐&emsp;Write intro|
 
 This code regens the ToC.
 
