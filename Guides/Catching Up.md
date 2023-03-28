@@ -2,6 +2,14 @@
 
 This page has a [Summary](Catching%20Up%20Summary.md).
 
+## To-Do
+
+|To-Do|
+|:---|
+|☐&emsp;Finish writing the "appendicies"|
+|☐&emsp;Update the gearing guide with info on natural grind limits.|
+|☐&emsp;Swap the appendicies and the main content.|
+
 
 
 ## Table of Contents
