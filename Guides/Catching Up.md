@@ -26,7 +26,7 @@ console.log([...document.getElementsByTagName('h2')].map(e => {
 - [Main Story Chapter 2: Retem](#Main-Story-Chapter-2-Retem)
 - [Main Story Chapter 3: Kvaris](#Main-Story-Chapter-3-Kvaris)
 - [Main Story Chapter 4: Stia](#Main-Story-Chapter-4-Stia)
-- [Endgame and Slayer Preparation](#Endgame-and-Slayer-Preparation)
+- [The Endgame and Update Preparation](#The-Endgame-and-Update-Preparation)
 - [Appendix A: Raising Your Battle Power](#Appendix-A-Raising-Your-Battle-Power)
 - [Appendix B: Leveling Up](#Appendix-B-Leveling-Up)
 - [Appendix C: Upgrading Your Gear](#Appendix-C-Upgrading-Your-Gear)
