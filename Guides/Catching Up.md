@@ -386,7 +386,7 @@ During **Residents of Central City** you'll need to limit break one of your weap
 
 ## Appendix R: Meeting Nadereh and Leaving Retem
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear. You might be able to afford filling three slots on each piece of gear as well as fully unlocking the potential of your Renaissa weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 **The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
 
@@ -395,16 +395,16 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio a
 |:---|
 |☐&emsp;Complete the Retem Cocoons and Towers, spending the skill points you receive.|
 |☐&emsp;Have a weapon and three pieces of armor with 3 ultra budget augments on each piece.|
-|☐&emsp;Achieve a Battle Power of 1474+. You can do this at around level 24 with the above goals.|
+|☐&emsp;Achieve a Battle Power of 1474+. You can do this at around level 25 with the above goals.|
 |☐&emsp;Complete Chapter 2 of the Main Story|
 
 When you finish **A Happy Ending** you'll have two story quests to complete. **Retem's Independent Partisan Squad** and **Mission in Kvaris**. The former unlocks the Rank 2 versions of Retem's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Kvaris.
 
 ## Appendix K: The Quintuplets and Plowing through Kvaris
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear. You might be able to afford filling four slots on each piece of gear as well as fully unlocking the potential of your Renaissa weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
-Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will probably put you around level 39 with at least 1750 BP. If you can get your equipment to +40 grind and put four augments on to each you'll reach the BP requirement for the **Mission in Kvaris** quest. If you can't afford this yet, the BP requirement can also be obtained by reaching level 42.
+Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will probably put you around level 40 with at least 1750 BP, a little short of the 1813 BP requirement of **Mission in Kvaris**. You can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade your gear. Grab Geant or Schwarz Armor and put 4 augments on it.
 
 ### Kvaris Checklist
 |Goals|
