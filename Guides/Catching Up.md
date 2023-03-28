@@ -13,41 +13,71 @@ This page has a [Summary](Catching%20Up%20Summary.md).
 
 
 ## Table of Contents
-- [Getting Ready Checklist](#getting-ready-checklist)
-- [Leveling Up](#leveling-up)
-- [Making N-Meseta](#making-n-meseta)
-- [Raising Your Battle Power](#raising-your-battle-power)
-- [Upgrading Your Gear](#upgrading-your-gear)
-- [Appendix A: The Tutorial and Getting Out of Aelio](#appendix-a-the-tutorial-and-getting-out-of-aelio)
-- [Appendix R: Meeting Nadereh and Leaving Retem](#appendix-r-meeting-nadereh-and-leaving-retem)
 
 
 
-## Getting Ready Checklist
+## Main Story Chapter 1: Aelio Main Story
 
+Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
+
+Once you've completed the second Cocoon in **Advice from Liu Lin II** you'll  be gifted every weapon in the Renaissa Series and a complete set of Renaissa Armor. They will be much stronger than your starting equipment and will last you quite a while. You can equip any weapon useable by your main class (or your subclass once you've unlocked it).
+
+When you learn weapon enhancement during **Advice form Rossa** make sure not to use any Renaissa weapons that you might want to try out as materials! To avoid this, you can equip or lock any item in your inventory to prevent you from accidentally losing it. If you're not sure what to do, just use a Primm weapon to enhance any of your weapons.
+
+If you do accidentally get rid of the Renaissa weapons, other easily available weapons at this point are Primm, Tzvia, and Theseus weapons.
+
+During **Residents of Central City** you'll need to limit break one of your weapons. The Renaissa weapons require a whopping 30 Trinite and 120,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to limit break. Instead grab some monotite in Central Aelio and limit break a Primm weapon.
+
+**An Abundance of Caution** will likely be the first Task that requires you to reach a certain Battle Power that you don't meet due to the Renaissa gear. Ran helpfully mentions speaking to Segreto by the Cafe, who will help you unlock your weapon's potential. You might also speak with Deeno now to learn about the Personal Shops. Even with unlocking the first level of your weapon's potential, you probably still won't have enough Battle Power. This is important. Battle Power is how NGS locks you out of content you're not ready for. In order to reach the endgame, you'll have to deal with it one way or another. At this point you have three main ways to get BP:
+
+1. Complete Cocoons and spend skill points. The Skill Trees for all classes have abilities that increase your power or even change how a class plays. You will want to do these all eventually.
+2. Level up by either completing Side Tasks and defeating enemies in Combat Zones. I really enjoyed doing the side tasks and suggest doing those as well. They also provide N-meseta that you can spend on upgrading your gear.
+3. Upgrading your gear. Right now you probably won't have too much money or materials to upgrade your gear. BUT, there is an easy way to make some money available to you: Red Boxes. Scattered around each region is about 100 Red Boxes containing N-Meseta, SG, and gear. There are also 10 alpha reactors around Aelio that respawn daily for an easy 49,000 ![N-Meseta](/Images/NGSUIMSTIcon.png).
+
+### Aelio Checklist
 |Goals|
 |:---|
-|☐&emsp;Start augmenting your Renaissa or other low-level gear with [Ultra Budget Augments](#ultra-budget-augments).|
-|☐&emsp;**Complete Chapter 1 of the Main Story in Aelio.**|
-|☐&emsp;Complete Aelio Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Complete Chapter 2 of the Main Story in Retem.**|
-|☐&emsp;Complete Retem Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Complete Chapter 3 of the Main Story in Kvaris.**|
-|☐&emsp;Complete Kvaris Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Complete Chapter 4 of the Main Story in Stia.**|
-|☐&emsp;Complete Stia Cocoons and Towers. Make sure to spend those Skill Points!|
-|☐&emsp;**Reach Level 70 in your first class.**|
-|☐&emsp;Add [Budget Augments](#budget-augments) to your endgame gear.|
-|☐&emsp;**Find rare items, make N-Meseta, and enjoy the endgame.**|
-|☐&emsp;Generate Add-On Skills for your first class.|
-|☐&emsp;**Reach Level 70 in other classes you enjoy.**|
-|☐&emsp;Generate Add-On Skills for your other classes.|
-|☐&emsp;**Gather augments and gear for Slayer, which appears to be a Ranged Class.**|
-|☐&emsp;Update your Phashion and add [Best In Slot Augments](#best-in-slot-augments) to your endgame gear.|
+|☐&emsp;Complete the Aelio Cocoons and Towers, spending the skill points you receive.|
+|☐&emsp;Have a weapon and three pieces of armor with 2 ultra budget augments on each piece.|
+|☐&emsp;Achieve a Battle Power of 1100+. You can do this with the above.|
+|☐&emsp;Complete Chapter 1 of the Main Story|
 
 
 
-## Leveling Up
+## Main Story Chapter 2: Retem
+
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+
+**The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
+
+When you finish **A Happy Ending** you'll have two story quests to complete. **Retem's Independent Partisan Squad** and **Mission in Kvaris**. The former unlocks the Rank 2 versions of Retem's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Kvaris.
+
+### Retem Checklist
+|Goals|
+|:---|
+|☐&emsp;Complete the Retem Cocoons and Towers, spending the skill points you receive.|
+|☐&emsp;Have a weapon and three pieces of armor with 3 ultra budget augments on each piece.|
+|☐&emsp;Achieve a Battle Power of 1474+. You can do this at around level 25 with the above goals.|
+|☐&emsp;Complete Chapter 2 of the Main Story|
+
+
+
+## Main Story Chapter 3: Kvaris
+
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+
+Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will probably put you around level 40 with at least 1750 BP, a little short of the 1813 BP requirement of **Mission in Kvaris**. You can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade some of your gear. Grab some Geant or Schwarz Armor and a Greaga, Koukloziat, or Relik weapon. Make sure to fully augment this gear. That will take around 200,000 - 250,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to do everything.
+
+### Kvaris Checklist
+|Goals|
+|:---|
+|☐&emsp;Have a weapon and three pieces of armor with 4 ultra budget augments on each piece.|
+|☐&emsp;Achieve a Battle Power of 1813. You can do this at around level 39.|
+|☐&emsp;Complete Chapter 3 of the Main Story|
+
+
+
+## Appendix A: Leveling Up
 
 In order for a class to reach level 70, the current level cap, you need to get about 58.5 million EXP. After that every 2 million EXP grants you 1 N-EX-Cube and 10 N-Class-Cubes which allow you to further upgrade your gear and Add-on Skills.
 
@@ -90,7 +120,7 @@ The listed level is the level at which you can expect to be able to utilize that
 
 
 
-## Making N-Meseta
+## Appendix B: Making N-Meseta
 
 In the table below **Lv** refers to the minimum level required to use the method and be effective, **Boost** refers to whether or N-Meseta Earned boosts will increase the listed rate, **Player Shop** refers to whether or not the method requires access to the Personal Shop, and **Auto Sell** refers to if Auto Sell is required to achieve the rate listed.
 
@@ -179,7 +209,7 @@ Don't forget to sell your rewards on the Personal Shop.
 
 
 
-## Raising Your Battle Power
+## Appendix C: Raising Your Battle Power
 
 Battle Power (BP) is the main way that NGS locks content. New areas, quests, and story progression are all behind minimum BP requirements. You can increase your Battle Power in three ways: leveling up your main class. spending skill points in both your main and subclass, and upgrading your gear.
 
@@ -212,7 +242,7 @@ See [Upgrading Your Gear](#upgrading-your-gear) for more information.
 
 
 
-## Upgrading Your Gear
+## Appendix D: Upgrading Your Gear
 
 ### Weapon Upgrades
 
@@ -362,62 +392,3 @@ Which Fixa you prefer on your weapons is going to depend a lot on your playstyle
 ### Optimization
 
 As you're upgrading your gear, you can use the [NGS Damage Calculator 2](https://docs.google.com/spreadsheets/d/195u5PhyZNLBWO0kkR7ebbcf9XARvtBS9eJbSRkiAyIk/edit#gid=0) to determine the exact outcome of making certain changes. You can calculate how different weapons, armor, augments, and fixa will affect your weapon's damage.
-
-
-
-## Appendix A: The Tutorial and Getting Out of Aelio
-
-Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
-
-Once you've completed the second Cocoon in **Advice from Liu Lin II** you'll  be gifted every weapon in the Renaissa Series and a complete set of Renaissa Armor. They will be much stronger than your starting equipment and will last you quite a while. You can equip any weapon useable by your main class (or your subclass once you've unlocked it).
-
-When you learn weapon enhancement during **Advice form Rossa** make sure not to use any Renaissa weapons that you might want to try out as materials! To avoid this, you can equip or lock any item in your inventory to prevent you from accidentally losing it. If you're not sure what to do, just use a Primm weapon to enhance any of your weapons.
-
-If you do accidentally get rid of the Renaissa weapons, other easily available weapons at this point are Primm, Tzvia, and Theseus weapons.
-
-During **Residents of Central City** you'll need to limit break one of your weapons. The Renaissa weapons require a whopping 30 Trinite and 120,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to limit break. Instead grab some monotite in Central Aelio and limit break a Primm weapon.
-
-**An Abundance of Caution** will likely be the first Task that requires you to reach a certain Battle Power that you don't meet due to the Renaissa gear. Ran helpfully mentions speaking to Segreto by the Cafe, who will help you unlock your weapon's potential. You might also speak with Deeno now to learn about the Personal Shops. Even with unlocking the first level of your weapon's potential, you probably still won't have enough Battle Power. This is important. Battle Power is how NGS locks you out of content you're not ready for. In order to reach the endgame, you'll have to deal with it one way or another. At this point you have three main ways to get BP:
-
-1. Complete Cocoons and spend skill points. The Skill Trees for all classes have abilities that increase your power or even change how a class plays. You will want to do these all eventually.
-2. Level up by either completing Side Tasks and defeating enemies in Combat Zones. I really enjoyed doing the side tasks and suggest doing those as well. They also provide N-meseta that you can spend on upgrading your gear.
-3. Upgrading your gear. Right now you probably won't have too much money or materials to upgrade your gear. BUT, there is an easy way to make some money available to you: Red Boxes. Scattered around each region is about 100 Red Boxes containing N-Meseta, SG, and gear. There are also 10 alpha reactors around Aelio that respawn daily for an easy 49,000 ![N-Meseta](/Images/NGSUIMSTIcon.png).
-
-### Aelio Checklist
-|Goals|
-|:---|
-|☐&emsp;Complete the Aelio Cocoons and Towers, spending the skill points you receive.|
-|☐&emsp;Have a weapon and three pieces of armor with 2 ultra budget augments on each piece.|
-|☐&emsp;Achieve a Battle Power of 1100+. You can do this with the above.|
-|☐&emsp;Complete Chapter 1 of the Main Story|
-
-
-
-## Appendix R: Meeting Nadereh and Leaving Retem
-
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
-
-**The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
-
-### Retem Checklist
-|Goals|
-|:---|
-|☐&emsp;Complete the Retem Cocoons and Towers, spending the skill points you receive.|
-|☐&emsp;Have a weapon and three pieces of armor with 3 ultra budget augments on each piece.|
-|☐&emsp;Achieve a Battle Power of 1474+. You can do this at around level 25 with the above goals.|
-|☐&emsp;Complete Chapter 2 of the Main Story|
-
-When you finish **A Happy Ending** you'll have two story quests to complete. **Retem's Independent Partisan Squad** and **Mission in Kvaris**. The former unlocks the Rank 2 versions of Retem's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Kvaris.
-
-## Appendix K: The Quintuplets and Plowing through Kvaris
-
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
-
-Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will probably put you around level 40 with at least 1750 BP, a little short of the 1813 BP requirement of **Mission in Kvaris**. You can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade some of your gear. Grab some Geant or Schwarz Armor and a Greaga, Koukloziat, or Relik weapon. Make sure to fully augment this gear. That will take around 200,000 - 250,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to do everything.
-
-### Kvaris Checklist
-|Goals|
-|:---|
-|☐&emsp;Have a weapon and three pieces of armor with 4 ultra budget augments on each piece.|
-|☐&emsp;Achieve a Battle Power of 1813. You can do this at around level 39.|
-|☐&emsp;Complete Chapter 3 of the Main Story|
