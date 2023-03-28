@@ -241,7 +241,7 @@ Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Ecl
 
 #### Common Defensive Armors
 |Name|Lv|Grind Limit|Potency|Notes|
-|:---|:-:|:------|:----|
+|:---|:-:|:-:|:------|:----|
 |Renaissa Armor|+30|1|+1% to all potencies|This armor is obtained for free on new accounts by progressing through the story.|
 |Theseus Armor|+30|5|-|-|
 |Qual De Armor Arga/Belta/Sheza|+40|12|+1% to two potencies|-|
@@ -255,7 +255,7 @@ Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Ecl
 
 #### Gigantix Armors
 |Name|Lv|Grind Limit|Potency|Notes|
-|:---|:-:|:------|:----|
+|:---|:-:|:-:|:------|:----|
 |Geant Armor|+40|15|+2% to all potencies|-|
 |Greas Armor|+40|31|+2% to all potencies|Provides more PP and defense than Geant armor at the cost of HP.|
 |Behlgren Armor|+40|52|+2.75% to all potencies|-|
