@@ -240,25 +240,26 @@ There are two different paths you can take for armor upgrades. Most Armor is def
 Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Eclaireur Armor provides a slightly higher boost to potency at the cost of -5% Damage Resist. Ajax Armor has slightly more defense, provides +30 HP, +5 PP, and +1% Damage Resist. The Eclaireur Armor is technically best in slot, but both armors are good.
 
 #### Common Defensive Armors
-|Name|Lv|Potency|Notes|
+|Name|Lv|Grind Limit|Potency|Notes|
 |:---|:-:|:------|:----|
-|Renaissa Armor|1|+1% to all potencies|This armor could last you until the endgame.|
-|Qual De Armor Arga/Belta/Sheza|12|+1% to two potencies|-|
-|Vios Armor|24|+1% to all potencies|-|
-|Schwarzest/Schwarzgarde/Schwarzrosso Armor|31|+2% to one potency|-|
-|Defrozzis Armor|42|+2% to all potencies|-|
-|Sestato Armor Arga/Belta/Sheza|47|+2.25% to two potencies|-|
-|Efitus Armor Arga/Belta/Sheza|57|+3% to two potencies|-|
-|Eptize Armor Vida/Vio|61|+3% to all potencies|Vida provides HP and Vio provides PP|
-|Ajax Armor|70|+3.5% to all potencies|Endgame armor.|
+|Renaissa Armor|+30|1|+1% to all potencies|This armor is obtained for free on new accounts by progressing through the story.|
+|Theseus Armor|+30|5|-|-|
+|Qual De Armor Arga/Belta/Sheza|+40|12|+1% to two potencies|-|
+|Vios Armor|+40|24|+1% to all potencies|-|
+|Schwarzest/Schwarzgarde/Schwarzrosso Armor|+40|31|+2% to one potency|-|
+|Defrozzis Armor|+40|42|+2% to all potencies|-|
+|Sestato Armor Arga/Belta/Sheza|+40|47|+2.25% to two potencies|-|
+|Efitus Armor Arga/Belta/Sheza|+50|57|+3% to two potencies|-|
+|Eptize Armor Vida/Vio|+50|61|+3% to all potencies|Vida provides HP and Vio provides PP|
+|Ajax Armor|+50|70|+3.5% to all potencies|Endgame armor.|
 
 #### Gigantix Armors
-|Name|Lv|Potency|Notes|
+|Name|Lv|Grind Limit|Potency|Notes|
 |:---|:-:|:------|:----|
-|Geant Armor|15|+2% to all potencies|-|
-|Greas Armor|31|+2% to all potencies|Provides more PP and defense than Geant armor at the cost of HP.|
-|Behlgren Armor|52|+2.75% to all potencies|-|
-|Eclaireur Armor|65|+4% to all potencies|Endgame armor.|
+|Geant Armor|+40|15|+2% to all potencies|-|
+|Greas Armor|+40|31|+2% to all potencies|Provides more PP and defense than Geant armor at the cost of HP.|
+|Behlgren Armor|+40|52|+2.75% to all potencies|-|
+|Eclaireur Armor|+50|65|+4% to all potencies|Endgame armor.|
 
 For an exhaustive list of armor see the [Units page on the Arks-Visiphone](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Units).
 
