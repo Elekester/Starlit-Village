@@ -404,7 +404,7 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
-Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will probably put you around level 40 with at least 1750 BP, a little short of the 1813 BP requirement of **Mission in Kvaris**. You can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade your gear. Grab Geant or Schwarz Armor and put 4 augments on it.
+Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will probably put you around level 40 with at least 1750 BP, a little short of the 1813 BP requirement of **Mission in Kvaris**. You can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade your gear. Grab Geant or Schwarz Armor and a Greaga, Koukloziat, or Relik weapon. Make sure to fully augment this gear. That will take around 170,000 ![N-Meseta](/Images/NGSUIMSTIcon.png).
 
 ### Kvaris Checklist
 |Goals|
