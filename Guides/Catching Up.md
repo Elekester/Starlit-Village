@@ -40,7 +40,7 @@ console.log([...document.getElementsByTagName('h2')].map(e => {
 
 
 
-## Main Story Chapter 1: Aelio Main Story
+## Chapter 1: Aelio Main Story
 
 Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
 
@@ -68,13 +68,13 @@ During **Residents of Central City** you'll need to limit break one of your weap
 
 
 
-## Main Story Chapter 2: Retem
+## Chapter 2: Retem
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 **The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
 
-When you finish **A Happy Ending** you'll have two story quests to complete. **Retem's Independent Partisan Squad** and **Mission in Kvaris**. The former unlocks the Rank 2 versions of Retem's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Kvaris.
+When you finish **A Happy Ending** you'll have two story quests to complete. **Retem Independent Partisan Squad** and **Mission in Kvaris**. The former unlocks the Rank 2 versions of Retem's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Kvaris.
 
 ### Retem Checklist
 |Goals|
@@ -86,26 +86,41 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 
 
 
-## Main Story Chapter 3: Kvaris
+## Chapter 3: Kvaris
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem and spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
-Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will probably put you around level 40 with at least 1750 BP, a little short of the 1813 BP requirement of **Mission in Kvaris**. You can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade some of your gear. Grab some Geant or Schwarz Armor and a Greaga, Koukloziat, or Relik weapon. Make sure to fully augment this gear. That will take around 200,000 - 250,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to do everything.
+Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will probably put you around levels 37 to 40 with enough BP for the 1813 BP requirement of **Mission in Kvaris**. If not, you can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade some of your gear. Grab some Geant or Schwarz Armor and a Greaga, Koukloziat, or Relik weapon. Make sure to fully augment this gear. That will take around 200,000 - 250,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to do everything.
+
+When you get to Kvaris you'll have to reach 1898 BP to get past **On the Search**, but you can do this by upgrading your gear if you haven't and completing Kvaris' cocoons and towers. Once you reach **A Possible Lead** you'll need to reach 2049 BP. If you've reached level 40 you can upgrade your weapon to a Codeck weapon which is a massive jump in power, but those are expensive. Since you probably just upgraded your gear, lets save some N-Meseta and level up some here. You'll be able to reach the required BP at around level 42.
+
+Just like at the end of Retem you'll have two story quests to complete. **Kvaris Independent Partisan Squad** and **A New Battle Begins**. The former unlocks the Rank 2 versions of Kvaris's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Stia.
 
 ### Kvaris Checklist
 |Goals|
 |:---|
-|☐&emsp;Upgrade your gear.|
-|☐&emsp;Achieve a Battle Power of 1813. You can do this immediately after Guiden's quest if you're gear is upgraded. Otherwise this will be possible around level 43.|
+|☐&emsp;Achieve a Battle Power of 1813. You can do this immediately after Guiden's quest, but you may need to upgrade your equipment or level up if not.|
+|☐&emsp;Upgrade your gear or reach level 37 for **On the Search** and level 44 for **On the Search**.|
+|Complete the Kvaris Cocoons and Towers, spending the skill points you receive.|
+|☐&emsp;Achieve a Battle Power of 1898. You can do this after the above.|
+|☐&emsp;Achieve a Battle Power of 2049. You can do this at around level 42 if you upgraded your gear or at level 40 if you upgrade to a Codeck weapon.|
 |☐&emsp;Complete Chapter 3 of the Main Story|
 
 
 
-## Main Story Chapter 4: Stia
+## Chapter 4: Stia
+
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+
+Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you around level 57 with about 2500 BP. You can get the BP for **Mission in Stia** by either leveling up to 60 or by upgrading to a Rugged or Crystia weapon. You might also upgrade your armor to Efitus armor.
 
 ### Stia Checklist
 |Goals|
 |:---|
+|☐&emsp;Upgrade your gear.|
+|☐&emsp;Achieve a Battle Power of 2647. You can do this immediately if you do the above or at around level 60.|
+|☐&emsp;Achieve a Battle Power of 2695.|
+|☐&emsp;Achieve a Battle Power of 2878.|
 |☐&emsp;Complete Chapter 4 of the Main Story|
 
 
@@ -171,7 +186,7 @@ Completing the Story of PSO2 NGS gives you a decent amount of EXP to start with.
 
 In all regions you can find the NPC Guiden, his tasks grant massive XP boosts designed to catch you up to the current content. In particular his quest, "Advice about the Quest Counter" rewards you 10 million EXP. Speeda can also be found in all regions and has a task worth 350,000 EXP that introduces you to the field races.
 
-Yuri and Truxtun in Kvaris Camp both have relatively quick Tasks for 1 million EXP. The last task in Roald's Rookies Run Ragged Series is also worth 1 million EXP and Reso offers two tasks worth 1 million EXP each, though they're a bit long.
+Yuri and Truxtun in Kvaris Camp both have relatively quick Tasks for 1 million EXP, but they won't offer them until you complete Kvaris's main story. The last task in Roald's Rookies Run Ragged Series is also worth 1 million EXP and Reso offers two tasks worth 1 million EXP each, though they're a bit long and not available until after Kvaris' main story.
 
 |Region|Side Task EXP|EXP/hour|
 |:-----|------------:|---:|
