@@ -30,15 +30,15 @@ console.log([...document.getElementsByTagName('h2')].map(e => {
 
 
 ## Table of Contents
-- Main Story
+- [Main Story](#Main-Story)
 	- [Chapter 1: Aelio Main Story](#Chapter-1-Aelio-Main-Story)
 	- [Chapter 2: Retem](#Chapter-2-Retem)
 	- [Chapter 3: Kvaris](#Chapter-3-Kvaris)
 	- [Chapter 4: Stia](#Chapter-4-Stia)
-- Postgame
+- [Postgame](#Postgame)
 	- [The Endgame](#The-Endgame)
 	- [Update Preparation](#Update-Preparation)
-- Appendicies
+- [Appendicies](#Appendicies)
 	- [Appendix A: Raising Your Battle Power](#Appendix-A-Raising-Your-Battle-Power)
 	- [Appendix B: Leveling Up](#Appendix-B-Leveling-Up)
 	- [Appendix C: Upgrading Your Gear](#Appendix-C-Upgrading-Your-Gear)
