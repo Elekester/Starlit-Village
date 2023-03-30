@@ -68,6 +68,13 @@ During **Residents of Central City** you'll need to limit break one of your weap
 2. Level up by either completing Side Tasks and defeating enemies in Combat Zones. I really enjoyed doing the side tasks and suggest doing those as well. They also provide N-meseta that you can spend on upgrading your gear.
 3. Upgrading your gear. Right now you probably won't have too much money or materials to upgrade your gear. BUT, there is an easy way to make some money available to you: Red Boxes. Scattered around each region is about 100 Red Boxes containing N-Meseta, SG, and gear. There are also 10 alpha reactors around Aelio that respawn daily for an easy 49,000 ![N-Meseta](/Images/NGSUIMSTIcon.png).
 
+### Recommended Gear for Aelio
+|Gear|Recommendations|
+|:-|:-|
+|Weapon|Renaissa Weapon|
+|Armor|Renaissa Armor|
+|Augments|Boss Soul III, Gigas Stat II, and Stat IV|
+
 ### Aelio Checklist
 |Goals|
 |:---|
@@ -85,6 +92,14 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio t
 **The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
 
 When you finish **A Happy Ending** you'll have two story quests to complete. **Retem Independent Partisan Squad** and **Mission in Kvaris**. The former unlocks the Rank 2 versions of Retem's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Kvaris.
+
+### Recommended Gear for Retem
+|Gear|Recommendations|
+|:-|:-|
+|Weapon|**Evolcoat**, **Resurgir**, Straga, Cattleya, Foursis, or Vialto Weapon|
+|Armor|**Geant**, **Vialto\***, **Qual De Armor\***, Cattleya Armor|
+|Augments|Boss Soul III, Gigas Stat II, Stat IV, and Stats Dualble II|
+\* These weapons come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost in the listed weapons types.
 
 ### Retem Checklist
 |Goals|
@@ -106,6 +121,16 @@ When you get to Kvaris you'll have to reach 1898 BP to get past **On the Search*
 
 Just like at the end of Retem you'll have two story quests to complete. **Kvaris Independent Partisan Squad** and **A New Battle Begins**. The former unlocks the Rank 2 versions of Kvaris's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Stia.
 
+### Recommended Gear for Kvaris
+|Gear|Recommendations|
+|:-|:-|
+|Weapon|**Greaga**, **Koukloziat**, **Relik**, Fivla, Gothica, or Quintel Weapon|
+|Armor|**Greas**, **Scwarz\*** **Vijf\*\***, **Vios**, Vidal, Vidalun, Viosel, Defrozza\*\*\*, Defrozzis\*\*\*, Sestato\*\*\*|
+|Augments|Boss Soul III, Gigas Stat II, Stat IV, and Stats Dualble II|
+\* This armor come in three variants. Schwarzest (Melee), Schwarzgarde (Ranged), and Schwarzrosso (Technique). They grant a potency boost with the listed weapon type. <br />
+\*\* This armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
+\*\*\* This gear is not equippable until level 42. Sestato also has variants equippable at level 47.
+
 ### Kvaris Checklist
 |Goals|
 |:---|
@@ -117,12 +142,21 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 |☐&emsp;Complete Chapter 3 of the Main Story|
 
 
-
 ## Chapter 4: Stia
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you around level 57 with about 2500 BP. You can get the BP for **Mission in Stia** by either leveling up to 60 or by upgrading to a Rugged or Crystia weapon. You might also upgrade your armor to Efitus armor.
+
+### Recommended Gear for Stia
+|Gear|Recommendations|
+|:-|:-|
+|Weapon|Crystia, Rugged, Obsidia\*|
+|Armor|**Efitus\*\***, Eptize\* \*\*\*|
+|Augments|-|
+\* This gear is not equippable utnil level 61. <br />
+\*\* This armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types.
+\*\*\* Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
 
 ### Stia Checklist
 |Goals|
