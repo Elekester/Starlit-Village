@@ -73,7 +73,7 @@ During **Residents of Central City** you'll need to limit break one of your weap
 |:-|:-|
 |Weapon|Renaissa Weapon|
 |Armor|Renaissa Armor|
-|Augments|Boss Soul III, Gigas Stat II, and Stat IV|
+|Augments|**Boss Soul III**, **Gigas Stat II**, and **Stat IV**|
 
 ### Aelio Checklist
 |Goals|
@@ -98,7 +98,7 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 |:-|:-|
 |Weapon|**Evolcoat**, **Resurgir**, Straga, Cattleya, Foursis, or Vialto Weapon|
 |Armor|**Geant**, **Vialto\***, **Qual De Armor\***, Cattleya Armor|
-|Augments|Boss Soul III, Gigas Stat II, Stat IV, and Stats Dualble II|
+|Augments|**Boss Soul III**, **Gigas Stat II**, **Stat IV**, and **Stats Dualble II**|
 
 \* These weapons come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost in the listed weapons types.
 
@@ -127,7 +127,7 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 |:-|:-|
 |Weapon|**Greaga**, **Koukloziat**, **Relik**, Fivla, Gothica, or Quintel Weapon|
 |Armor|**Greas**, **Scwarz\***, **Vijf†**, **Vios**, Vidal, Vidalun, Viosel, Defrozza‡, Defrozzis‡, Sestato‡|
-|Augments|Boss Soul III, Gigas Stat II, Stat IV, and Stats Dualble II|
+|Augments|**Boss Soul III**, **Gigas Stat II**, **Stat IV**, and **Stats Dualble II**|
 
 \* This armor come in three variants. Schwarzest (Melee), Schwarzgarde (Ranged), and Schwarzrosso (Technique). They grant a potency boost with the listed weapon type. <br />
 † This armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
@@ -155,7 +155,7 @@ Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This 
 |:-|:-|
 |Weapon|Crystia, Rugged, Obsidia\*|
 |Armor|**Efitus†**, Eptize\*‡|
-|Augments|-|
+|Augments|**Boss Soul III**, **Gigas Stat II**, **Stat IV**, and **Stats Dualble II**|
 
 \* This gear is not equippable utnil level 61. <br />
 † This armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
