@@ -23,7 +23,7 @@ This code regens the ToC.
 console.log([...document.querySelectorAll('h1, h2')].map(e => {
     header = e.innerText;
     html = header.replaceAll(' ', '-').replaceAll(':','')
-    return '\t'.repeat(e.tagName[1]) + '- ['+header+'](#' + html + ')'
+    return '\t'.repeat(e.tagName[1] - 1) + '- ['+header+'](#' + html + ')'
 }).join('\n'))
 ```
 
