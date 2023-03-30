@@ -126,12 +126,12 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|**Greaga**, **Koukloziat**, **Relik**, Fivla, Gothica, or Quintel Weapon|
-|Armor|**Greas**, **Scwarz\***, **Vijf\*\***, **Vios**, Vidal, Vidalun, Viosel, Defrozza\*\*\*, Defrozzis\*\*\*, Sestato\*\*\*|
+|Armor|**Greas**, **Scwarz\***, **Vijf†**, **Vios**, Vidal, Vidalun, Viosel, Defrozza‡, Defrozzis‡, Sestato‡|
 |Augments|Boss Soul III, Gigas Stat II, Stat IV, and Stats Dualble II|
 
 \* This armor come in three variants. Schwarzest (Melee), Schwarzgarde (Ranged), and Schwarzrosso (Technique). They grant a potency boost with the listed weapon type. <br />
-\*\* This armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
-\*\*\* This gear is not equippable until level 42. Sestato also has variants equippable at level 47.
+† This armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
+‡ This gear is not equippable until level 42. Sestato also has variants equippable at level 47.
 
 ### Kvaris Checklist
 |Goals|
@@ -154,12 +154,12 @@ Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This 
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|Crystia, Rugged, Obsidia\*|
-|Armor|**Efitus\*\***, Eptize\* \*\*\*|
+|Armor|**Efitus†**, Eptize\*‡|
 |Augments|-|
 
 \* This gear is not equippable utnil level 61. <br />
-\*\* This armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
-\*\*\* Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
+† This armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
+‡ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
 
 ### Stia Checklist
 |Goals|
