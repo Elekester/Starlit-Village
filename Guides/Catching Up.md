@@ -1,5 +1,11 @@
 # Nel's Guide to Catching Up in PSO2: NGS
 
+Howdy! With the April update hitting soon, bringing Chapter 5 of the story and the new gunblade using Slayer class, its time to catch up and get ready.
+
+This guide is for new players and veteran players alike hether your goal is to finish the story, to level your classes, to get the best gear, or to make a bunch of N-meseta for your Phasion needs.
+
+
+
 ## Editor's Notes
 
 |To-Do|
@@ -37,6 +43,10 @@ console.log([...document.getElementsByTagName('h2')].map(e => {
 	- [Appendix B: Leveling Up](#Appendix-B-Leveling-Up)
 	- [Appendix C: Upgrading Your Gear](#Appendix-C-Upgrading-Your-Gear)
 	- [Appendix D: Making N-Meseta](#Appendix-D-Making-N-Meseta)
+
+
+
+# Main Story
 
 
 
@@ -125,6 +135,10 @@ Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This 
 
 
 
+# Postgame
+
+
+
 ## The Endgame
 
 ### Stia Checklist
@@ -138,6 +152,10 @@ Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This 
 ### Stia Checklist
 |Goals|
 |:---|
+
+
+
+# Appendicies
 
 
 
