@@ -20,10 +20,10 @@ This guide is for new players and veteran players alike hether your goal is to f
 This code regens the ToC.
 
 ```JavaScript
-console.log([...document.getElementsByTagName('h2')].map(e => {
+console.log([...document.querySelectorAll('h1, h2')].map(e => {
     header = e.innerText;
     html = header.replaceAll(' ', '-').replaceAll(':','')
-    return '\t- ['+header+'](#' + html + ')'
+    return '\t'.repeat(e.tagName[1]) + '- ['+header+'](#' + html + ')'
 }).join('\n'))
 ```
 
