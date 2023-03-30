@@ -25,10 +25,10 @@ console.log([...document.getElementsByTagName('h2')].map(e => {
 
 ## Table of Contents
 - Main Story
-	- [Main Story Chapter 1: Aelio Main Story](#Main-Story-Chapter-1-Aelio-Main-Story)
-	- [Main Story Chapter 2: Retem](#Main-Story-Chapter-2-Retem)
-	- [Main Story Chapter 3: Kvaris](#Main-Story-Chapter-3-Kvaris)
-	- [Main Story Chapter 4: Stia](#Main-Story-Chapter-4-Stia)
+	- [Chapter 1: Aelio Main Story](#Chapter-1-Aelio-Main-Story)
+	- [Chapter 2: Retem](#Chapter-2-Retem)
+	- [Chapter 3: Kvaris](#Chapter-3-Kvaris)
+	- [Chapter 4: Stia](#Chapter-4-Stia)
 - Postgame
 	- [The Endgame](#The-Endgame)
 	- [Update Preparation](#Update-Preparation)
