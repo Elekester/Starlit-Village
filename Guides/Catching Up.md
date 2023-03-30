@@ -71,8 +71,8 @@ During **Residents of Central City** you'll need to limit break one of your weap
 ### Recommended Gear for Aelio
 |Gear|Recommendations|
 |:-|:-|
-|Weapon|Renaissa Weapon|
-|Armor|Renaissa Armor|
+|Weapon|**Renaissa** or Theseus Weapons|
+|Armor|**Renaissa** or Theseus Armor|
 |Augments|**Boss Soul III**, **Gigas Stat II**, and **Stat IV**|
 
 ### Aelio Checklist
