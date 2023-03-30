@@ -97,10 +97,10 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|**Evolcoat**, **Resurgir**, Straga, Cattleya, Foursis, or Vialto Weapon|
-|Armor|**Geant**, **Vialto\***, **Qual De Armor\***, Cattleya Armor|
+|Armor|**Geant**, **Vialto\***, **Qual De\***, or Cattleya Armor|
 |Augments|**Boss Soul III**, **Gigas Stat II**, **Stat IV**, and **Stats Dualble II**|
 
-\* These weapons come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost in the listed weapons types.
+\* Vialto and Qual De Armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost in the listed weapons types.
 
 ### Retem Checklist
 |Goals|
@@ -126,11 +126,11 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|**Greaga**, **Koukloziat**, **Relik**, Fivla, Gothica, or Quintel Weapon|
-|Armor|**Greas**, **Scwarz\***, **Vijf†**, **Vios**, Vidal, Vidalun, Viosel, Defrozza‡, Defrozzis‡, Sestato‡|
+|Armor|**Greas**, **Schwarz\***, **Vijf†**, **Vios**, Vidal, Vidalun, Viosel, Defrozza‡, Defrozzis‡, Sestato‡|
 |Augments|**Boss Soul III**, **Gigas Stat II**, **Stat IV**, and **Stats Dualble II**|
 
-\* This armor come in three variants. Schwarzest (Melee), Schwarzgarde (Ranged), and Schwarzrosso (Technique). They grant a potency boost with the listed weapon type. <br />
-† This armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
+\* Schwarz Armor comes in three variants. Schwarzest (Melee), Schwarzgarde (Ranged), and Schwarzrosso (Technique). They grant a potency boost with the listed weapon type. <br />
+† Vijf Armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
 ‡ This gear is not equippable until level 42. Sestato also has variants equippable at level 47.
 
 ### Kvaris Checklist
