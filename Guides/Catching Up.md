@@ -179,6 +179,8 @@ Congratulations, you've beaten the Main Story of PSO2: NGS! If you haven't alrea
 |Urgent Quest: The Battle of Halphia Lake|3119+|Its time to defeat Dark Falz! Maybe? Make sure to follow the Blight Round marker if there's a ranger in the party. If you're the ranger, make sure to use blight rounds frequently. Especially on the pillars in phase 1, where the extra damage and coordination can lead to an early win in that phase. In phase 2, make sure to keep up your DPS through the DPS checks, otherwise Falz might wipe the party. The final DPS check can be dodged even when failed by running to the edge of the arena.|
 |[Purple Stia Rank 1](#purple-triggers)|3227+|Defeat all the Stia bosses to receive valuable drops. You'll need to be level 70 with endgame gear to do these.|
 
+<img src="/Images/Geo_Lab.png" width="50%" align="right">
+
 Many players in the endgame will be level 70 with at least +80% potency if not +100% potency on their favorite weapon. Some, especially in pickup games without Alliance members, will expect everyone else to do the same and might complain. While you should be working on upgrading your gear, if you are harassed for the gear you have equipped, please report the offending players.
 
 Even Alliance members might request only players that have reached a certain quality of gear when looking for a group, though if they do not you should feel free to join with the equipment you have. If you ask for help with endgame content, the League will help you out without any expectations of your gear.
