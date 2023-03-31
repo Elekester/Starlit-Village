@@ -4,28 +4,10 @@ Howdy! With the April update hitting soon, bringing Chapter 5 of the story and t
 
 This guide is for new players and veteran players alike hether your goal is to finish the story, to level your classes, to get the best gear, or to make a bunch of N-meseta for your Phasion needs.
 
-
-
-## Editor's Notes
-
-|To-Do|
-|:---|
-|☐&emsp;Finish writing the main story|
-|☐&emsp;Write the postgame|
-|☐&emsp;Update the gearing guide with info on natural grind limits.|
-|☐&emsp;Revise|
-|☐&emsp;Edit|
-|☐&emsp;Write intro|
-
-This code regens the ToC.
-
-```JavaScript
-console.log([...document.querySelectorAll('h1, h2')].map(e => {
-    header = e.innerText;
-    html = header.replaceAll(' ', '-').replaceAll(':','');
-    return '\t'.repeat(e.tagName[1] - 1) + '- ['+header+'](#' + html + ')';
-}).join('\n'));
-```
+It is divided into three sections:
+- The first section covers meeting the BP requirements to get through the Main Story of PSO2: NGS and any tips that might help you complete the story.
+- The second section covers meeting the BP requirements for Endgame content as well as tips for the current Endgame content.
+- The third section contains appendicies covering the best methods to level up, upgrade your gear, and make N-meseta.
 
 
 
@@ -511,3 +493,26 @@ Don't forget to sell your rewards on the Personal Shop.
 |-|Enemy Level Down: -10 Levels|
 
 ### Purple Triggers
+
+
+
+## Editor's Notes
+
+|To-Do|
+|:---|
+|☐&emsp;Finish writing the main story|
+|☐&emsp;Write the postgame|
+|☐&emsp;Update the gearing guide with info on natural grind limits.|
+|☐&emsp;Revise|
+|☐&emsp;Edit|
+|☐&emsp;Write intro|
+
+This code regens the ToC.
+
+```JavaScript
+console.log([...document.querySelectorAll('h1, h2')].map(e => {
+    header = e.innerText;
+    html = header.replaceAll(' ', '-').replaceAll(':','');
+    return '\t'.repeat(e.tagName[1] - 1) + '- ['+header+'](#' + html + ')';
+}).join('\n'));
+```
