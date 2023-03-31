@@ -160,14 +160,19 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 
 Congratulations, you've beaten the Main Story of PSO2: NGS! If you haven't already, make sure to complete the Cocoons and Towers. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
+Many players in the endgame will be level 70 with at least +80% potency if not +100% potency on their favorite weapon. Some, especially in pickup games without Alliance members, will expect everyone else to do the same and might complain. While you should be working on upgrading your gear, if you are harassed for the gear you have equipped, please report the offending players.
+
+Even Alliance members might request only players that have reached a certain quality of gear when looking for a group, though if they do not you should feel free to join with the equipment you have. If you ask for help with endgame content, the League will help you out without any expectations of your gear.
+
 ### Endgame Content
 |Content|BP|Notes|
 |:-|:-|:-|
-|Trinitas Quest: Geometric Labyrinth Rank 2|2878+|Most people running this are doing so in parties of 4 to achieve S-Rank. |
-|Battledia: Purple Aelio, Retem, and Kvaris Devastators Rank 3|2972+|-|
+|Level 70|-|You should try to reach level 70 first. The fastest way to do this is by completing (Yellow Stias)[#Yellow-Triggers-and-the-Trooper-Quests) with a party of 4.|
+|[Trinitas Quest: Geometric Labyrinth Rank 2](#geo-lab)|2878+|Most people running this are doing so in parties of 4 to achieve S-Rank. You'll want to be at least level 66 if anyone in your party is level 70 and they're not running the decreased enemy level modifier. Consider also beginning to augment any Endgame Gear with [Budget Augments](#budget-augments).|
+|[Battledia: Purple Aelio, Retem, and Kvaris Devastators Rank 3](#purple-triggers)|2972+|You'll need to be at least level 64 with Stia gear to do these. Consider also beginning to augment any Endgame Gear with [Budget Augments](#budget-augments).|
 |Urgent Quest: Doldoris Vera and Nils Vera Suppression Op|2972+|-|
 |Urgent Quest: The Battle of Halphia Lake|3119+|-|
-|Battledia: Purple Kvaris Rank 1|3227+|-|
+|[Battledia: Purple Kvaris Rank 1](#purple-triggers)|3227+|-|
 
 ### Endgame Gear Recommendations
 |Gear|Recommendations|
