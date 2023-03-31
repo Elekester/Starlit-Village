@@ -2,9 +2,8 @@
 
 Howdy! With the April update hitting soon, bringing Chapter 5 of the story and the new gunblade using Slayer class, its time to catch up and get ready.
 
-This guide is for new players and veteran players alike hether your goal is to finish the story, to level your classes, to get the best gear, or to make a bunch of N-meseta for your Phasion needs.
+This guide is for new players and veteran players alike whether your goal is to finish the story, to level your classes, to get the best gear, or to make a bunch of N-meseta for your Phasion needs. The guide is divided into three sections:
 
-It is divided into three sections:
 - [Main Story](#Main-Story) covers meeting the BP requirements to get through the Main Story of PSO2: NGS and any tips that might help you complete the story.
 - [Postgame](#Postgame) covers meeting the BP requirements for Endgame content as well as good goals to set for the Endgame.
 - [Appendicies](#Appendicies) covers the best methods to level up, upgrade your gear, and make N-meseta to support the above sections.
