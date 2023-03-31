@@ -134,9 +134,9 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio, 
 
 |Task|BP|Notes|
 |:-|:-|:-|
-|**Mission in Stia**|2647+|Complete Guiden's Task. Get to level 56 with a Crystia or Rugged Weapon or level 68 with Renaissa Gear.|
-|**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower. Get to level 57 with a Crystia or Rugged Weapon or level 68 with Renaissa Gear.|
-|**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 61 with Stia Gear or level 70 with Retem Gear.|
+|**Mission in Stia**|2647+|Complete Guiden's Task. Get to level 56 with a Crystia or Rugged Weapon at least Renaissa Armor or level 68 with Renaissa Gear.|
+|**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower. Get to level 57 with a Crystia or Rugged Weapon at least Renaissa Armor or level 68 with Renaissa Gear.|
+|**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 61 with Stia Gear or level 64 with a Crystia or Rugged Weapon and at least Renaissa Armor.|
 
 Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you around level 57. You can get the BP for **Mission in Stia** by either leveling up to 63 or by upgrading just your weapon.
 
