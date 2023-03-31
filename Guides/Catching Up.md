@@ -128,7 +128,7 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 
 ## Chapter 4: Stia
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.### Stia Tasks Summary
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 ### Stia Tasks Summary
 
