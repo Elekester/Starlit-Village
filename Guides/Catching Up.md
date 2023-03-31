@@ -53,9 +53,9 @@ During **Residents of Central City** you'll need to limit break one of your weap
 
 |Gear|Recommendations|
 |:-|:-|
-|Weapon|_Renaissa_ or Theseus Weapons|
-|Armor|_Renaissa_ or Theseus Armor|
-|Augments|1 or 2 of _Boss Soul III_, _Gigas Stat II_, and _Stat IV_|
+|Weapon|Renaissa or Theseus Weapons|
+|Armor|Renaissa or Theseus Armor|
+|Augments|1 or 2 of Boss Soul III, Gigas Stat II, and Stat IV|
 
 ### Aelio Tasks Summary
 
@@ -77,9 +77,9 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 
 |Gear|Recommendations|
 |:-|:-|
-|Weapon|_Evolcoat_, _Resurgir_, _Straga_, Cattleya, Foursis, or Vialto Weapon|
-|Armor|_Geant_, _Vialto\*_, _Qual De\*_, or Cattleya Armor|
-|Augments|_Boss Soul III_, _Gigas Stat II_, _Stat IV_, and _Stats Dualble II_|
+|Weapon|Evolcoat, Resurgir, Straga, Cattleya, Foursis, or Vialto Weapon|
+|Armor|Geant, Vialto\*, Qual De\*, or Cattleya Armor|
+|Augments|Boss Soul III, Gigas Stat II, Stat IV, and Stats Dualble II|
 
 \* Vialto and Qual De Armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost in the listed weapons types.
 
@@ -106,9 +106,9 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 
 |Gear|Recommendations|
 |:-|:-|
-|Weapon|_Greaga_, _Koukloziat_, _Relik_, Fivla, Gothica, or Quintel Weapon|
-|Armor|_Greas_, _Schwarz\*_, _Vijf†_, _Vios_, Vidal, Vidalun, Viosel, Defrozza‡, Defrozzis‡, Sestato‡|
-|Augments|_Boss Soul III_, _Gigas Stat II_, _Stat IV_, and _Stats Dualble II_|
+|Weapon|Greaga, Koukloziat, Relik, Fivla, Gothica, or Quintel Weapon|
+|Armor|Greas, Schwarz\*, Vijf†, Vios, Vidal, Vidalun, Viosel, Defrozza‡, Defrozzis‡, Sestato‡|
+|Augments|Boss Soul III, Gigas Stat II, Stat IV, and Stats Dualble II|
 
 \* Schwarz Armor comes in three variants. Schwarzest (Melee), Schwarzgarde (Ranged), and Schwarzrosso (Technique). They grant a potency boost with the listed weapon type. <br />
 † Vijf Armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
@@ -135,9 +135,9 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 ### Stia Gear Recommendations
 |Gear|Recommendations|
 |:-|:-|
-|Weapon|_Crystia_, _Rugged_, Obsidia\*|
-|Armor|_Efitus†_, Eptize\*‡|
-|Augments|_Boss Soul III_, _Gigas Stat II_, _Stat IV_, _Stats Dualble II_ and _Alts Secreta II_|
+|Weapon|Crystia, Rugged, Obsidia\*|
+|Armor|Efitus†, Eptize\*‡|
+|Augments|Boss Soul III, Gigas Stat II, Stat IV, Stats Dualble II and Alts Secreta II|
 
 \* This gear is not equippable utnil level 61. <br />
 † Eptize armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
