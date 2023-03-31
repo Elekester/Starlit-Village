@@ -353,6 +353,8 @@ For an exhaustive list of armor see the [Units page on the Arks-Visiphone](https
 
 ### Item Enhancement and Limit Break
 
+<img src="/Images/NPC_Lavona.png" width="300px" align="right">
+
 ### Augmenting
 
 As Ran says before heading to Mt. Magnus, "Battle Power is nothing more than a rough assessment." Its actually not too hard to reach the BP necessary for the endgame and still be very underpowered. How good an augment is is roughly proportional to its BP, but this is deceiving sometimes. One of the best augments in the game, Alts Secreta IV, only gives 6 BP which is equivalent to some of the worst augments in the game, the Element Ward IIIs.
