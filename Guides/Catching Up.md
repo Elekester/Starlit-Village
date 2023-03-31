@@ -137,7 +137,7 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 
 |Task|BP|Notes|
 |:-|:-|:-|
-|**Mission in Kvari**|1813+|Complete Guiden's Task. Get to level 39 with Kvaris Gear or level 43 with Aelio Gear.|
+|**Mission in Kvaris**|1813+|Complete Guiden's Task. Get to level 39 with Kvaris Gear or level 43 with Aelio Gear.|
 |**On the Search**|1898+|Complete the Kvaris Cocoons and Towers. Get to Level 40 with Kvaris Gear or level 44 with Aelio Gear.|
 |**A Possible Lead**|2049+|Get to level 46 with Kvaris Gear or level 50 with Aelio Gear.|
 
