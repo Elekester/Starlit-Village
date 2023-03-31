@@ -178,13 +178,13 @@ Even Alliance members might request only players that have reached a certain qua
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|Neos Astraean\*, Neos Justitean†, or Gunblaze Weapon|
-|Armor|Ajax, Elaireur, Efitus‡, or Eptize† Armor|
+|Armor|Ajax, Elaireur, Efitus‡, or Eptize^§ Armor|
 |Augments|[Budget Augments](#budget-augments) or [Best in Slot Augments](#best-in-slot-augments)|
 
-\* Neos Astraean is the Best in Slot weapon against all enemies except Light Enemies. It only drops from The Battle of Halphia Lake Urgent Quest, but you can obtain them from the Aegis Exchange Shop for 5 Aegis Integra. You can get 5 Aegis Integra for completing Geo Lab Rank 2 once with the modifiers that make it easy soloable.
-† Neos Justitean is a Light element weapon. It is the strongest weapon against enemies weak to light, but otherwise weaker than other Neos Astraean. It's still stronger than Gunblaze.
+\* Neos Astraean is the Best in Slot weapon against all enemies except Light Enemies. It only drops from The Battle of Halphia Lake Urgent Quest, but you can obtain them from the Aegis Exchange Shop for 5 Aegis Integra. You can get 5 Aegis Integra for completing Geo Lab Rank 2 once with the modifiers that make it easy soloable. <br />
+† Neos Justitean is a Light element weapon. It is the strongest weapon against enemies weak to light, but otherwise weaker than other Neos Astraean. It's still stronger than Gunblaze. <br />
 ‡ Eptize armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
-‡ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
+§ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
 
 
 
