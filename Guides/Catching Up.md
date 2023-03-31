@@ -35,6 +35,12 @@ This guide is for new players and veteran players alike whether your goal is to 
 
 Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
 
+### Aelio Tasks Summary
+
+|Task|BP|Notes|
+|:-|:-|:-|
+|**An Abundance of Caution**|1100+|Complete the Aelio Cocoons and Towers. Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
+
 Once you've completed the second Cocoon in **Advice from Liu Lin II** you'll  be gifted every weapon in the Renaissa Series and a complete set of Renaissa Armor. They will be much stronger than your starting equipment and will last you quite a while. You can equip any weapon useable by your main class (or your subclass once you've unlocked it).
 
 When you learn weapon enhancement during **Advice form Rossa** make sure not to use any Renaissa weapons that you might want to try out as materials! To avoid this, you can equip or lock any item in your inventory to prevent you from accidentally losing it. If you're not sure what to do, just use a Primm weapon to enhance any of your weapons.
@@ -57,17 +63,18 @@ During **Residents of Central City** you'll need to limit break one of your weap
 |Armor|Renaissa or Theseus Armor|
 |Augments|1 or 2 of Boss Soul III, Gigas Stat II, and Stat IV|
 
-### Aelio Tasks Summary
-
-|Task|BP|Notes|
-|:-|:-|:-|
-|**An Abundance of Caution**|1100+|Complete the Aelio Cocoons and Towers. Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
-
 
 
 ## Chapter 2: Retem
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+
+### Retem Tasks Summary
+
+|Task|BP|Notes|
+|:-|:-|:-|
+|**The Cornesrstone of Retem's Revival**|1243+|Get the Retem Gear OR fully augment your Aelio gear.|
+|**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to level 17 with Retem Gear level 21 with Aelio gear.|
 
 **The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
 
@@ -83,18 +90,19 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 
 \* Vialto and Qual De Armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost in the listed weapons types.
 
-### Retem Tasks Summary
-
-|Task|BP|Notes|
-|:-|:-|:-|
-|**The Cornesrstone of Retem's Revival**|1243+|Get the Retem Gear OR fully augment your Aelio gear.|
-|**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to level 23 with Retem Gear level 26 with Aelio gear.|
-
 
 
 ## Chapter 3: Kvaris
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+
+### Kvaris Tasks Summary
+
+|Task|BP|Notes|
+|:-|:-|:-|
+|**Mission in Kvaris**|1813+|Complete Guiden's Task. Get Kvaris Gear or level 40 with Aelio Gear.|
+|**On the Search**|1898+|Complete the Kvaris Cocoons and Towers. Get  Kvaris Gear or level 41 with Aelio Gear.|
+|**A Possible Lead**|2049+|Get to level 42 with Kvaris Gear or level 47 with Aelio Gear.|
 
 Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will probably put you around levels 37 to 40 with enough BP for the 1813 BP requirement of **Mission in Kvaris**. If not, you can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade some of your gear. Grab some Geant or Schwarz Armor and a Greaga, Koukloziat, or Relik weapon. Make sure to fully augment this gear. That will take around 200,000 - 250,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to do everything.
 
@@ -114,21 +122,21 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 † Vijf Armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
 ‡ This gear is not equippable until level 42. Sestato also has variants equippable at level 47.
 
-### Kvaris Tasks Summary
-
-|Task|BP|Notes|
-|:-|:-|:-|
-|**Mission in Kvaris**|1813+|Complete Guiden's Task. Get to level 39 with Kvaris Gear or level 43 with Aelio Gear.|
-|**On the Search**|1898+|Complete the Kvaris Cocoons and Towers. Get to Level 40 with Kvaris Gear or level 44 with Aelio Gear.|
-|**A Possible Lead**|2049+|Get to level 46 with Kvaris Gear or level 50 with Aelio Gear.|
-
 
 
 ## Chapter 4: Stia
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.### Stia Tasks Summary
 
-Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you around level 57 with about 2500 BP. You can get the BP for **Mission in Stia** by either leveling up to 60 or by upgrading to a Rugged or Crystia weapon. You might also upgrade your armor to Efitus armor.
+### Stia Tasks Summary
+
+|Task|BP|Notes|
+|:-|:-|:-|
+|**Mission in Stia**|2647+|Complete Guiden's Task. Get to level 56 with a Crystia or Rugged Weapon or level 68 with Aelio Gear.|
+|**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower. Get to level 57 with a Crystia or Rugged Weapon or level 68 with Aelio Gear.|
+|**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 61 with Stia Gear or level 70 with Retem Gear.|
+
+Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you around level 57. You can get the BP for **Mission in Stia** by either leveling up to 63 or by upgrading just your weapon.
 
 Stia is a little strange. Upon entering Stia and competing the initial tasks, we don't have access to all the cocoons and towers before the next massive BP requirement in **Preparing for Battle**, only the tower in Stia Outskirts is available.
 
@@ -142,14 +150,6 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 \* This gear is not equippable utnil level 61. <br />
 † Eptize armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
 ‡ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
-
-### Stia Tasks Summary
-
-|Task|BP|Notes|
-|:-|:-|:-|
-|**Mission in Stia**|2647+|Complete Guiden's Task. Get to level 59 with Stia Gear or level 69 with Aelio Gear.|
-|**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower. Get to level 60 with Stia Gear or level 70 with Aelio Gear.|
-|**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 65 with Stia Gear or level 68 with Retem Gear.|
 
 
 
