@@ -210,25 +210,35 @@ For augments, you'll want to start working towards the [Budget Augments](#budget
 
 <img src="/Images/Slayer_Promo.png" width="50%" align="right">
 
-On April 5th, Chapter 5 of the story will be released. Please make sure to enjoy it! At the same time the Slayer Operation Exchange Shop will open. There will be two Gunblade camos available, a few Almati camos, and a host of pre-augmented Gunblade weapons with Fixa Attack 1. The Aegis Integra Exchange Shop will likely be updated as well to contain a Neo Astraean Gunblade. While the Astraean will be the Best in Slot Weapon, if you don't have the augments the Trunkul will be alright until you can obtain one and the Tenebrous will be just a little bit worse than Astraean against Ice enemies.
+On April 5th, Chapter 5 of the story will be released. Please make sure to enjoy it! At the same time the Slayer Operation Exchange Shop will open. There will be two Gunblade camos available, a few Almati camos, and a host of pre-augmented Gunblade weapons with Fixa Attack 1. The Trunkul and Tenebrous weapons can be good holdovers until you get your hands on an Augmented Neos Astraean Gunblade.
 
-### Slayer Operations Exchange Shop Weapons
-|Weapon|Level|Slayer Operation Prep Ticket Cost|
+If you did all the Slayer Operations Prep Limited-Time Tasks you'll have 20 Tickets to spend. I suggest picking up the Arms Refiner IIs, any camos you want, a weapon to keep if you plan on playing Slayer while leveling it, and spending the rest on weapons to sell on the player shop.
+
+### Slayer Operations Exchange Shop
+|Item|Level|Ticket Cost|
 |:-|:-:|:-:|
-|Evolcoat|15|2|
-|Cinquem|36|3|
-|Sechetyl|45|3|
-|Crystia|55|5|
-|Rugged|57|5|
-|Tenebrous|60|5|
-|Trunkul|62|5|
+|Evolcoat Gunblade+50|15|2|
+|Cinquem Gunblade+50|36|3|
+|Sechetyl Gunblade+50|45|3|
+|Crystia Gunblade+50|55|5|
+|Rugged Gunblade+50|57|5|
+|Tenebrous Gunblade+50|60|5|
+|Trunkul Gunblade+50|62|5|
+|* Clio Talon Schneider|-|2|
+|* Relic Axeon CV|-|2|
+|* Trunkul Almati|-|2|
+|* Tenebrous Almati|-|2|
+|* Crystia Almati|-|2|
+|Special Scratch Ticket x10|-|1|
+|N-Ex-Cube x5|-|1|
+|Arms Refiner x4|-|1|
+|Arms Refiner II x2|-|2|
 
+Presumably the Aegis Integra Exchange Shop will be updated either on April 5th or on April 12th with the Neos Astraean Gunblade. For this reason you should have 5 Aegis Integra and enough capsules to affix [Ranged Budget Augments](#budget-augments) to the weapon.
 
 
 
 # Appendicies
-
-
 
 ## Appendix A: Raising Your Battle Power
 
