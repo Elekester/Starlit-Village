@@ -79,7 +79,7 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio. 
 |**The Cornesrstone of Retem's Revival**|1243+|Get Retem Gear OR fully augment your Aelio gear.|
 |**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to level 17 with Retem Gear or level 21 with Aelio gear.|
 
-<img src="/Images/Map_Retem.png" alt="Retem Map" width="500%" align="right">
+<img src="/Images/Map_Retem.png" alt="Retem Map" width="50%" align="right">
 
 **The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
 
