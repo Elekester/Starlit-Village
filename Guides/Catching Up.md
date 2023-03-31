@@ -208,7 +208,7 @@ For augments, you'll want to start working towards the [Budget Augments](#budget
 
 ## Update Preparation
 
-<img src="Slayer_Promo.png" width="50%" align="right">
+<img src="/Images/Slayer_Promo.png" width="50%" align="right">
 
 
 
