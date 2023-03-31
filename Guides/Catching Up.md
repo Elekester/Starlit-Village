@@ -364,15 +364,16 @@ The costs listed below are the costs to augment a single weapon or armor using o
 **Stats:**  +10.67% in one potency, +1.5% potency floor, some HP and PP, +32 BP <br />
 **Goal:** +60% potency and +6% potency floor overall
 
-|Melee Weapon|Ranged Weapon|Tech Weapon|
+|Melee Weapon\*|Ranged Weapon\*|Tech Weapon\*|
 |:----|:--------|:-------|
 |Melra/Meltech Dualble II or III|Melra/Ratech Dualble II or III|Meltech/Ratech Dualble II or III|
 |Might IV|Precision IV|Technique IV|
 |Gigas Might II or III|Gigas Precision II or III|Gigas Technique II or III|
 |Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
-|Alts Secreta II or III*|Alts Secreta II or III*|Alts Secreta II or III*|
+|Alts Secreta II or III†|Alts Secreta II or III†|Alts Secreta II or III†|
 
-\* If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
+\* Remember, the cheapest augments are the ones you already own. Feel free to replace any of the above augments with augments you own as long as they provide the appropriate potency and/or potency floor. <br />
+† If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
 
 #### Budget Augments
 
