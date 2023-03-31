@@ -163,7 +163,7 @@ Congratulations, you've beaten the Main Story of PSO2: NGS! If you haven't alrea
 ### Endgame Content
 |Content|BP|Notes|
 |:-|:-|:-|
-|Level 70|-|You should try to reach level 70 first. The fastest way to do this is by completing [Yellow Stias](#Yellow-Triggers-and-the-Trooper-Quests) with a party of 4.|
+|[Level 70](#Appendix-B-Leveling-Up)|-|You should try to reach level 70 first. The fastest way to do this is by completing [Yellow Stias](#Yellow-Triggers-and-the-Trooper-Quests) with a party of 4.|
 |[Add-On Skills](#appendix-e-add-on-skills)|-|Once a class reaches level 70, getting another 2mil Exp in that class rewards you with 10 N-Class-Cubes which can be exchanged for Add-On Skills at the Class Counter. See [Appendix E](#appendix-e-add-on-skills) for details.|
 |[Geo Lab Rank 2](#geo-lab-rank-2)|2878+|Most people running this are doing so in parties of 4 to achieve S-Rank. You'll want to be at least level 66 if anyone in your party is level 70 and they're not running the decreased enemy level modifier.|
 |[Purple Aelio, Retem, and Kvaris Rank 3](#purple-triggers)|2972+|You'll need to be at least level 64 with Stia gear to do these. Consider also beginning to augment any Endgame Gear with [Budget Augments](#budget-augments).|
