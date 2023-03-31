@@ -5,9 +5,9 @@ Howdy! With the April update hitting soon, bringing Chapter 5 of the story and t
 This guide is for new players and veteran players alike hether your goal is to finish the story, to level your classes, to get the best gear, or to make a bunch of N-meseta for your Phasion needs.
 
 It is divided into three sections:
-- The first section covers meeting the BP requirements to get through the Main Story of PSO2: NGS and any tips that might help you complete the story.
-- The second section covers meeting the BP requirements for Endgame content as well as tips for the current Endgame content.
-- The third section contains appendicies covering the best methods to level up, upgrade your gear, and make N-meseta.
+- [Main Story](#Main-Story) covers meeting the BP requirements to get through the Main Story of PSO2: NGS and any tips that might help you complete the story.
+- [Postgame](#Postgame) covers meeting the BP requirements for Endgame content as well as good goals to set for the Endgame.
+- [Appendicies](#Appendicies) covers the best methods to level up, upgrade your gear, and make N-meseta to support the above sections.
 
 
 
