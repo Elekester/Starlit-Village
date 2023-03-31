@@ -106,8 +106,8 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 
 |Task|BP|Notes|
 |:-|:-|:-|
-|**The Cornesrstone of Retem's Revival**|1243+|Get the Retem Gear OR Level 10 with Aelio gear.|
-|**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to Level 23 with Retem Gear Level 26 with Aelio gear.|
+|**The Cornesrstone of Retem's Revival**|1243+|Get the Retem Gear OR level 10 with Aelio gear.|
+|**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to level 23 with Retem Gear level 26 with Aelio gear.|
 
 
 
