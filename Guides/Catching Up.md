@@ -68,12 +68,15 @@ During **Residents of Central City** you'll need to limit break one of your weap
 2. Level up by either completing Side Tasks and defeating enemies in Combat Zones. I really enjoyed doing the side tasks and suggest doing those as well. They also provide N-meseta that you can spend on upgrading your gear.
 3. Upgrading your gear. Right now you probably won't have too much money or materials to upgrade your gear. BUT, there is an easy way to make some money available to you: Red Boxes. Scattered around each region is about 100 Red Boxes containing N-Meseta, SG, and gear. There are also 10 alpha reactors around Aelio that respawn daily for an easy 49,000 ![N-Meseta](/Images/NGSUIMSTIcon.png).
 
-### Recommended Gear for Aelio
+### Aelio Gear Recommendations
+
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|_Renaissa_ or Theseus Weapons|
 |Armor|_Renaissa_ or Theseus Armor|
 |Augments|1 or 2 of _Boss Soul III_, _Gigas Stat II_, and _Stat IV_|
+
+### Aelio Tasks Summary
 
 |Task|BP|Notes|
 |:-|:-|:-|
@@ -89,7 +92,8 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio t
 
 When you finish **A Happy Ending** you'll have two story quests to complete. **Retem Independent Partisan Squad** and **Mission in Kvaris**. The former unlocks the Rank 2 versions of Retem's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Kvaris.
 
-### Recommended Gear for Retem
+### Retem Gear Recommendations
+
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|_Evolcoat_, _Resurgir_, _Straga_, Cattleya, Foursis, or Vialto Weapon|
@@ -97,6 +101,8 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 |Augments|_Boss Soul III_, _Gigas Stat II_, _Stat IV_, and _Stats Dualble II_|
 
 \* Vialto and Qual De Armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost in the listed weapons types.
+
+### Retem Tasks Summary
 
 |Task|BP|Notes|
 |:-|:-|:-|
@@ -115,7 +121,8 @@ When you get to Kvaris you'll have to reach 1898 BP to get past **On the Search*
 
 Just like at the end of Retem you'll have two story quests to complete. **Kvaris Independent Partisan Squad** and **A New Battle Begins**. The former unlocks the Rank 2 versions of Kvaris's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Stia.
 
-### Recommended Gear for Kvaris
+### Kvaris Gear Recommendations
+
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|_Greaga_, _Koukloziat_, _Relik_, Fivla, Gothica, or Quintel Weapon|
@@ -125,6 +132,8 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 \* Schwarz Armor comes in three variants. Schwarzest (Melee), Schwarzgarde (Ranged), and Schwarzrosso (Technique). They grant a potency boost with the listed weapon type. <br />
 † Vijf Armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
 ‡ This gear is not equippable until level 42. Sestato also has variants equippable at level 47.
+
+### Kvaris Tasks Summary
 
 |Task|BP|Notes|
 |:-|:-|:-|
@@ -142,7 +151,7 @@ Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This 
 
 Stia is a little strange. Upon entering Stia and competing the initial tasks, we don't have access to all the cocoons and towers before the next massive BP requirement in **Preparing for Battle**, only the tower in Stia Outskirts is available.
 
-### Recommended Gear for Stia
+### Stia Gear Recommendations
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|_Crystia_, _Rugged_, Obsidia\*|
@@ -152,6 +161,8 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 \* This gear is not equippable utnil level 61. <br />
 † Eptize armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
 ‡ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
+
+### Stia Tasks Summary
 
 |Task|BP|Notes|
 |:-|:-|:-|
