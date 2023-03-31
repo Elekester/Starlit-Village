@@ -139,9 +139,9 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio, 
 |**The Battle of Alterra Base**|2788+|Complete the the Cocoons in Mediola Outer Area 2 and Dreisen Plant. Get to level 58 with Stia Gear or level 70 with Renaissa Gear.
 |**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 61 with Stia Gear or level 64 with a Crystia or Rugged Weapon and at least Renaissa Armor.|
 
-Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you to between level 57 and level 60. You can get the BP for **Mission in Stia** by either leveling up to 63 or by upgrading just your weapon.
+Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you to between level 57 and level 60. You can get the BP for **Mission in Stia** by either leveling up to 63 or by upgrading just your weapon to a Crystia or Rugged Weapon. Feel free to upgrade your armor now as well. If you've been using Renaissa Gear, you'll be forced to upgrade at least your weapon in Stia.
 
-Stia is a little strange. Upon entering Stia and competing the initial tasks, we don't have access to all the cocoons and towers before the next massive BP requirement in **Preparing for Battle**, only the tower in Stia Outskirts is available.
+Stia is a little strange. Upon entering Stia and competing the initial tasks, we don't have access to all the cocoons and towers before the next BP requirement in **Preparing for Battle**, only the tower in Stia Outskirts is available. Prior to the quest in **The Battle of Alterra Base** you'll be able to complete the Cocoons in Mediola Outer Area 2 and Dreisen Plant. The final cocoon will have to wait until you've met all the BP requirements.
 
 ### Stia Gear Recommendations
 |Gear|Recommendations|
@@ -158,13 +158,20 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 
 # Postgame
 
+Congratulations, you've beaten the Main Story of PSO2: NGS. Now the grind can begin!
+
 
 
 ## The Endgame
 
-### Stia Checklist
-|Goals|
-|:---|
+### Endgame Content
+|Content|BP|Notes|
+|:-|:-|:-|
+|Trinitas Quest: Geometric Labyrinth Rank 2|2878+|-|
+|Battledia: Purple Aelio, Retem, and Kvaris Devastators Rank 3|2972+|-|
+|Urgent Quest: Doldoris Vera and Nils Vera Suppression Op|2972+|-|
+|Urgent Quest: The Battle of Halphia Lake|3119+|-|
+|Battledia: Purple Kvaris Rank 1|3227+|-|
 
 
 
@@ -266,7 +273,7 @@ Each weapon has a few stats that determine its usefulness: Attack Power, Varianc
 
 Some weapon's have an Element. They have significantly lower Base Attack in exchange for dealing extra elemental damage. This tends to mean they're a little weaker than their non elemental counterparts against most enemies, but stronger against enemies with their elemental weakness.
 
-The current endgame is dominated by the Neos Astraean Weapons, which drop from the Battle of Halphia Lake Urgent Quest and can be obtained from the Aegis Integra Exchange Shop. Since these items are not tradeable on the Personal Shop, you must find any Fixa you want on the weapon. You can obtain enough Aegis Integra to purchase one weapon by clearing the Geometric Laboratory Rank 2 Quest once, further Aegis Integra can be obtained by trading in unwanted Neos Astraean weapons. If you wish to multiweapon a Neos Astraean weapon, it can be multiweaponed with the Neos Justitean series, just be sure to use whichever weapon whose stats you want as the base weapon.
+The current endgame is dominated by the Neos Astraean Weapons, which drop from the Battle of Halphia Lake Urgent Quest and can be obtained from the Aegis Integra Exchange Shop. Since these items are not tradeable on the Personal Shop, you must find any Fixa you want on the weapon. You can obtain enough Aegis Integra to purchase one weapon by clearing the Geometric Labyrinth Rank 2 Quest once, further Aegis Integra can be obtained by trading in unwanted Neos Astraean weapons. If you wish to multiweapon a Neos Astraean weapon, it can be multiweaponed with the Neos Justitean series, just be sure to use whichever weapon whose stats you want as the base weapon.
 
 If you can't obtain a Neos Astraean Weapon there are several alternatives you can use until you obtain one, listed below.
 
@@ -480,7 +487,7 @@ You'll also earn around 1 million EXP/hour.
 
 **Rate (not boosted):** 800,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
 
-The Trinitas in Central Retem, also known as the Geometric Laboratory, has generous augment drops when you achieve A and S scores in Rank 2. The most valuable drops are the regional Domina augments, but Alts Secretas, Dread Keepers, the Gigas Stat IIIs, and the Boss Soul IVs are also worth selling. In order to achieve an S rank you need to apply some of the Challenge Settings, but you don't need to apply them all. Below are two different settings you can use to achieve an S rank. You'll be able to achieve about 20 runs an hour.
+The Trinitas in Central Retem, also known as the Geometric Labyrinth or just Geo Lab, has generous augment drops when you achieve A and S scores in Rank 2. The most valuable drops are the regional Domina augments, but Alts Secretas, Dread Keepers, the Gigas Stat IIIs, and the Boss Soul IVs are also worth selling. In order to achieve an S rank you need to apply some of the Challenge Settings, but you don't need to apply them all. Below are two different settings you can use to achieve an S rank. You'll be able to achieve about 20 runs an hour.
 
 Don't forget to sell your rewards on the Personal Shop.
 
