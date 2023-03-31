@@ -72,14 +72,14 @@ During **Residents of Central City** you'll need to limit break one of your weap
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
-<img src="/Images/Map_Retem.png" alt="Retem Map" height="500px">
-
 ### Retem Tasks Summary
 
 |Task|BP|Notes|
 |:-|:-|:-|
 |**The Cornesrstone of Retem's Revival**|1243+|Get Retem Gear OR fully augment your Aelio gear.|
 |**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to level 17 with Retem Gear or level 21 with Aelio gear.|
+
+<img src="/Images/Map_Retem.png" alt="Retem Map" height="500px" align="right">
 
 **The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
 
@@ -101,8 +101,6 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
-<img src="/Images/Map_Kvaris.png" alt="Kvaris Map" height="500px">
-
 ### Kvaris Tasks Summary
 
 |Task|BP|Notes|
@@ -110,6 +108,8 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio a
 |**Mission in Kvaris**|1813+|Complete Guiden's Task. Get Kvaris Gear or level 40 with Renaissa Gear.|
 |**On the Search**|1898+|Complete the Kvaris Cocoons and Towers. Get  Kvaris Gear or level 41 with Renaissa Gear.|
 |**A Possible Lead**|2049+|Get to level 42 with Kvaris Gear or level 47 with Renaissa Gear.|
+
+<img src="/Images/Map_Kvaris.png" alt="Kvaris Map" height="500px" align="right">
 
 Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will get you to between level 36 to 38 with enough BP for the 1813 BP requirement of **Mission in Kvaris**. If not, you can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade some of your gear. Grab some Geant or Schwarz Armor and a Greaga, Koukloziat, or Relik weapon. Make sure to fully augment this gear. That will take around 200,000 - 250,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to do everything.
 
@@ -135,8 +135,6 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
-<img src="/Images/Map_Stia.png" alt="Stia Map" height="500px">
-
 ### Stia Tasks Summary
 
 |Task|BP|Notes|
@@ -145,6 +143,8 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio, 
 |**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower.|
 |**The Battle of Alterra Base**|2788+|Complete the the Cocoons in Mediola Outer Area 2 and Dreisen Plant. Get to level 58 with Stia Gear or level 70 with Renaissa Gear.
 |**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 61 with Stia Gear or level 64 with a Crystia or Rugged Weapon and at least Renaissa Armor.|
+
+<img src="/Images/Map_Stia.png" alt="Stia Map" height="500px" align="right">
 
 Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you to between level 57 and level 60. You can get the BP for **Mission in Stia** by either leveling up to 63 or by upgrading just your weapon to a Crystia or Rugged Weapon. Feel free to upgrade your armor now as well. If you've been using Renaissa Gear, you'll be forced to upgrade at least your weapon in Stia.
 
