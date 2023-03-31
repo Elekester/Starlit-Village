@@ -294,6 +294,8 @@ The listed level is the level at which you can expect to be able to utilize that
 
 ## Appendix C: Upgrading Your Gear
 
+<img src="/Images/NPC_Lavona.png" width="300px" align="right">
+
 ### Weapon Upgrades
 
 The Renaissa Weapons you received or whatever high level weapon you have will work for you until you reach the endgame. The augments on your weapon are more impactful and more costly to replace each time you upgrade.
@@ -352,8 +354,6 @@ Once you reach the endgame you'll either want Ajax Armor or Eclaireur Armor. Ecl
 For an exhaustive list of armor see the [Units page on the Arks-Visiphone](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Units).
 
 ### Item Enhancement and Limit Break
-
-<img src="/Images/NPC_Lavona.png" width="300px" align="right">
 
 ### Augmenting
 
