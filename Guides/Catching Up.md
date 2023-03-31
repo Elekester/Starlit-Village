@@ -208,9 +208,7 @@ For augments, you'll want to start working towards the [Budget Augments](#budget
 
 ## Update Preparation
 
-### Stia Checklist
-|Goals|
-|:---|
+<img src="Slayer_Promo.png" width="50%" align="right">
 
 
 
