@@ -210,6 +210,20 @@ For augments, you'll want to start working towards the [Budget Augments](#budget
 
 <img src="/Images/Slayer_Promo.png" width="50%" align="right">
 
+On April 5th, Chapter 5 of the story will be released. Please make sure to enjoy it! At the same time the Slayer Operation Exchange Shop will open. There will be two Gunblade camos available, a few Almati camos, and a host of pre-augmented Gunblade weapons with Fixa Attack 1. The Aegis Integra Exchange Shop will likely be updated as well to contain a Neo Astraean Gunblade. While the Astraean will be the Best in Slot Weapon, if you don't have the augments the Trunkul will be alright until you can obtain one and the Tenebrous will be just a little bit worse than Astraean against Ice enemies.
+
+### Slayer Operations Exchange Shop Weapons
+|Weapon|Level|Slayer Operation Prep Ticket Cost|
+|:-|:-:|:-:|
+|Evolcoat|15|2|
+|Cinquem|36|3|
+|Sechetyl|45|3|
+|Crystia|55|5|
+|Rugged|57|5|
+|Tenebrous|60|5|
+|Trunkul|62|5|
+
+
 
 
 # Appendicies
