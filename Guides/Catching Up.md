@@ -52,8 +52,6 @@ console.log([...document.querySelectorAll('h1, h2')].map(e => {
 
 ## Chapter 1: Aelio Main Story
 
-### Recommended Gear for Aelio
-
 Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
 
 Once you've completed the second Cocoon in **Advice from Liu Lin II** you'll  be gifted every weapon in the Renaissa Series and a complete set of Renaissa Armor. They will be much stronger than your starting equipment and will last you quite a while. You can equip any weapon useable by your main class (or your subclass once you've unlocked it).
@@ -70,6 +68,7 @@ During **Residents of Central City** you'll need to limit break one of your weap
 2. Level up by either completing Side Tasks and defeating enemies in Combat Zones. I really enjoyed doing the side tasks and suggest doing those as well. They also provide N-meseta that you can spend on upgrading your gear.
 3. Upgrading your gear. Right now you probably won't have too much money or materials to upgrade your gear. BUT, there is an easy way to make some money available to you: Red Boxes. Scattered around each region is about 100 Red Boxes containing N-Meseta, SG, and gear. There are also 10 alpha reactors around Aelio that respawn daily for an easy 49,000 ![N-Meseta](/Images/NGSUIMSTIcon.png).
 
+### Recommended Gear for Aelio
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|_Renaissa_ or Theseus Weapons|
