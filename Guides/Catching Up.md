@@ -24,6 +24,7 @@ This guide is for new players and veteran players alike whether your goal is to 
 	- [Appendix B: Leveling Up](#Appendix-B-Leveling-Up)
 	- [Appendix C: Upgrading Your Gear](#Appendix-C-Upgrading-Your-Gear)
 	- [Appendix D: Making N-Meseta](#Appendix-D-Making-N-Meseta)
+	- [Appendix E: Add-On Skills](#Appendix-E-Add-On-Skills)
 
 
 
