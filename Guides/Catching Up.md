@@ -537,11 +537,10 @@ Don't forget to sell your rewards on the Personal Shop.
 
 |To-Do|
 |:---|
-|☐&emsp;Write the postgame|
+|☐&emsp;Write the Update Preparation.|
 |☐&emsp;Update the gearing guide with info on natural grind limits.|
 |☐&emsp;Revise|
 |☐&emsp;Edit|
-|☐&emsp;Write intro|
 
 This JavaScript code remakes the ToC. It'll have a few extra things from the github page.
 
