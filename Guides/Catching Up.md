@@ -73,15 +73,12 @@ During **Residents of Central City** you'll need to limit break one of your weap
 |:-|:-|
 |Weapon|_Renaissa_ or Theseus Weapons|
 |Armor|_Renaissa_ or Theseus Armor|
-|Augments|_Boss Soul III_, _Gigas Stat II_, and _Stat IV_|
+|Augments|1 or 2 of _Boss Soul III_, _Gigas Stat II_, and _Stat IV_|
 
 ### Aelio Checklist
 |Goal|Notes|
 |:-|:-|
-|☐&emsp;Complete the Aelio Cocoons and Towers, spending the skill points you receive.|
-|☐&emsp;Have a weapon and three pieces of armor with 2 ultra budget augments on each piece.|
-|☐&emsp;Achieve a Battle Power of 1100+. You can do this with the above.|
-|☐&emsp;Complete Chapter 1 of the Main Story|
+|☐&emsp;**An Abundance of Caution:** 1100+ BP|Complete the Aelio Cocoons and Towers. Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
 
 
 
@@ -103,12 +100,10 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 \* Vialto and Qual De Armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost in the listed weapons types.
 
 ### Retem Checklist
-|Goals|
-|:---|
-|☐&emsp;Complete the Retem Cocoons and Towers, spending the skill points you receive.|
-|☐&emsp;Have a weapon and three pieces of armor with 3 ultra budget augments on each piece.|
-|☐&emsp;Achieve a Battle Power of 1474+. You can do this at around level 25 with the above goals.|
-|☐&emsp;Complete Chapter 2 of the Main Story|
+|Goal|Notes|
+|:-|:-|
+|☐&emsp;**The Cornesrstone of Retem's Revival:** 1243+ BP|Get the Retem Gear OR Level 10 with Aelio gear.|
+|☐&emsp;**The Truth Behind the Song:** 1474+ BP|Complete the Retem Cocoons and Towers. Get to Level 23 with Retem Gear Level 26 with Aelio gear.|
 
 
 
@@ -134,14 +129,12 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 ‡ This gear is not equippable until level 42. Sestato also has variants equippable at level 47.
 
 ### Kvaris Checklist
-|Goal|Requirements|
-|:---|:-|
-|☐&emsp;Achieve a Battle Power of 1813. You can do this immediately after Guiden's quest, but you may need to upgrade your equipment or level up if not.|
-|☐&emsp;Upgrade your gear or reach level 37 for **On the Search** and level 44 for **On the Search**.|
-|Complete the Kvaris Cocoons and Towers, spending the skill points you receive.|
-|☐&emsp;Achieve a Battle Power of 1898. You can do this after the above.|
-|☐&emsp;Achieve a Battle Power of 2049. You can do this at around level 42 if you upgraded your gear or at level 40 if you upgrade to a Codeck weapon.|
-|☐&emsp;Complete Chapter 3 of the Main Story|
+|Goal|Notes|
+|:-|:-|
+|☐&emsp;**Mission in Kvaris:** 1813+ BP|Complete Guiden's Task. Get to level 39 with Kvaris Gear or level 43 with Aelio Gear.|
+|☐&emsp;**On the Search:** 1898+ BP|Complete the Kvaris Cocoons and Towers. Get to Level 40 with Kvaris Gear or level 44 with Aelio Gear.|
+|☐&emsp;**A Possible Lead:** 2049+ bp|Get to level 46 with Kvaris Gear or level 50 with Aelio Gear.|
+
 
 
 ## Chapter 4: Stia
@@ -164,13 +157,11 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 ‡ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
 
 ### Stia Checklist
-|Goals|
-|:---|
-|☐&emsp;Upgrade your gear.|
-|☐&emsp;Achieve a Battle Power of 2647. You can do this immediately if you do the above or at around level 60.|
-|☐&emsp;Achieve a Battle Power of 2695.|
-|☐&emsp;Achieve a Battle Power of 2878. This is the first BP requirement you can't meet with Renaissa Gear through just leveling alone.|
-|☐&emsp;Complete Chapter 4 of the Main Story|
+|Goal|Notes|
+|:-|:-|
+|☐&emsp;**Mission in Stia:** 2647+ BP|Complete Guiden's Task. Get to level 59 with Stia Gear or level 69 with Aelio Gear.|
+|☐&emsp;**Preparing for Battle:** 2695+ BP|Complete the Stia Ouskirts Tower. Get to level 60 with Stia Gear or level 70 with Aelio Gear.|
+|☐&emsp;**Preparing for More Battle:** 2878+ BP|Complete the Stia Cocoons and Towers. Get to level 65 with Stia Gear or level 68 with Retem Gear.|
 
 
 
