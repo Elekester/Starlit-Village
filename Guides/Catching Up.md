@@ -76,9 +76,9 @@ During **Residents of Central City** you'll need to limit break one of your weap
 |Augments|1 or 2 of _Boss Soul III_, _Gigas Stat II_, and _Stat IV_|
 
 ### Aelio Checklist
-|Goal|Notes|
-|:-|:-|
-|☐&emsp;**An Abundance of Caution:** 1100+ BP|Complete the Aelio Cocoons and Towers. Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
+|Task|BP|Notes|
+|:-|:-|:-|
+|☐&emsp;**An Abundance of Caution**|1100+|Complete the Aelio Cocoons and Towers. Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
 
 
 
@@ -100,10 +100,10 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 \* Vialto and Qual De Armor come in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost in the listed weapons types.
 
 ### Retem Checklist
-|Goal|Notes|
-|:-|:-|
-|☐&emsp;**The Cornesrstone of Retem's Revival:** 1243+ BP|Get the Retem Gear OR Level 10 with Aelio gear.|
-|☐&emsp;**The Truth Behind the Song:** 1474+ BP|Complete the Retem Cocoons and Towers. Get to Level 23 with Retem Gear Level 26 with Aelio gear.|
+|Task|BP|Notes|
+|:-|:-|:-|
+|☐&emsp;**The Cornesrstone of Retem's Revival**|1243+|Get the Retem Gear OR Level 10 with Aelio gear.|
+|☐&emsp;**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to Level 23 with Retem Gear Level 26 with Aelio gear.|
 
 
 
@@ -129,11 +129,11 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 ‡ This gear is not equippable until level 42. Sestato also has variants equippable at level 47.
 
 ### Kvaris Checklist
-|Goal|Notes|
-|:-|:-|
-|☐&emsp;**Mission in Kvaris:** 1813+ BP|Complete Guiden's Task. Get to level 39 with Kvaris Gear or level 43 with Aelio Gear.|
-|☐&emsp;**On the Search:** 1898+ BP|Complete the Kvaris Cocoons and Towers. Get to Level 40 with Kvaris Gear or level 44 with Aelio Gear.|
-|☐&emsp;**A Possible Lead:** 2049+ bp|Get to level 46 with Kvaris Gear or level 50 with Aelio Gear.|
+|Goal|BP|Notes|
+|:-|:-|:-|
+|☐&emsp;**Mission in Kvari**|1813+|Complete Guiden's Task. Get to level 39 with Kvaris Gear or level 43 with Aelio Gear.|
+|☐&emsp;**On the Search**|1898+|Complete the Kvaris Cocoons and Towers. Get to Level 40 with Kvaris Gear or level 44 with Aelio Gear.|
+|☐&emsp;**A Possible Lead**|2049+|Get to level 46 with Kvaris Gear or level 50 with Aelio Gear.|
 
 
 
@@ -157,11 +157,11 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 ‡ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
 
 ### Stia Checklist
-|Goal|Notes|
-|:-|:-|
-|☐&emsp;**Mission in Stia:** 2647+ BP|Complete Guiden's Task. Get to level 59 with Stia Gear or level 69 with Aelio Gear.|
-|☐&emsp;**Preparing for Battle:** 2695+ BP|Complete the Stia Ouskirts Tower. Get to level 60 with Stia Gear or level 70 with Aelio Gear.|
-|☐&emsp;**Preparing for More Battle:** 2878+ BP|Complete the Stia Cocoons and Towers. Get to level 65 with Stia Gear or level 68 with Retem Gear.|
+|Goal|BP|Notes|
+|:-|:-|:-|
+|☐&emsp;**Mission in Stia**|2647+|Complete Guiden's Task. Get to level 59 with Stia Gear or level 69 with Aelio Gear.|
+|☐&emsp;**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower. Get to level 60 with Stia Gear or level 70 with Aelio Gear.|
+|☐&emsp;**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 65 with Stia Gear or level 68 with Retem Gear.|
 
 
 
