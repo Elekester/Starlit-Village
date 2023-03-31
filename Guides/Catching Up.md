@@ -78,7 +78,7 @@ During **Residents of Central City** you'll need to limit break one of your weap
 ### Aelio Checklist
 |Task|BP|Notes|
 |:-|:-|:-|
-|☐&emsp;**An Abundance of Caution**|1100+|Complete the Aelio Cocoons and Towers. Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
+|**An Abundance of Caution**|1100+|Complete the Aelio Cocoons and Towers. Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
 
 
 
@@ -102,8 +102,8 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 ### Retem Checklist
 |Task|BP|Notes|
 |:-|:-|:-|
-|☐&emsp;**The Cornesrstone of Retem's Revival**|1243+|Get the Retem Gear OR Level 10 with Aelio gear.|
-|☐&emsp;**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to Level 23 with Retem Gear Level 26 with Aelio gear.|
+|**The Cornesrstone of Retem's Revival**|1243+|Get the Retem Gear OR Level 10 with Aelio gear.|
+|**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to Level 23 with Retem Gear Level 26 with Aelio gear.|
 
 
 
@@ -131,9 +131,9 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 ### Kvaris Checklist
 |Goal|BP|Notes|
 |:-|:-|:-|
-|☐&emsp;**Mission in Kvari**|1813+|Complete Guiden's Task. Get to level 39 with Kvaris Gear or level 43 with Aelio Gear.|
-|☐&emsp;**On the Search**|1898+|Complete the Kvaris Cocoons and Towers. Get to Level 40 with Kvaris Gear or level 44 with Aelio Gear.|
-|☐&emsp;**A Possible Lead**|2049+|Get to level 46 with Kvaris Gear or level 50 with Aelio Gear.|
+|**Mission in Kvari**|1813+|Complete Guiden's Task. Get to level 39 with Kvaris Gear or level 43 with Aelio Gear.|
+|**On the Search**|1898+|Complete the Kvaris Cocoons and Towers. Get to Level 40 with Kvaris Gear or level 44 with Aelio Gear.|
+|**A Possible Lead**|2049+|Get to level 46 with Kvaris Gear or level 50 with Aelio Gear.|
 
 
 
@@ -159,9 +159,9 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 ### Stia Checklist
 |Goal|BP|Notes|
 |:-|:-|:-|
-|☐&emsp;**Mission in Stia**|2647+|Complete Guiden's Task. Get to level 59 with Stia Gear or level 69 with Aelio Gear.|
-|☐&emsp;**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower. Get to level 60 with Stia Gear or level 70 with Aelio Gear.|
-|☐&emsp;**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 65 with Stia Gear or level 68 with Retem Gear.|
+|**Mission in Stia**|2647+|Complete Guiden's Task. Get to level 59 with Stia Gear or level 69 with Aelio Gear.|
+|**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower. Get to level 60 with Stia Gear or level 70 with Aelio Gear.|
+|**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 65 with Stia Gear or level 68 with Retem Gear.|
 
 
 
