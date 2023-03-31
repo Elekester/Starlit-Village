@@ -40,7 +40,8 @@ Despite having finished the Prologue, the tutorial isn't over when you get to Ce
 |Task|BP|Notes|
 |:-|:-|:-|
 |**The First Mission**|830|Equip the Renaissa Gear you receive from Liu Lin.|
-|**An Abundance of Caution**|1100+|Complete the Aelio Cocoons and Towers. Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
+|**Preparing for Battle**|950|Complete the Aelio Cocoons and Towers.|
+|**An Abundance of Caution**|1100+|Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
 
 Once you've completed the second Cocoon in **Advice from Liu Lin II** you'll  be gifted every weapon in the Renaissa Series and a complete set of Renaissa Armor. They will be much stronger than your starting equipment and will last you quite a while. You can equip any weapon useable by your main class (or your subclass once you've unlocked it).
 
@@ -74,7 +75,7 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio t
 
 |Task|BP|Notes|
 |:-|:-|:-|
-|**The Cornesrstone of Retem's Revival**|1243+|Get the Retem Gear OR fully augment your Aelio gear.|
+|**The Cornesrstone of Retem's Revival**|1243+|Get Retem Gear OR fully augment your Aelio gear.|
 |**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to level 17 with Retem Gear level 21 with Aelio gear.|
 
 **The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
