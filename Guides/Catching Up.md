@@ -129,7 +129,7 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 ‡ This gear is not equippable until level 42. Sestato also has variants equippable at level 47.
 
 ### Kvaris Checklist
-|Goal|BP|Notes|
+|Task|BP|Notes|
 |:-|:-|:-|
 |**Mission in Kvari**|1813+|Complete Guiden's Task. Get to level 39 with Kvaris Gear or level 43 with Aelio Gear.|
 |**On the Search**|1898+|Complete the Kvaris Cocoons and Towers. Get to Level 40 with Kvaris Gear or level 44 with Aelio Gear.|
@@ -157,7 +157,7 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 ‡ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
 
 ### Stia Checklist
-|Goal|BP|Notes|
+|Task|BP|Notes|
 |:-|:-|:-|
 |**Mission in Stia**|2647+|Complete Guiden's Task. Get to level 59 with Stia Gear or level 69 with Aelio Gear.|
 |**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower. Get to level 60 with Stia Gear or level 70 with Aelio Gear.|
