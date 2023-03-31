@@ -34,8 +34,6 @@ This guide is for new players and veteran players alike whether your goal is to 
 
 Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
 
-<img src="/Images/Map_Aelio.png" alt="Aelio Map" height="500px">
-
 ### Aelio Tasks Summary
 
 |Task|BP|Notes|
@@ -43,6 +41,8 @@ Despite having finished the Prologue, the tutorial isn't over when you get to Ce
 |**The First Mission**|830|Equip the Renaissa Gear you receive from Liu Lin.|
 |**Preparing for Battle**|950|Complete the Aelio Cocoons and Towers.|
 |**An Abundance of Caution**|1100+|Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
+
+<img src="/Images/Map_Aelio.png" alt="Aelio Map" height="500px">
 
 Once you've completed the second Cocoon in **Advice from Liu Lin II** you'll  be gifted every weapon in the Renaissa Series and a complete set of Renaissa Armor. They will be much stronger than your starting equipment and will last you quite a while. You can equip any weapon useable by your main class (or your subclass once you've unlocked it).
 
