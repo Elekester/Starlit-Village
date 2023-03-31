@@ -530,7 +530,7 @@ Don't forget to sell your rewards on the Personal Shop.
 This JavaScript code remakes the ToC. It'll have a few extra things from the github page.
 
 ```JavaScript
-console.log([...document.querySelectorAll('h1, h2')].map(e => {
+console.log([...document.querySelector('#readme').querySelectorAll('h1, h2')].map(e => {
     header = e.innerText;
     html = header.replaceAll(' ', '-').replaceAll(':','');
     return '\t'.repeat(e.tagName[1] - 1) + '- ['+header+'](#' + html + ')';
