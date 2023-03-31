@@ -168,11 +168,11 @@ Even Alliance members might request only players that have reached a certain qua
 |Content|BP|Notes|
 |:-|:-|:-|
 |Level 70|-|You should try to reach level 70 first. The fastest way to do this is by completing [Yellow Stias](#Yellow-Triggers-and-the-Trooper-Quests) with a party of 4.|
-|[Trinitas Quest: Geometric Labyrinth Rank 2](#geo-lab-rank-2)|2878+|Most people running this are doing so in parties of 4 to achieve S-Rank. You'll want to be at least level 66 if anyone in your party is level 70 and they're not running the decreased enemy level modifier. Consider also beginning to augment any Endgame Gear with [Budget Augments](#budget-augments).|
-|[Battledia: Purple Aelio, Retem, and Kvaris Devastators Rank 3](#purple-triggers)|2972+|You'll need to be at least level 64 with Stia gear to do these. Consider also beginning to augment any Endgame Gear with [Budget Augments](#budget-augments).|
+|[Geo Lab Rank 2](#geo-lab-rank-2)|2878+|Most people running this are doing so in parties of 4 to achieve S-Rank. You'll want to be at least level 66 if anyone in your party is level 70 and they're not running the decreased enemy level modifier.|
+|[Purple Aelio, Retem, and Kvaris Rank 3](#purple-triggers)|2972+|You'll need to be at least level 64 with Stia gear to do these. Consider also beginning to augment any Endgame Gear with [Budget Augments](#budget-augments).|
 |Urgent Quest: Doldoris Vera and Nils Vera Suppression Op|2972+|-|
 |Urgent Quest: The Battle of Halphia Lake|3119+|-|
-|[Battledia: Purple Kvaris Rank 1](#purple-triggers)|3227+|-|
+|[Purple Stia Rank 1](#purple-triggers)|3227+|-|
 
 ### Endgame Gear Recommendations
 |Gear|Recommendations|
