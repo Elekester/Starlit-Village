@@ -29,8 +29,6 @@ This guide is for new players and veteran players alike whether your goal is to 
 
 # Main Story
 
-
-
 ## Chapter 1: Aelio Main Story
 
 Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
@@ -69,7 +67,7 @@ During **Residents of Central City** you'll need to limit break one of your weap
 
 ## Chapter 2: Retem
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 ### Retem Tasks Summary
 
@@ -96,7 +94,7 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 
 ## Chapter 3: Kvaris
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 ### Kvaris Tasks Summary
 
@@ -128,7 +126,7 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 
 ## Chapter 4: Stia
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 ### Stia Tasks Summary
 
@@ -158,20 +156,30 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 
 # Postgame
 
-Congratulations, you've beaten the Main Story of PSO2: NGS. Now the grind can begin!
-
-
-
 ## The Endgame
+
+Congratulations, you've beaten the Main Story of PSO2: NGS! If you haven't already, make sure to complete the Cocoons and Towers. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 ### Endgame Content
 |Content|BP|Notes|
 |:-|:-|:-|
-|Trinitas Quest: Geometric Labyrinth Rank 2|2878+|-|
+|Trinitas Quest: Geometric Labyrinth Rank 2|2878+|Most people running this are doing so in parties of 4 to achieve S-Rank. |
 |Battledia: Purple Aelio, Retem, and Kvaris Devastators Rank 3|2972+|-|
 |Urgent Quest: Doldoris Vera and Nils Vera Suppression Op|2972+|-|
 |Urgent Quest: The Battle of Halphia Lake|3119+|-|
 |Battledia: Purple Kvaris Rank 1|3227+|-|
+
+### Endgame Gear Recommendations
+|Gear|Recommendations|
+|:-|:-|
+|Weapon|Neos Astraean\*, Neos Justitean†, or Gunblaze Weapon|
+|Armor|Ajax, Elaireur, Efitus‡, or Eptize† Armor|
+|Augments|[Budget Augments](#budget-augments) or [Best in Slot Augments](#best-in-slot-augments)|
+
+\* Neos Astraean is the Best in Slot weapon against all enemies except Light Enemies. It only drops from The Battle of Halphia Lake Urgent Quest, but you can obtain them from the Aegis Exchange Shop for 5 Aegis Integra. You can get 5 Aegis Integra for completing Geo Lab Rank 2 once with the modifiers that make it easy soloable.
+† Neos Justitean is a Light element weapon. It is the strongest weapon against enemies weak to light, but otherwise weaker than other Neos Astraean. It's still stronger than Gunblaze.
+‡ Eptize armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
+‡ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
 
 
 
@@ -505,18 +513,21 @@ Don't forget to sell your rewards on the Personal Shop.
 
 
 
-## Editor's Notes
+## Appendix E: Add-On Skills
+
+
+
+# Editors' Notes
 
 |To-Do|
 |:---|
-|☐&emsp;Finish writing the main story|
 |☐&emsp;Write the postgame|
 |☐&emsp;Update the gearing guide with info on natural grind limits.|
 |☐&emsp;Revise|
 |☐&emsp;Edit|
 |☐&emsp;Write intro|
 
-This code regens the ToC.
+This JavaScript code remakes the ToC. It'll have a few extra things from the github page.
 
 ```JavaScript
 console.log([...document.querySelectorAll('h1, h2')].map(e => {
