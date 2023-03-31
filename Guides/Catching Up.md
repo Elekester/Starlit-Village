@@ -42,7 +42,7 @@ Despite having finished the Prologue, the tutorial isn't over when you get to Ce
 |**Preparing for Battle**|950|Complete the Aelio Cocoons and Towers.|
 |**An Abundance of Caution**|1100+|Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
 
-<img src="/Images/Map_Aelio.png" alt="Aelio Map" height="50%" align="right">
+<img src="/Images/Map_Aelio.png" alt="Aelio Map" width="50%" align="right">
 
 Once you've completed the second Cocoon in **Advice from Liu Lin II** you'll  be gifted every weapon in the Renaissa Series and a complete set of Renaissa Armor. They will be much stronger than your starting equipment and will last you quite a while. You can equip any weapon useable by your main class (or your subclass once you've unlocked it).
 
@@ -79,7 +79,7 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio. 
 |**The Cornesrstone of Retem's Revival**|1243+|Get Retem Gear OR fully augment your Aelio gear.|
 |**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to level 17 with Retem Gear or level 21 with Aelio gear.|
 
-<img src="/Images/Map_Retem.png" alt="Retem Map" height="500%" align="right">
+<img src="/Images/Map_Retem.png" alt="Retem Map" width="50%" align="right">
 
 **The Truth Behind the Song** and **Retem's Independent Partisan Squad** are both Story Tasks that require you to raise your BP beyond what you can achieve through Cocoons, Towers, and upgrading your gear. It's time to level! While Battledia: Yellows are very good options for leveling, I'm going to suggest doing the Side Tasks for Retem. Doing these will help you explore the region and learn more about the characters in it.
 
@@ -109,7 +109,7 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio a
 |**On the Search**|1898+|Complete the Kvaris Cocoons and Towers. Get  Kvaris Gear or level 41 with Renaissa Gear.|
 |**A Possible Lead**|2049+|Get to level 42 with Kvaris Gear or level 47 with Renaissa Gear.|
 
-<img src="/Images/Map_Kvaris.png" alt="Kvaris Map" height="50%" align="right">
+<img src="/Images/Map_Kvaris.png" alt="Kvaris Map" width="50%" align="right">
 
 Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will get you to between level 36 to 38 with enough BP for the 1813 BP requirement of **Mission in Kvaris**. If not, you can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade some of your gear. Grab some Geant or Schwarz Armor and a Greaga, Koukloziat, or Relik weapon. Make sure to fully augment this gear. That will take around 200,000 - 250,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to do everything.
 
@@ -144,7 +144,7 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio, 
 |**The Battle of Alterra Base**|2788+|Complete the the Cocoons in Mediola Outer Area 2 and Dreisen Plant. Get to level 58 with Stia Gear or level 70 with Renaissa Gear.
 |**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 61 with Stia Gear or level 64 with a Crystia or Rugged Weapon and at least Renaissa Armor.|
 
-<img src="/Images/Map_Stia.png" alt="Stia Map" height="50%" align="right">
+<img src="/Images/Map_Stia.png" alt="Stia Map" width="50%" align="right">
 
 Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you to between level 57 and level 60. You can get the BP for **Mission in Stia** by either leveling up to 63 or by upgrading just your weapon to a Crystia or Rugged Weapon. Feel free to upgrade your armor now as well. If you've been using Renaissa Gear, you'll be forced to upgrade at least your weapon in Stia.
 
@@ -296,9 +296,9 @@ The listed level is the level at which you can expect to be able to utilize that
 
 ## Appendix C: Upgrading Your Gear
 
-<img src="/Images/NPC_Lavona.png" width="300px" align="right">
-
 ### Weapon Upgrades
+
+<img src="/Images/NPC_Lavona.png" width="300px" align="right">
 
 The Renaissa Weapons you received or whatever high level weapon you have will work for you until you reach the endgame. The augments on your weapon are more impactful and more costly to replace each time you upgrade.
 
