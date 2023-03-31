@@ -160,31 +160,39 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 
 Congratulations, you've beaten the Main Story of PSO2: NGS! If you haven't already, make sure to complete the Cocoons and Towers. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
-Many players in the endgame will be level 70 with at least +80% potency if not +100% potency on their favorite weapon. Some, especially in pickup games without Alliance members, will expect everyone else to do the same and might complain. While you should be working on upgrading your gear, if you are harassed for the gear you have equipped, please report the offending players.
-
-Even Alliance members might request only players that have reached a certain quality of gear when looking for a group, though if they do not you should feel free to join with the equipment you have. If you ask for help with endgame content, the League will help you out without any expectations of your gear.
-
 ### Endgame Content
 |Content|BP|Notes|
 |:-|:-|:-|
 |Level 70|-|You should try to reach level 70 first. The fastest way to do this is by completing [Yellow Stias](#Yellow-Triggers-and-the-Trooper-Quests) with a party of 4.|
+|[Add-On Skills](#appendix-e-add-on-skills)|-|Once a class reaches level 70, getting another 2mil Exp in that class rewards you with 10 N-Class-Cubes which can be exchanged for Add-On Skills at the Class Counter. See [Appendix E](#appendix-e-add-on-skills) for details.|
 |[Geo Lab Rank 2](#geo-lab-rank-2)|2878+|Most people running this are doing so in parties of 4 to achieve S-Rank. You'll want to be at least level 66 if anyone in your party is level 70 and they're not running the decreased enemy level modifier.|
 |[Purple Aelio, Retem, and Kvaris Rank 3](#purple-triggers)|2972+|You'll need to be at least level 64 with Stia gear to do these. Consider also beginning to augment any Endgame Gear with [Budget Augments](#budget-augments).|
 |Urgent Quest: Doldoris Vera and Nils Vera Suppression Op|2972+|-|
 |Urgent Quest: The Battle of Halphia Lake|3119+|-|
 |[Purple Stia Rank 1](#purple-triggers)|3227+|-|
 
+Many players in the endgame will be level 70 with at least +80% potency if not +100% potency on their favorite weapon. Some, especially in pickup games without Alliance members, will expect everyone else to do the same and might complain. While you should be working on upgrading your gear, if you are harassed for the gear you have equipped, please report the offending players.
+
+Even Alliance members might request only players that have reached a certain quality of gear when looking for a group, though if they do not you should feel free to join with the equipment you have. If you ask for help with endgame content, the League will help you out without any expectations of your gear.
+
+In order to best support your party you will want to get to level 70 and get as good of gear as you can. For leveling, [Yellow Stias](#Yellow-Triggers-and-the-Trooper-Quests) will be your bread and butter. Get a party of 4 Alliance members and you'll be at level 70 in no time.
+
+Neos Astraean is the Best in Slot weapon against all enemies except Light Enemies, where Neos Justiean beats it out. Astraean only drops from The Battle of Halphia Lake Urgent Quest, but you can obtain them from the Aegis Exchange Shop for 5 Aegis Integra. You can get 5 Integra for completing Geo Lab Rank 2 once with the modifiers that make it easy soloable. More Integra can be obtained through drops from the Urgent Quest or by trading in unwanted Astraean weapons.
+
+Eclaireur Armor is the Best in Slot armor, though it makes you into a glass cannon. If you prefer to have some defense use Ajax Armor instead. Both give healthy potency boosts and are affordable.
+
+For augments, you'll want to start working towards the [Budget Augments](#budget-augments). It's perfectly fine to use some [Ultra Budget Augments](#ultra-budget-augments) as replacements for some of the most expensive augments.
+
 ### Endgame Gear Recommendations
 |Gear|Recommendations|
 |:-|:-|
-|Weapon|Neos Astraean\*, Neos Justitean†, or Gunblaze Weapon|
-|Armor|Ajax, Elaireur, Efitus‡, or Eptize§ Armor|
+|Weapon|Neos Astraean, Neos Justitean\*, or Gunblaze Weapon|
+|Armor|Ajax, Eclaireur, Efitus†, or Eptize§ Armor‡|
 |Augments|[Budget Augments](#budget-augments) or [Best in Slot Augments](#best-in-slot-augments)|
 
-\* Neos Astraean is the Best in Slot weapon against all enemies except Light Enemies. It only drops from The Battle of Halphia Lake Urgent Quest, but you can obtain them from the Aegis Exchange Shop for 5 Aegis Integra. You can get 5 Aegis Integra for completing Geo Lab Rank 2 once with the modifiers that make it easy soloable. <br />
-† Neos Justitean is a Light element weapon. It is the strongest weapon against enemies weak to light, but otherwise weaker than other Neos Astraean. It's still stronger than Gunblaze. <br />
-‡ Eptize armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
-§ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
+\* Neos Justitean is a Light element weapon. It is the strongest weapon against enemies weak to light, but otherwise weaker than other Neos Astraean. It's still stronger than Gunblaze. <br />
+† Eptize armor comes in four variants. The base version, Arga (Melee and Ranged), Belta (Ranged and Technique), and Sheza (Melee and Technique). The non-base versions grant a potency boost with the listed weapons types. <br />
+‡ Eptize comes in two variants Eptize Vida which boosts HP and Eptize Vio which boosts PP.
 
 
 
