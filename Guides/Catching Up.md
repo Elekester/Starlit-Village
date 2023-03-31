@@ -32,7 +32,7 @@ This guide is for new players and veteran players alike whether your goal is to 
 
 ## Chapter 1: Aelio Main Story
 
-<img src="/Images/Map_Aelio.png" alt="Aelio Map" height="500px" style="text-align:center;">
+<img src="/Images/Map_Aelio.png" alt="Aelio Map" height="500px" style="margin-left:auto; margin-right:auto">
 
 Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
 
