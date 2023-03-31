@@ -165,12 +165,12 @@ Congratulations, you've beaten the Main Story of PSO2: NGS! If you haven't alrea
 |Content|BP|Notes|
 |:-|:-|:-|
 |[Level 70](#Appendix-B-Leveling-Up)|-|You should try to reach level 70 first. The fastest way to do this is by completing [Yellow Stias](#Yellow-Triggers-and-the-Trooper-Quests) with a party of 4.|
-|[Add-On Skills](#appendix-e-add-on-skills)|-|Once a class reaches level 70, getting another 2mil Exp in that class rewards you with 10 N-Class-Cubes which can be exchanged for Add-On Skills at the Class Counter. See [Appendix E](#appendix-e-add-on-skills) for details.|
+|[Add-On Skills](#appendix-e-add-on-skills)|-|Once a class reaches level 70, getting another 2mil Exp in that class rewards you with 10 N-Class-Cubes which can be exchanged for Add-On Skills at the Class Counter. See [Appendix E](#appendix-e-add-on-skills).|
 |[Geo Lab Rank 2](#geo-lab-rank-2)|2878+|Most people running this are doing so in parties of 4 to achieve S-Rank. You'll want to be at least level 66 if anyone in your party is level 70 and they're not running the decreased enemy level modifier.|
-|[Purple Aelio, Retem, and Kvaris Rank 3](#purple-triggers)|2972+|You'll need to be at least level 64 with Stia gear to do these. Consider also beginning to augment any Endgame Gear with [Budget Augments](#budget-augments).|
+|[Purple Aelio, Retem, and Kvaris Rank 3](#purple-triggers)|2972+|Defeat all the regional bosses to receive valuable drops. You'll need to be at least level 64 with Stia gear to do these. Consider also beginning to augment any Endgame Gear with [Budget Augments](#budget-augments).|
 |Urgent Quest: Doldoris Vera and Nils Vera Suppression Op|2972+|-|
-|Urgent Quest: The Battle of Halphia Lake|3119+|-|
-|[Purple Stia Rank 1](#purple-triggers)|3227+|-|
+|Urgent Quest: The Battle of Halphia Lake|3119+|Its time to defeat Dark Falz! Maybe? Make sure to follow the Blight Round marker if there's a ranger in the party. If you're the ranger, make sure to use blight rounds frequently. Especially on the pillars in phase 1, where the extra damage and coordination can lead to an early win in that phase. In phase 2, make sure to keep up your DPS through the DPS checks, otherwise Falz might wipe the party. The final DPS check can be dodged even when failed by running to the edge of the arena.|
+|[Purple Stia Rank 1](#purple-triggers)|3227+|Defeat all the Stia bosses to receive valuable drops. You'll need to be level 70 with endgame gear to do these.|
 
 Many players in the endgame will be level 70 with at least +80% potency if not +100% potency on their favorite weapon. Some, especially in pickup games without Alliance members, will expect everyone else to do the same and might complain. While you should be working on upgrading your gear, if you are harassed for the gear you have equipped, please report the offending players.
 
