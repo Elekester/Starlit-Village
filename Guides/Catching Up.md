@@ -357,6 +357,8 @@ For your low level armor and weapons, I suggest staying as budget as possible. Y
 
 The costs listed below are the costs to augment a single weapon or armor using one of two methods. **Method 1** uses 10 capsules per augment and an N-Augmentation Success Rate +10%. **Method 2** uses 1 capsule per augment and an N-Augmentation Success +10%. The second method has a much lower cost for the low success rate augments, but uses more N-Augmentation Success Rate items and has a much higher variance. For more details on the advantanges and disadvantages of Method 2, refer to [Optimizing Augment Capsule Use in PSO2: NGS](Augmenting.md).
 
+The augments are separated into three categories for Melee Weapons, Ranged Weapons, or Tech Weapons. You could make a universal potency build. Using Eradi/Vardi/Aegis Soul IV, Stia Domina IV, and Triplble to replace single or double stat augments.
+
 #### Ultra Budget Augments
 
 **Method 1 Cost:** 53k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
