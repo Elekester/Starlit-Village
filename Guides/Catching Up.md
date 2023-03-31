@@ -106,7 +106,7 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio a
 |**On the Search**|1898+|Complete the Kvaris Cocoons and Towers. Get  Kvaris Gear or level 41 with Renaissa Gear.|
 |**A Possible Lead**|2049+|Get to level 42 with Kvaris Gear or level 47 with Renaissa Gear.|
 
-Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will probably put you around levels 37 to 40 with enough BP for the 1813 BP requirement of **Mission in Kvaris**. If not, you can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade some of your gear. Grab some Geant or Schwarz Armor and a Greaga, Koukloziat, or Relik weapon. Make sure to fully augment this gear. That will take around 200,000 - 250,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to do everything.
+Right off the bat, the first quest will lead you to Guiden's 10 million Exp quest. This will get you to between level 36 to 38 with enough BP for the 1813 BP requirement of **Mission in Kvaris**. If not, you can get to this BP in just a few levels with +30 grind Renaissa gear, but if you have the N-meseta you might instead want to upgrade some of your gear. Grab some Geant or Schwarz Armor and a Greaga, Koukloziat, or Relik weapon. Make sure to fully augment this gear. That will take around 200,000 - 250,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to do everything.
 
 When you get to Kvaris you'll have to reach 1898 BP to get past **On the Search**, but you can do this by upgrading your gear if you haven't and completing Kvaris' cocoons and towers. Once you reach **A Possible Lead** you'll need to reach 2049 BP. If you've reached level 40 you can upgrade your weapon to a Codeck weapon which is a massive jump in power, but those are expensive. Since you probably just upgraded your gear, lets save some N-Meseta and level up some here. You'll be able to reach the required BP at around level 42.
 
@@ -134,11 +134,11 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio, 
 
 |Task|BP|Notes|
 |:-|:-|:-|
-|**Mission in Stia**|2647+|Complete Guiden's Task. Get to level 56 with a Crystia or Rugged Weapon at least Renaissa Armor or level 68 with Renaissa Gear.|
-|**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower. Get to level 57 with a Crystia or Rugged Weapon at least Renaissa Armor or level 68 with Renaissa Gear.|
+|**Mission in Stia**|2647+|Complete Guiden's Task. Get a Crystia or Rugged Weapon at least Renaissa Armor or level 68 with Renaissa Gear.|
+|**Preparing for Battle**|2695+|Complete the Stia Ouskirts Tower. Get a Crystia or Rugged Weapon at least Renaissa Armor or level 68 with Renaissa Gear.|
 |**Preparing for More Battle**|2878+|Complete the Stia Cocoons and Towers. Get to level 61 with Stia Gear or level 64 with a Crystia or Rugged Weapon and at least Renaissa Armor.|
 
-Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you around level 57. You can get the BP for **Mission in Stia** by either leveling up to 63 or by upgrading just your weapon.
+Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you to between level 57 and level 60. You can get the BP for **Mission in Stia** by either leveling up to 63 or by upgrading just your weapon.
 
 Stia is a little strange. Upon entering Stia and competing the initial tasks, we don't have access to all the cocoons and towers before the next massive BP requirement in **Preparing for Battle**, only the tower in Stia Outskirts is available.
 
