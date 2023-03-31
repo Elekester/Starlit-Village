@@ -32,10 +32,7 @@ This guide is for new players and veteran players alike whether your goal is to 
 
 ## Chapter 1: Aelio Main Story
 
-<figure>
-	<img src="/Images/Map_Aelio.png" alt="Aelio Map" height="500px">
-	<figcaption>Map of Aelio. Click to open a full size image.</figcaption>
-</figure>
+<img src="/Images/Map_Aelio.png" alt="Aelio Map" height="500px">
 
 Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
 
@@ -73,7 +70,7 @@ During **Residents of Central City** you'll need to limit break one of your weap
 
 ## Chapter 2: Retem
 
-![Retem Map](/Images/Map_Retem.png)
+<img src="/Images/Map_Retem.png" alt="Retem Map" height="500px">
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
@@ -102,7 +99,7 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 
 ## Chapter 3: Kvaris
 
-![Kvaris Map](/Images/Map_Kvaris.png)
+<img src="/Images/Map_Kvaris.png" alt="Kvaris Map" height="500px">
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
@@ -136,7 +133,7 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 
 ## Chapter 4: Stia
 
-![Stia Map](/Images/Map_Stia.png)
+<img src="/Images/Map_Stia.png" alt="Stia Map" height="500px">
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
