@@ -76,8 +76,8 @@ During **Residents of Central City** you'll need to limit break one of your weap
 |Augments|_Boss Soul III_, _Gigas Stat II_, and _Stat IV_|
 
 ### Aelio Checklist
-|Goals|
-|:---|
+|Goal|Notes|
+|:-|:-|
 |☐&emsp;Complete the Aelio Cocoons and Towers, spending the skill points you receive.|
 |☐&emsp;Have a weapon and three pieces of armor with 2 ultra budget augments on each piece.|
 |☐&emsp;Achieve a Battle Power of 1100+. You can do this with the above.|
@@ -134,8 +134,8 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 ‡ This gear is not equippable until level 42. Sestato also has variants equippable at level 47.
 
 ### Kvaris Checklist
-|Goals|
-|:---|
+|Goal|Requirements|
+|:---|:-|
 |☐&emsp;Achieve a Battle Power of 1813. You can do this immediately after Guiden's quest, but you may need to upgrade your equipment or level up if not.|
 |☐&emsp;Upgrade your gear or reach level 37 for **On the Search** and level 44 for **On the Search**.|
 |Complete the Kvaris Cocoons and Towers, spending the skill points you receive.|
@@ -149,6 +149,8 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This should land you around level 57 with about 2500 BP. You can get the BP for **Mission in Stia** by either leveling up to 60 or by upgrading to a Rugged or Crystia weapon. You might also upgrade your armor to Efitus armor.
+
+Stia is a little strange. Upon entering Stia and competing the initial tasks, we don't have access to all the cocoons and towers before the next massive BP requirement in **Preparing for Battle**, only the tower in Stia Outskirts is available.
 
 ### Recommended Gear for Stia
 |Gear|Recommendations|
@@ -167,7 +169,7 @@ Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This 
 |☐&emsp;Upgrade your gear.|
 |☐&emsp;Achieve a Battle Power of 2647. You can do this immediately if you do the above or at around level 60.|
 |☐&emsp;Achieve a Battle Power of 2695.|
-|☐&emsp;Achieve a Battle Power of 2878.|
+|☐&emsp;Achieve a Battle Power of 2878. This is the first BP requirement you can't meet with Renaissa Gear through just leveling alone.|
 |☐&emsp;Complete Chapter 4 of the Main Story|
 
 
