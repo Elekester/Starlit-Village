@@ -212,31 +212,17 @@ For augments, you'll want to start working towards the [Budget Augments](#budget
 
 On April 5th, Chapter 5 of the story will be released. Please make sure to enjoy it! At the same time the Slayer Operation Exchange Shop will open. There will be two Gunblade camos available, a few Almati camos, and a host of pre-augmented Gunblade weapons with Fixa Attack 1. The Trunkul and Tenebrous weapons can be good holdovers until you get your hands on an Augmented Neos Astraean Gunblade.
 
-If you did all the Slayer Operations Prep Limited-Time Tasks you'll have 20 Tickets to spend. I suggest picking up the Arms Refiner IIs, any camos you want, a weapon to keep if you plan on playing Slayer while leveling it, and spending the rest on weapons to sell on the player shop.
-
-### Slayer Operations Exchange Shop
-|Item|Level|Ticket Cost|
-|:-|:-:|:-:|
-|Evolcoat Gunblade+50|15|2|
-|Cinquem Gunblade+50|36|3|
-|Sechetyl Gunblade+50|45|3|
-|Crystia Gunblade+50|55|5|
-|Rugged Gunblade+50|57|5|
-|Tenebrous Gunblade+50|60|5|
-|Trunkul Gunblade+50|62|5|
-|* Clio Talon Schneider|-|2|
-|* Relic Axeon CV|-|2|
-|* Trunkul Almati|-|2|
-|* Tenebrous Almati|-|2|
-|* Crystia Almati|-|2|
-|Special Scratch Ticket x10|-|1|
-|N-Ex-Cube x5|-|1|
-|Arms Refiner x4|-|1|
-|Arms Refiner II x2|-|2|
+If you did all the Slayer Operations Prep Limited-Time Tasks you'll have 20 Tickets to spend. I suggest picking up the Arms Refiner IIs, any camos you want, a weapon to keep if you plan on playing Slayer while leveling it, and spending the rest on weapons to sell on the player shop. Check out the [Get ready for the Slayer! Campaign](https://pso2.com/players/news/slayer_20230301/) for a full list of rewards.
 
 Presumably the Aegis Integra Exchange Shop will be updated either on April 5th or on April 12th with the Neos Astraean Gunblade. For this reason you should have 5 Aegis Integra and enough capsules to affix [Ranged Budget Augments](#budget-augments) to the weapon.
 
+Whether you grab A Neos Astraean Gunblade, a Trunkul Gunblade, or are sticking to another class you'll also be able to unlock your weapon's potential to level 5 using N-Ex Cubes, so make sure you have a few saved up.
 
+On April 19th the NGS 2nd Anniversary Event will begin. New 8-Star Revita weapons will be available in the Event Shop with augments, potential 5, and +51 grind (meaning its already limit broken). Make sure to earn Seasonal Points by defeating mobs in Retem Alnothe!
+
+A new type of quest, Duel Quests, will become available in which you must defeat bosses solo. New augments will be available that increase your weapon's potency by a massive amount only in these quests.
+
+You'll also be able to unlock your weapon's potential to level 6 using Photon Chunk IIA and IIBs, which drop from Limited-Time Emergency Quest: Happy Rappy Rumble and later the LTQ and high Rank Urgent Quests.
 
 # Appendicies
 
@@ -303,14 +289,14 @@ Battledia: Yellows are the best repeatable source of EXP bar none. You get bonus
 
 The listed level is the level at which you can expect to be able to utilize that Battledia: Yellow.
 
-|Battledia: Yellow|Lv|Host Exp|Party Member Exp|Exp/hour|
-|:----------------|:-:|------:|---------------:|-------:|
-|Aelio Troopers Rank 1|12|107k|97k|3.4mil Exp/hour|
-|Retem Troopers Rank 1|21|168k|153k|-|
-|Aelio Troopers Rank 2|31|295k|268k|9.4mil Exp/hour|
-|Retem Troopers Rank 2|41|361k|328k|-|
-|Kvaris Troopers Rank 1|51|537k|488k|-|
-|Stia Troppers Rank 1|61|669k|608k|21mil Exp/hour|
+|Battledia: Yellow|Lv|Host Exp|Party Member Exp|Runs/hour|Exp/hour|
+|:----------------|:-:|------:|---------------:|:-:|-------:|
+|Aelio Troopers Rank 1|12|107k|97k|34|3.3mil|
+|Retem Troopers Rank 1|21|168k|153k|24|3.7mil|
+|Aelio Troopers Rank 2|31|295k|268k|34|9.1mil|
+|Retem Troopers Rank 2|41|361k|328k|24|7.9mil|
+|Kvaris Troopers Rank 1|51|537k|488k|20|9.8mil|
+|Stia Troppers Rank 1|61|669k|608k|40|24.3mil|
 
 ### Combat Zones
 
@@ -320,7 +306,7 @@ The listed level is the level at which you can expect to be able to utilize that
 
 ### Weapon Upgrades
 
-<img src="/Images/NPC_Lavona.png" width="300px" align="right">
+<img src="/Images/NPC_Lavona.png" width="25%" align="right">
 
 The Renaissa Weapons you received or whatever high level weapon you have will work for you until you reach the endgame. The augments on your weapon are more impactful and more costly to replace each time you upgrade.
 
