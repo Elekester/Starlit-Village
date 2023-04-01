@@ -569,7 +569,7 @@ Don't forget to sell your rewards on the Personal Shop.
 
 ## Appendix E: Add-On Skills
 
-<img src="/Images/Add-On_Skills.png" width="50%" align="right">
+<img src="/Images/Add-On_skills.png" width="50%" align="right">
 
 
 
