@@ -483,7 +483,7 @@ In the table below **Lv** refers to the minimum level required to use the method
 |[Geo Lab Rank 2](#geo-lab-rank-2)|800k|70|❌|✔️|❌|Geo Lab Rank 2 can be done at level 65, but most parties will include level 70 players. Higher ranks drop better and rewards. There's a few easy Challenge Settings you can use to get the S rank.|
 |[Purple Triggers](#purple-triggers)||70|❌|✔️|❌||
 
-<img src="/Images/Phantom_Thief.png" width="50%" align="right">
+<img src="/Images/Phantom_Thief.png" width="25%" align="right">
 
 ### Recurring Tasks
 
