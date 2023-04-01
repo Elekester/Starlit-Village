@@ -303,14 +303,14 @@ Battledia: Yellows are the best repeatable source of EXP bar none. You get bonus
 
 The listed level is the level at which you can expect to be able to utilize that Battledia: Yellow.
 
-|Battledia: Yellow|Lv|Host Exp|Party Member Exp|Exp/hour|
+|Battledia: Yellow|Lv|Host Exp|Party Member Exp|Runs/hour|Exp/hour|
 |:----------------|:-:|------:|---------------:|-------:|
-|Aelio Troopers Rank 1|12|107k|97k|3.4mil Exp/hour|
-|Retem Troopers Rank 1|21|168k|153k|-|
-|Aelio Troopers Rank 2|31|295k|268k|9.4mil Exp/hour|
-|Retem Troopers Rank 2|41|361k|328k|-|
-|Kvaris Troopers Rank 1|51|537k|488k|-|
-|Stia Troppers Rank 1|61|669k|608k|21mil Exp/hour|
+|Aelio Troopers Rank 1|12|107k|97k|34|3.3mil|
+|Retem Troopers Rank 1|21|168k|153k|24|3.7mil|
+|Aelio Troopers Rank 2|31|295k|268k|34|9.1mil|
+|Retem Troopers Rank 2|41|361k|328k|24|7.9mil|
+|Kvaris Troopers Rank 1|51|537k|488k|20|9.8mil|
+|Stia Troppers Rank 1|61|669k|608k|40|24.3mil|
 
 ### Combat Zones
 
