@@ -228,6 +228,8 @@ You'll also be able to unlock your weapon's potential to level 6 using Photon Ch
 
 ## Appendix A: Raising Your Battle Power
 
+<img src="/Images/NPC_Creston.png" width="25%" align="right">
+
 Battle Power (BP) is the main way that NGS locks content. New areas, quests, and story progression are all behind minimum BP requirements. You can increase your Battle Power in three ways: leveling up your main class. spending skill points in both your main and subclass, and upgrading your gear.
 
 ### Level
