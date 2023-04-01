@@ -341,6 +341,8 @@ For an exhaustive list of weapons see the [Weapons Pages on the Arks-Visiphone](
 
 ### Armor Upgrades
 
+<img src="/Images/NPC_Greif.png" width="25%" align="right">
+
 The Renaissa Armor you received or whatever high level armor you have will work for you until you reach the endgame. The augments on your armor are more impactful and more costly to replace each time you upgrade.
 
 There are two different paths you can take for armor upgrades. Most Armor is defensive in nature, providing small HP, PP, and potency boosts and a large defense. The Gigantix enemies of each region drop their own series of armor which trades some defense, HP, and damage resistance for more potency. The Gigantix armor is best in slot, but you should feel comfortable using other armor, as the potency difference is small.
@@ -373,11 +375,15 @@ For an exhaustive list of armor see the [Units page on the Arks-Visiphone](https
 
 ### Item Enhancement and Limit Break
 
+<img src="/Images/NPC_Gernsback.png" width="25%" align="right">
+
 Weapons and Armor can be enhanced to improve their attack and defense as well as increase the number of augment slots. You can use other gear as materials for this enhancement, though silver and gold primm gear give an extra boost to enhancement. The most cost effective way to enhance weapons is to use Gold Primm Sword+30 as the materials, they provide about twice the Enhancement Exp as Gold Primm Sword+20, at only one and a half times the cost. At the moment of writing this guide, Gold Primm Armor+20 has crashed and is more cost effective than Gold Primm Armor+30. All of these can be obtained by doing Yellow Triggers.
 
 Most gear has an enhancement limit, which varies from item to item. Generally, higher level and higher rarity equipment has a higher natural limit, though every item can be Limit Breaked to reach the highest limit. Limit Breaking costs 100k to 200k ![N-Meseta](/Images/NGSUIMSTIcon.png) along with additional materials. Due to the N-Meseta cost, its not worth limit breaking low level gear. Instead you should just upgrade to higher level gear with a higher natural limit. Endgame gear must be limit broken to reach its highest enhancement. To fully limit break a weapon you'll need Arms Refiners and Arms Refiner IIs. Arms Refiners can be made from Strugments, which drop in combat zones and can be bought off the player shop. Arms Refiner IIs drop from Neusen Plant and presumably later combat zones as well.
 
 ### Augmenting
+
+<img src="/Images/NPC_Nozomi.png" width="25%" align="right">
 
 As Ran says before heading to Mt. Magnus, "Battle Power is nothing more than a rough assessment." Its actually not too hard to reach the BP necessary for the endgame and still be very underpowered. How good an augment is is roughly proportional to its BP, but this is deceiving sometimes. One of the best augments in the game, Alts Secreta IV, only gives 6 BP which is equivalent to some of the worst augments in the game, the Element Ward IIIs.
 
