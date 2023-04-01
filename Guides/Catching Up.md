@@ -304,6 +304,8 @@ The listed level is the level at which you can expect to be able to utilize that
 |Kvaris Troopers Rank 1|51|537k|488k|20|9.8mil|
 |Stia Troppers Rank 1|61|669k|608k|40|24.3mil|
 
+In addition, you'll receive Gold Primm Swords and Armor you can use to upgrade your gear or sell on the Personal Shop.
+
 ### Combat Zones
 
 
@@ -480,8 +482,8 @@ In the table below **Lv** refers to the minimum level required to use the method
 |[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil ![N-Meseta](/Images/NGSUIMSTIcon.png), obtainable once per account. Rate is a very rough estimate.|
 |[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|25|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
 |[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k|40|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
+|[Purple Triggers](#purple-triggers)|-|65-70|❌|✔️|❌||
 |[Geo Lab Rank 2](#geo-lab-rank-2)|800k|70|❌|✔️|❌|Geo Lab Rank 2 can be done at level 65, but most parties will include level 70 players. Higher ranks drop better and rewards. There's a few easy Challenge Settings you can use to get the S rank.|
-|[Purple Triggers](#purple-triggers)||70|❌|✔️|❌||
 
 <img src="/Images/Phantom_Thief.png" width="25%" align="right">
 
@@ -513,15 +515,13 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 **Rate (buying Yellow Triggers):** 740,000 to 1.4 million ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour <br />
 **Rate (not buying Yellow Triggers):** 840,000 to 1.5 million ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
 
-**Warning:** This method requires selling a great deal of items on the Personal Shop, which is limited to 30 items at a time.
+**Warning:** This method requires selling a great deal of non-stackable items on the Personal Shop.
 
 The Battledia Yellows, Aelio Troopers and Retem Troopers, both drop Gold Primm Sword +30 and Gold Primm Armor +30 as well as the Domina for that region. The sword can sell on the personal shop for 15,000 to 25,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) and the armor for 3,000 to 9,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) depending on demand. Ael Dominas sell for 13,000 to 15,000 ![N-Meseta](/Images/NGSUIMSTIcon.png). Meaning you can earn 27,900 to 41,700 ![N-Meseta](/Images/NGSUIMSTIcon.png) each run, accounting for the seller's fee on the personal shop.
 
 If you must buy the Yellow Triggers, which cost 1,000 to 2,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each, you'll end up paying 1,250 to 2,500 ![N-Meseta](/Images/NGSUIMSTIcon.png) a run if the cost is split between a party of 4. Thus you can earn 24,800 to 40,450 ![N-Meseta](/Images/NGSUIMSTIcon.png) per run if you must buy the Yellow Triggers.
 
-Aelio's Yellow Triggers can be done at a rate of 30 to 35 runs/hour with a party of 4, netting you the above rates. In adition you'll receive 8 million to 10 million experience an hour (boostable).
-
-If Stia's Yellow Triggers get a Rank 2, expect that quest to replace Aelio's as the go to quest for this method.
+In adition you'll receive boostable experience for running these triggers.
 
 ### Retem Alnothe Rank 1
 
@@ -539,9 +539,17 @@ Don't forget to use any boost items like N-Meseta Earned, Triboosts, and Rappy-S
 
 You'll also earn around 1 million EXP/hour.
 
+### Purple Triggers
+
+**Rate:** - ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
+
+The Battledia: Purple Devastators quests can be profitable with drops like gigas augments, soul augments, and rare motions that can be sold on the Player Shop. At the moment, only Aelio Rank 2+ has the most valuable motion drop. For augments you must run Aelio/Retem Purple Rank 3, Kvaris Purple Rank 2+, or Stia Purple in order to have a chance at obtaining Gigas Stat IV.
+
+Don't forget to sell your rewards on the Personal Shop.
+
 ### Geo Lab Rank 2
 
-**Rate (not boosted):** 800,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
+**Rate:** 800,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
 
 The Trinitas in Central Retem, also known as the Geometric Labyrinth or just Geo Lab, has generous augment drops when you achieve A and S scores in Rank 2. The most valuable drops are the regional Domina augments, but Alts Secretas, Dread Keepers, the Gigas Stat IIIs, and the Boss Soul IVs are also worth selling. In order to achieve an S rank you need to apply some of the Challenge Settings, but you don't need to apply them all. Below are two different settings you can use to achieve an S rank. You'll be able to achieve about 20 runs an hour.
 
@@ -556,8 +564,6 @@ Don't forget to sell your rewards on the Personal Shop.
 |Increase Restasigne Consumption: Lv. 5|Increase Restasigne Consumption: Lv. 5|
 |Decreased Max Carry Limit of Signe Items: Lv. 4|Decreased Max Carry Limit of Signe Items: Lv. 4|
 |-|Enemy Level Down: -10 Levels|
-
-### Purple Triggers
 
 
 
