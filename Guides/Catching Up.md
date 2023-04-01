@@ -236,7 +236,13 @@ If you did all the Slayer Operations Prep Limited-Time Tasks you'll have 20 Tick
 
 Presumably the Aegis Integra Exchange Shop will be updated either on April 5th or on April 12th with the Neos Astraean Gunblade. For this reason you should have 5 Aegis Integra and enough capsules to affix [Ranged Budget Augments](#budget-augments) to the weapon.
 
+Whether you grab A Neos Astraean Gunblade, a Trunkul Gunblade, or are sticking to another class you'll also be able to unlock your weapon's potential to level 5 using N-Ex Cubes, so make sure you have a few saved up.
 
+On April 19th the NGS 2nd Anniversary Event will begin. New 8-Star Revita weapons will be available in the Event Shop with augments, potential 5, and +51 grind (meaning its already limit broken). Make sure to earn Seasonal Points by defeating mobs in Retem Alnothe!
+
+A new type of quest, Duel Quests, will become available in which you must defeat bosses solo. New augments will be available that increase your weapon's potency by a massive amount only in these quests.
+
+You'll also be able to unlock your weapon's potential to level 6 using Photon Chunk IIA and IIBs, which drop from Limited-Time Emergency Quest: Happy Rappy Rumble and later the LTQ and high Rank Urgent Quests.
 
 # Appendicies
 
