@@ -605,7 +605,7 @@ A good goal is to get level 18 or higher in the main effect and a decent level i
 |☐&emsp;Revise|
 |☐&emsp;Edit|
 
-This JavaScript code remakes the ToC. It'll have a few extra things from the github page.
+You can run this JavaScript code in your browser to generate the Table of Contents.
 
 ```JavaScript
 console.log([...document.querySelectorAll('#readme h1, #readme h2')].map((header, index) => {
