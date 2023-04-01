@@ -603,7 +603,6 @@ A good goal is to get level 18 or higher in the main effect and a decent level i
 |To-Do|
 |:---|
 |☐&emsp;Revise|
-|☐&emsp;Edit|
 
 You can run this JavaScript code in your browser to generate the Table of Contents.
 
