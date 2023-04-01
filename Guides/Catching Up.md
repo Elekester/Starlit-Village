@@ -212,27 +212,7 @@ For augments, you'll want to start working towards the [Budget Augments](#budget
 
 On April 5th, Chapter 5 of the story will be released. Please make sure to enjoy it! At the same time the Slayer Operation Exchange Shop will open. There will be two Gunblade camos available, a few Almati camos, and a host of pre-augmented Gunblade weapons with Fixa Attack 1. The Trunkul and Tenebrous weapons can be good holdovers until you get your hands on an Augmented Neos Astraean Gunblade.
 
-If you did all the Slayer Operations Prep Limited-Time Tasks you'll have 20 Tickets to spend. I suggest picking up the Arms Refiner IIs, any camos you want, a weapon to keep if you plan on playing Slayer while leveling it, and spending the rest on weapons to sell on the player shop.
-
-### Slayer Operations Exchange Shop
-|Item|Level|Ticket Cost|
-|:-|:-:|:-:|
-|Evolcoat Gunblade+50|15|2|
-|Cinquem Gunblade+50|36|3|
-|Sechetyl Gunblade+50|45|3|
-|Crystia Gunblade+50|55|5|
-|Rugged Gunblade+50|57|5|
-|Tenebrous Gunblade+50|60|5|
-|Trunkul Gunblade+50|62|5|
-|* Clio Talon Schneider|-|2|
-|* Relic Axeon CV|-|2|
-|* Trunkul Almati|-|2|
-|* Tenebrous Almati|-|2|
-|* Crystia Almati|-|2|
-|Special Scratch Ticket x10|-|1|
-|N-Ex-Cube x5|-|1|
-|Arms Refiner x4|-|1|
-|Arms Refiner II x2|-|2|
+If you did all the Slayer Operations Prep Limited-Time Tasks you'll have 20 Tickets to spend. I suggest picking up the Arms Refiner IIs, any camos you want, a weapon to keep if you plan on playing Slayer while leveling it, and spending the rest on weapons to sell on the player shop. Check out the [Get ready for the Slayer! Campaign](https://pso2.com/players/news/slayer_20230301/) for a full list of rewards.
 
 Presumably the Aegis Integra Exchange Shop will be updated either on April 5th or on April 12th with the Neos Astraean Gunblade. For this reason you should have 5 Aegis Integra and enough capsules to affix [Ranged Budget Augments](#budget-augments) to the weapon.
 
