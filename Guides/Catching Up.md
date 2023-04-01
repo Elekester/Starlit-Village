@@ -571,14 +571,16 @@ Don't forget to sell your rewards on the Personal Shop.
 
 <img src="/Images/Add-On_skills.png" width="50%" align="right">
 
+Add-On Skills increase your characters stats without affecting your gear or class. To generate an Add-On Skill, simply use the Class Counter and spend N-Class-Ex-Cubes (which are obtained by overleveling your class or as drops from Canonball Strike) to generate Add-On Skills. You'll get that class's main effect and two random sub-effects, all with random levels from 1 to 20. The main effect will never decrease in level while the sub-effects can.
+
+You'll have the option (once you unlock them) to spend 1 cube and 5k to 50k ![N-Meseta](/Images/NGSUIMSTIcon.png). Spending more N-Meseta raises the lowest roll possible from 1 to 10. This is almost never worth it, since it doesn't increase the odds of getting high rolls, so save your money and just spend the 5k ![N-Meseta](/Images/NGSUIMSTIcon.png).
+
 
 
 # Editors' Notes
 
 |To-Do|
 |:---|
-|☐&emsp;Write the Update Preparation.|
-|☐&emsp;Update the gearing guide with info on natural grind limits.|
 |☐&emsp;Revise|
 |☐&emsp;Edit|
 
