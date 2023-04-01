@@ -304,7 +304,7 @@ Battledia: Yellows are the best repeatable source of EXP bar none. You get bonus
 The listed level is the level at which you can expect to be able to utilize that Battledia: Yellow.
 
 |Battledia: Yellow|Lv|Host Exp|Party Member Exp|Runs/hour|Exp/hour|
-|:----------------|:-:|------:|---------------:|-------:|
+|:----------------|:-:|------:|---------------:|:-:|-------:|
 |Aelio Troopers Rank 1|12|107k|97k|34|3.3mil|
 |Retem Troopers Rank 1|21|168k|153k|24|3.7mil|
 |Aelio Troopers Rank 2|31|295k|268k|34|9.1mil|
