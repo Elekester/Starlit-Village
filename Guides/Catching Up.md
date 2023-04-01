@@ -306,7 +306,7 @@ The listed level is the level at which you can expect to be able to utilize that
 
 ### Weapon Upgrades
 
-<img src="/Images/NPC_Lavona.png" width="50%" align="right">
+<img src="/Images/NPC_Lavona.png" width="25%" align="right">
 
 The Renaissa Weapons you received or whatever high level weapon you have will work for you until you reach the endgame. The augments on your weapon are more impactful and more costly to replace each time you upgrade.
 
