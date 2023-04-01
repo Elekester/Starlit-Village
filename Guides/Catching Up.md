@@ -263,6 +263,8 @@ See [Upgrading Your Gear](#upgrading-your-gear) for more information.
 
 ## Appendix B: Leveling Up
 
+<img src="/Images/Aelio_Yellow.png" width="50%" align="right">
+
 In order for a class to reach level 70, the current level cap, you need to get about 58.5 million EXP. After that every 2 million EXP grants you 1 N-EX-Cube and 10 N-Class-Cubes which allow you to further upgrade your gear and Add-on Skills.
 
 ### Main Story
