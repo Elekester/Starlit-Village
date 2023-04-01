@@ -369,6 +369,10 @@ For an exhaustive list of armor see the [Units page on the Arks-Visiphone](https
 
 ### Item Enhancement and Limit Break
 
+Weapons and Armor can be enhanced to improve their attack and defense as well as increase the number of augment slots. You can use other gear as materials for this enhancement, though silver and gold primm gear give an extra boost to enhancement. The most cost effective way to enhance weapons is to use Gold Primm Sword+30 as the materials, they provide about twice the Enhancement Exp as Gold Primm Sword+20, at only one and a half times the cost. At the moment of writing this guide, Gold Primm Armor+20 has crashed and is more cost effective than Gold Primm Armor+30. All of these can be obtained by doing Yellow Triggers.
+
+Most gear has an enhancement limit, which varies from item to item. Generally, higher level and higher rarity equipment has a higher natural limit, though every item can be Limit Breaked to reach the highest limit. Limit Breaking costs 100k to 200k ![N-Meseta](/Images/NGSUIMSTIcon.png) along with additional materials. Due to the N-Meseta cost, its not worth limit breaking low level gear. Instead you should just upgrade to higher level gear with a higher natural limit. Endgame gear must be limit broken to reach its highest enhancement. To fully limit break a weapon you'll need Arms Refiners and Arms Refiner IIs. Arms Refiners can be made from Strugments, which drop in combat zones and can be bought off the player shop. Arms Refiner IIs drop from Neusen Plant and presumably later combat zones as well.
+
 ### Augmenting
 
 As Ran says before heading to Mt. Magnus, "Battle Power is nothing more than a rough assessment." Its actually not too hard to reach the BP necessary for the endgame and still be very underpowered. How good an augment is is roughly proportional to its BP, but this is deceiving sometimes. One of the best augments in the game, Alts Secreta IV, only gives 6 BP which is equivalent to some of the worst augments in the game, the Element Ward IIIs.
