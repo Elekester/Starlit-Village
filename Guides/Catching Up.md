@@ -451,6 +451,8 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 
 ### Fixa
 
+<img src="/Images/NPC_Lydia.png" width="25%" align="right">
+
 Weapons and Armor can sometimes be found or obtained with Preset Skills known as Fixa, which can dramatically increase the damage a weapon does, the damage reduction an armor provides, or provide skills for PP efficiency on armor. These can be transferred between items of the exact same name.
 
 #### Weapon Fixa
