@@ -579,7 +579,16 @@ Each class has a unique main effect and four potential sub-effects: a unique sub
 
 A good goal is to get level 18 or higher in the main effect and a decent level in the desired sub-effects of every class. You can go for level 20 in an effect, but I've found that takes nearly 1,000 class cubes on average.
 
-
+### Notable Add-On Skills
+|Class|Add-On Skill|
+|:-|:-|
+|Hunter|Melee Weapon Potency Up|
+|Fighter|Critical Hit Potency Up|
+|Ranger|Ranged Weapon Potency Up|
+|Force|Technique Weapon Potency Up|
+|Techter|Damage Resistance Up|
+|Braver|Critical Hit Rate Up|
+|Bouncer|Dash and Glide PP Recovery|
 
 # Editors' Notes
 
