@@ -1,5 +1,7 @@
 # Nel's Guide to Catching Up in PSO2: NGS
 
+<img src="/Images/Nel_Sensei.png" width="100%">
+
 Howdy! With the April update hitting soon, bringing Chapter 5 of the story and the new gunblade using Slayer class, its time to catch up and get ready.
 
 This guide is for new players and veteran players alike whether your goal is to finish the story, to level your classes, to get the best gear, or to make a bunch of N-meseta for your Phasion needs. The guide is divided into three sections:
