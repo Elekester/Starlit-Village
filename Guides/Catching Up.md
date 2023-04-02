@@ -14,9 +14,7 @@ If you have any questions be sure to ask on our server's [Question Room Channel]
 
 
 
-
-
-## Table of Contents
+# Table of Contents
 - [Main Story](#Main-Story)
 	- [Chapter 1: Aelio Main Story](#Chapter-1-Aelio-Main-Story)
 	- [Chapter 2: Retem](#Chapter-2-Retem)
