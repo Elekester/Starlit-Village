@@ -68,7 +68,7 @@ During **Residents of Central City** you'll need to limit break one of your weap
 
 |Gear|Recommendations|
 |:-|:-|
-|Weapon|Renaissa or Theseus Weapons|
+|Weapon|Renaissa, Trois De, or Theseus Weapons|
 |Armor|Renaissa or Theseus Armor|
 |Augments|Boss Soul III, Gigas Stat II, and Stat IV|
 
@@ -351,7 +351,7 @@ Since roughly half the BP armor grants comes from its augments, it is usually th
 
 |Lv|Natural Limit|Defense at Limit|Armor Series|
 |:-:|-:|-:|:-|
-|1-9|+30|40|Theseus, Renaissa|
+|1-9|+30|40|Theseus, Trois De, Renaissa|
 |10-14|+40|55|Cattleya, Qual De, Vialto|
 |15-56|+40|60|Behlgren, Defrozza, Defrozzis, Geant, Greas, Schwarz, Sestato, Vidal, Vidalun, Vijf, Vios, Viosel|
 |57=70|+50|90|Ajax, Eclaireur\*, Efitus, Eptize|
@@ -368,8 +368,8 @@ Most gear has a natural enhancement limit, which varies from item to item. Gener
 
 Endgame gear must be limit broken to reach its highest enhancement. To fully limit break a weapon you'll need Arms Refiners and Arms Refiner IIs. Arms Refiners can be made from Strugments, which drop in combat zones and can be bought off the player shop. Arms Refiner IIs drop from Neusen Plant and presumably later combat zones as well.
 
-|Limit|# Gold Primm+20|# Gold Primm+30|Weapon Cost (![N-Meseta](/Images/NGSUIMSTIcon.png))|Armor Cost (![N-Meseta](/Images/NGSUIMSTIcon.png))|
-|-:|-:|-:|-:|-:|
+|Limit|# Gold Primm+20|# Gold Primm+30|Cost to Enhance Weapon (![N-Meseta](/Images/NGSUIMSTIcon.png))|Cost to Enhance Armor (![N-Meseta](/Images/NGSUIMSTIcon.png))|Limit Break Cost|
+|-:|-:|-:|-:|-:|:-|
 |30|
 |40|
 |50|
