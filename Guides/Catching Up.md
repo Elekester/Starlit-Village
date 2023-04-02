@@ -580,7 +580,7 @@ Add-On Skills increase your characters stats without affecting your gear or clas
 
 You'll have the option (once you unlock them) to spend 1 cube and 5k to 50k ![N-Meseta](/Images/NGSUIMSTIcon.png). Spending more N-Meseta raises the lowest roll possible from 1 to 10. This is almost never worth it, since it doesn't increase the odds of getting high rolls, so save your money and just spend the 5k ![N-Meseta](/Images/NGSUIMSTIcon.png).
 
-Each class has a unique main effect and four potential sub-effects: a unique sub-effect, HP/PP Recovery upon Joining Trial, Status Resistance Up, HP Up. The best sub-effects are the unique sub-effect and HP Up, try to get these for each class.
+Each class has a unique main effect and four potential sub-effects: a unique sub-effect, HP/PP Recovery upon Joining Trial, Status Resistance Up, and HP Up. The best sub-effects are the unique sub-effect and HP Up, try to get these for each class.
 
 A good goal is to get level 18 or higher in the main effect and a decent level in the desired sub-effects of every class. You can go for level 20 in an effect, but I've found that takes nearly 1,000 class cubes on average.
 
