@@ -34,9 +34,11 @@ If you have any questions be sure to ask on our server's [Question Room Channel]
 
 # Main Story
 
+In order to progress through the story you'll need to meet certain Battle Power (BP) requirements. The recommended gear will help, but don't feel like you need to grab it if you don't have the N-meseta to fully enhance and augment it. You can [level up](#Appendix-B-Leveling-Up) or make [N-Meseta](#Appendix-D-Making-N-Meseta) to get you to your goals.
+
 ## Chapter 1: Aelio Main Story
 
-If you've just beaten the Prologue and our joining us in Aelio, let me be the first to welcome you to NGS. Don't fret if you haven't unlocked everything yet, as you progress through this first chapter of the story you'll gain access to more features. In order to progress through the story you'll need to meet certain Battle Power (BP) requirements. The recommended gear will help, but don't feel like you need to grab it if you don't have the N-meseta to fully enhance and augment it. You can [level up](#Appendix-B-Leveling-Up) or make [N-Meseta](#Appendix-D-Making-N-Meseta) to get you to your goals.
+If you've just beaten the Prologue and our joining us in Aelio, let me be the first to welcome you to NGS. Don't fret if you haven't unlocked everything yet, as you progress through this first chapter of the story you'll gain access to more features.
 
 ### Aelio Tasks Summary
 
