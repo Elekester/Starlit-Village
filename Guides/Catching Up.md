@@ -34,7 +34,13 @@ If you have any questions be sure to ask on our server's [Question Room Channel]
 
 # Main Story
 
-In order to progress through the story you'll need to meet certain Battle Power (BP) requirements. The recommended gear will help, but don't feel like you need to grab it if you don't have the N-meseta to fully enhance and augment it. You can [level up](#Appendix-B-Leveling-Up) or make [N-Meseta](#Appendix-D-Making-N-Meseta) to get you to your goals.
+In order to progress through the story you'll need to meet certain Battle Power (BP) requirements. The three main ways you'll increase your BP during the story are (click the link to jump to that section of the guide):
+
+1. [Completing cocoons and spending skill points](#skill-points) from the region you're in and previous regions.
+2. [Upgrading your weapon and armor](#Appendix-A-Raising-Your-Battle-Power) with the recommended gear for your region.
+3. [Leveling up](#Appendix-B-Leveling-Up).
+
+[^BPReq]: The recommended gear will help, but don't feel like you need to grab it if you don't have the N-meseta to fully enhance and augment it. You can [level up](#Appendix-B-Leveling-Up) or make [N-Meseta](#Appendix-D-Making-N-Meseta) to get you to your goals instead.
 
 ## Chapter 1: Aelio Main Story
 
@@ -56,12 +62,6 @@ During **Residents of Central City** you'll need to limit break one of your weap
 
 **An Abundance of Caution** will likely be the first Task that requires you to reach a certain Battle Power (BP) that you don't meet. Battle Power is how NGS locks you out of content you're not ready for. Ran helpfully mentions speaking to Segreto by the Cafe, who will help you unlock your weapon's potential. You might also speak with Deeno now to learn about the Personal Shops.
 
-After a few side tasks, you might have enough BP to continue on, but you probably won't. The three main ways you'll increase your BP during the story are (click the link to jump to that section of the guide):
-
-1. [Completing cocoons and spending skill points](#skill-points).
-2. [Upgrading your gear](#Appendix-A-Raising-Your-Battle-Power).
-3. [Leveling up](#Appendix-B-Leveling-Up).
-
 ### Aelio Gear Recommendations[^BPReq]
 
 |Gear|Recommendations|
@@ -75,8 +75,6 @@ After a few side tasks, you might have enough BP to continue on, but you probabl
 ## Chapter 2: Retem
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta and augment capsules make sure to augment your gear as well as fully unlocking the potential of your weapon.
-
-[^BPReq]: In order to progress through the story you'll need to meet certain Battle Power (BP) requirements. The recommended gear will help, but don't feel like you need to grab it if you don't have the N-meseta to fully enhance and augment it. You can [level up](#Appendix-B-Leveling-Up) or make [N-Meseta](#Appendix-D-Making-N-Meseta) to get you to your goals.
 
 ### Retem Tasks Summary
 
