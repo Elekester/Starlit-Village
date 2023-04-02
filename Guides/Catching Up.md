@@ -4,7 +4,7 @@
 
 Howdy! Chapter 5 of the story is here and the Slayer class drops soon in Phantasy Star 2: New Genesis, but what's this? ~~A Flash Event~~ You're not ready yet! Well, I've got you covered.
 
-- If you're stuck in the [Main Story](#Main-Story) I'll help you meet those [Battle Power requirements](#Appendix-A-Raising-Your-Battle-Power), [gear up](#Appendix-C-Upgrading-Your-Gear), and [level up](#Appendix-B-Leveling-Up) in no time at all!
+- If you're stuck in the [Main Story](#Main-Story) I'll help you meet those [Battle Power](#Appendix-A-Raising-Your-Battle-Power) requirements, [gear up](#Appendix-C-Upgrading-Your-Gear), and [level up](#Appendix-B-Leveling-Up) in no time at all!
 - If you're ready for the [Postgame](#Postgame) we'll get you into Endgame gear before Crawford fires his cannon, with add on skills to boot.
 - And for everything else there are the [Appendicies](#Appendicies).
 
