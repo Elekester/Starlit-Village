@@ -2,13 +2,15 @@
 
 <img src="/Images/Nel_Sensei.png" width="100%">
 
-Howdy! With the April update hitting soon, bringing Chapter 5 of the story and the new gunblade using Slayer class, its time to catch up and get ready.
+Howdy! Chapter 5 of the story is here and the Slayer class drops soon in Phantasy Star 2: New Genesis, but what's this? ~~A Flash Event~~ You're not ready yet! Well, I've got you covered.
 
-This guide is for new players and veteran players alike whether your goal is to finish the story, to level your classes, to get the best gear, or to make a bunch of N-meseta for your Phasion needs. The guide is divided into three sections:
+- If you're stuck in the [Main Story](#Main-Story) I'll help you meet those Battle Power requirements, gear up, and level in no time at all!
+- If you're ready for the [Postgame](#Postgame) we'll get you into Endgame gear before Crawford fires his cannon, with add on skills to boot.
+- And for everything else there are the [Appendicies](#Appendicies).
 
-- [Main Story](#Main-Story) covers meeting the BP requirements to get through the Main Story of PSO2: NGS and any tips that might help you complete the story.
-- [Postgame](#Postgame) covers meeting the BP requirements for Endgame content as well as good goals to set for the Endgame.
-- [Appendicies](#Appendicies) covers the best methods to level up, upgrade your gear, and make N-meseta to support the above sections.
+If you have any questions be sure to ask on our server's [Question Room Channel](https://discord.com/channels/841958014503223308/842084811044159578). If you need to party up, just ask in Alliance Chat and don't forget to post in the [Looking for Group Channel](https://discord.com/channels/841958014503223308/842084893197991946). And if you want to contribute to this guide, feel free to contact me, Elekester#9195, on Discord.
+
+
 
 
 
@@ -34,7 +36,7 @@ This guide is for new players and veteran players alike whether your goal is to 
 
 ## Chapter 1: Aelio Main Story
 
-Despite having finished the Prologue, the tutorial isn't over when you get to Central City. Continue progressing the story to unlock more features.
+If you've just beaten the Prologue and our joining us in Aelio, let me be the first to welcome you to NGS. Don't fret if you haven't unlocked everything yet, as you progress through this first chapter of the story you'll gain access to more features.
 
 ### Aelio Tasks Summary
 
@@ -46,19 +48,17 @@ Despite having finished the Prologue, the tutorial isn't over when you get to Ce
 
 <img src="/Images/Map_Aelio.png" alt="Aelio Map" width="33%" align="right">
 
-Once you've completed the second Cocoon in **Advice from Liu Lin II** you'll  be gifted every weapon in the Renaissa Series and a complete set of Renaissa Armor. They will be much stronger than your starting equipment and will last you quite a while. You can equip any weapon useable by your main class (or your subclass once you've unlocked it).
+Once you've completed the second Cocoon in **Advice from Liu Lin II** you'll  be gifted every weapon in the Renaissa Series and a complete set of Renaissa Armor. You can equip any weapon useable by your main class (or your subclass once you've unlocked it). During **Advice form Rossa** you'll learn about weapon enhancement. If you don't want to accidentally use any items as materials you can lock them in your inventory.
 
-When you learn weapon enhancement during **Advice form Rossa** make sure not to use any Renaissa weapons that you might want to try out as materials! To avoid this, you can equip or lock any item in your inventory to prevent you from accidentally losing it. If you're not sure what to do, just use a Primm weapon to enhance any of your weapons.
+During **Residents of Central City** you'll need to limit break one of your weapons. The Renaissa weapons will be too expensive to limit break. Instead grab some monotite in Central Aelio from the mountains or the river and limit break a Primm weapon.
 
-If you do accidentally get rid of the Renaissa weapons, other easily available weapons at this point are Primm, Tzvia, and Theseus weapons.
+**An Abundance of Caution** will likely be the first Task that requires you to reach a certain Battle Power (BP) that you don't meet. Battle Power is how NGS locks you out of content you're not ready for. Ran helpfully mentions speaking to Segreto by the Cafe, who will help you unlock your weapon's potential. You might also speak with Deeno now to learn about the Personal Shops.
 
-During **Residents of Central City** you'll need to limit break one of your weapons. The Renaissa weapons require a whopping 30 Trinite and 120,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) to limit break. Instead grab some monotite in Central Aelio and limit break a Primm weapon.
+After a few side tasks, you might have enough BP to continue on, but you probably won't. The three main ways you'll increase your BP during the story are (click the link to jump to that section of the guide):
 
-**An Abundance of Caution** will likely be the first Task that requires you to reach a certain Battle Power that you don't meet due to the Renaissa gear. Ran helpfully mentions speaking to Segreto by the Cafe, who will help you unlock your weapon's potential. You might also speak with Deeno now to learn about the Personal Shops. Even with unlocking the first level of your weapon's potential, you probably still won't have enough Battle Power. This is important. Battle Power is how NGS locks you out of content you're not ready for. In order to reach the endgame, you'll have to deal with it one way or another. At this point you have three main ways to get BP:
-
-1. Complete Cocoons and spend skill points. The Skill Trees for all classes have abilities that increase your power or even change how a class plays. You will want to do these all eventually.
-2. Level up by either completing Side Tasks and defeating enemies in Combat Zones. I really enjoyed doing the side tasks and suggest doing those as well. They also provide N-meseta that you can spend on upgrading your gear.
-3. Upgrading your gear. Right now you probably won't have too much money or materials to upgrade your gear. BUT, there is an easy way to make some money available to you: Red Boxes. Scattered around each region is about 100 Red Boxes containing N-Meseta, SG, and gear. There are also 10 alpha reactors around Aelio that respawn daily for an easy 49,000 ![N-Meseta](/Images/NGSUIMSTIcon.png).
+1. [Completing cocoons and spending skill points](#skill-points).
+2. [Upgrading your gear](#Appendix-A-Raising-Your-Battle-Power).
+3. [Leveling up](#Appendix-B-Leveling-Up).
 
 ### Aelio Gear Recommendations
 
