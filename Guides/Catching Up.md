@@ -584,3 +584,5 @@ A good goal is to get level 18 or higher in the main effect and a decent level i
 |Techter|Damage Resistance Up|
 |Braver|Critical Hit Rate Up|
 |Bouncer|Dash and Glide PP Recovery|
+
+[^Edit]: See the [Edititor's Notes](catching%20up%20editing.md).
