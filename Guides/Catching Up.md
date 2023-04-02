@@ -240,7 +240,7 @@ Battle Power (BP) is the main way that NGS locks content. New areas, quests, and
 
 Your level determines which equipment you can use and also provides a good boost to your BP by increasing your Base Attack and Defense stats. Every level is worth between 10 BP at low levels and 30 BP at high levels. At the level cap you'll have around 2100 BP from level alone.
 
-See [Leveling Up](#Appendix-B-Leveling-Up)
+See [Appendix B: Leveling Up](#Appendix-B-Leveling-Up).
 
 ### Skill Points
 
@@ -259,7 +259,7 @@ See the [Cocoons and Towers Page on the Arks-Visiphone](https://pso2na.arks-visi
 
 Armor and Weapons directly contribute to BP through their Attack and Defense stats, which can be increased by enhancing and limit breaking them. You also get BP from how the gear is augmented. Each augment adds 3 to 13 BP, with around 6-8 for most budget augments. You can also unlock a weapon's potential which grants 10 BP per level unlocked.
 
-See [Upgrading Your Gear](#upgrading-your-gear).
+See [Sppendix C: Upgrading Your Gear](#Appendix-C-Upgrading-Your-Gear).
 
 
 
