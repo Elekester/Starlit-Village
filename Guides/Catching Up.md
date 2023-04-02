@@ -378,7 +378,7 @@ In the below table, # Gold Primm states the number of Gold Primm items needed to
 |-:|-:|-:|:-|
 |30|4|2|120k ![N-Meseta](/Images/NGSUIMSTIcon.png) and 30 Trinite|
 |40|7|4|140k ![N-Meseta](/Images/NGSUIMSTIcon.png) and Arms Refiner|
-|50|14|8|180k ![N-Meseta](/Images/NGSUIMSTIcon.png), 8x Arms Refiner, and 4x Arms Refiner II for weapons<br /> 170k ![N-Meseta](/Images/NGSUIMSTIcon.png), 4x Arms Refiner, and 2x Arms Refiner II|
+|50|14|8|**Weapon:** 180k ![N-Meseta](/Images/NGSUIMSTIcon.png), 8x Arms Refiner, and 4x Arms Refiner II<br />**Armor:** 170k ![N-Meseta](/Images/NGSUIMSTIcon.png), 4x Arms Refiner, and 2x Arms Refiner II|
 |60|25|14|-|
 
 ### Augmenting
@@ -452,6 +452,10 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 |Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
 \* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use both a Gigas augment and a Soul augment instead.
+
+### Weapon Potential
+
+Every weapon has a unique potential that can be unlocked at the Item Lab. The costs and effects vary from weapon to weapon, but generally cost a great deal of minerals, and 10k to 250k ![N-Meseta](/Images/NGSUIMSTIcon.png) each level. Unlocking the Level 4 potential will require 5 N-Ex-Cubes and 120k to 320k ![N-Meseta](/Images/NGSUIMSTIcon.png).
 
 ### Fixa
 
