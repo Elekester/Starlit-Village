@@ -530,7 +530,7 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 
 **Warning:** This method requires selling a great deal of non-stackable items on the Personal Shop.
 
-The Battledia Yellows, Aelio Troopers and Retem Troopers, both drop Gold Primm Sword +30 and Gold Primm Armor +30 as well as the Domina for that region. You can earn 24,800 to 40,450 ![N-Meseta](/Images/NGSUIMSTIcon.png) each run, accounting for the cost of Yellow Triggers and the seller's fee on the personal shop.
+The Battledia Yellows, Aelio Troopers and Retem Troopers, both drop Gold Primm Sword +30 and Gold Primm Armor +30 as well as the Domina for that region. In Aelio Yellow Rank 2 you can earn 24,800 to 40,450 ![N-Meseta](/Images/NGSUIMSTIcon.png) each run, accounting for the cost of Yellow Triggers and the seller's fee on the personal shop.
 
 In adition you'll receive boostable experience for running these triggers.
 
