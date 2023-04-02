@@ -39,7 +39,7 @@ If you have any questions be sure to ask on our server's [Question Room Channel]
 In order to progress through the story you'll need to meet certain Battle Power (BP) requirements. The three main ways you'll increase your BP during the story are (click the link to jump to that section of the guide):
 
 1. [Completing cocoons and spending skill points](#skill-points) from the region you're in and previous regions.
-2. [Upgrading your weapon and armor](#Appendix-A-Raising-Your-Battle-Power) with the recommended gear for your region.
+2. [Upgrading your weapon and armor](#Appendix-C-Upgrading-Your-Gear) with the recommended gear for your region.
 3. [Leveling up](#Appendix-B-Leveling-Up).
 
 [^BPReq]: The recommended gear will help, but don't feel like you need to grab it if you don't have the N-meseta to fully enhance and augment it. You can [level up](#Appendix-B-Leveling-Up) or make [N-Meseta](#Appendix-D-Making-N-Meseta) to get you to your goals instead.
