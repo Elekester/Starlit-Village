@@ -313,6 +313,8 @@ The general method in combat zones is to follow the E and T markers and defeat e
 
 ## Appendix C: Upgrading Your Gear
 
+Upgrading your gear will give you a potentially massive boost in BP, attack power, and defense power. In general upgrade your weapon before your armor, as a significant portion of an armor's effectiveness comes from its augments, whereas a significant part of a weapon's effectiveness comes from its Attack Power and Potential.
+
 ### Weapon Upgrades
 
 <img src="/Images/NPC_Lavona.png" width="25%" align="right">
@@ -354,7 +356,7 @@ Since roughly half the BP armor grants comes from its augments, it is usually th
 |1-9|+30|40|Theseus, Trois De, Renaissa|
 |10-14|+40|55|Cattleya, Qual De, Vialto|
 |15-56|+40|60|Behlgren, Defrozza, Defrozzis, Geant, Greas, Schwarz, Sestato, Vidal, Vidalun, Vijf, Vios, Viosel|
-|57=70|+50|90|Ajax, Eclaireur\*, Efitus, Eptize|
+|57-70|+50|90|Ajax, Eclaireur\*, Efitus, Eptize|
 
 For an exhaustive list of armor see the [Units page on the Arks-Visiphone](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Units).
 
