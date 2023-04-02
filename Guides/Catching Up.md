@@ -370,12 +370,16 @@ Most gear has a natural enhancement limit, which varies from item to item. Gener
 
 Endgame gear must be limit broken to reach its highest enhancement. To fully limit break a weapon you'll need Arms Refiners and Arms Refiner IIs. Arms Refiners can be made from Strugments, which drop in combat zones and can be bought off the player shop. Arms Refiner IIs drop from Neusen Plant and presumably later combat zones as well.
 
-|Limit|# Gold Primm+20|# Gold Primm+30|Cost to Enhance Weapon (![N-Meseta](/Images/NGSUIMSTIcon.png))|Cost to Enhance Armor (![N-Meseta](/Images/NGSUIMSTIcon.png))|Limit Break Cost|
+In the below table, # Gold Primm states the number of Gold Primm items needed to enhance an item from +0 to the Limit.
+
+#### Enhancement and Limit Break Information
+
+|Limit|# Gold Primm+20|# Gold Primm+30|Limit Break Cost|
 |-:|-:|-:|-:|-:|:-|
-|30|
-|40|
-|50|
-|60|
+|30|4|2|120k ![N-Meseta](/Images/NGSUIMSTIcon.png), 30 Trinite
+|40|7|4|140k ![N-Meseta](/Images/NGSUIMSTIcon.png), Arms Refiner|
+|50|14|8|180k ![N-Meseta](/Images/NGSUIMSTIcon.png), 8x Arms Refiner, 4x Arms Refiner II|
+|60|25|14|-|
 
 ### Augmenting
 
