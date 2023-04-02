@@ -157,8 +157,8 @@ Stia is a little strange. Unlike the other regions where you unlock the explorat
 ### Stia Gear Recommendations[^BPReq]
 |Gear|Recommendations|
 |:-|:-|
-|Weapon|Crystia, Rugged, Obsidia\*|
-|Armor|Efitus†, Eptize\*‡|
+|Weapon|Crystia, Rugged, or Obsidia\* Weapon|
+|Armor|Efitus† or Eptize\*‡ Armor|
 |Augments|Boss Soul III, Gigas Stat II, Stat IV, Stats Dualble II and Alts Secreta II|
 
 \* This gear is not equippable utnil level 61. <br />
@@ -199,7 +199,7 @@ For augments, you'll want to start working towards the [Budget Augments](#budget
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|Neos Astraean, Neos Justitean\*, or Gunblaze Weapon|
-|Armor|Ajax, Eclaireur, Efitus†, or Eptize§ Armor‡|
+|Armor|Ajax, Eclaireur, Efitus†, or Eptize‡ Armor|
 |Augments|[Budget Augments](#budget-augments) or [Best in Slot Augments](#best-in-slot-augments)|
 
 \* Neos Justitean is a Light element weapon. It is the strongest weapon against enemies weak to light, but otherwise weaker than other Neos Astraean. It's still stronger than Gunblaze. <br />
