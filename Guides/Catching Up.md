@@ -36,11 +36,11 @@ If you have any questions be sure to ask on our server's [Question Room Channel]
 
 ## Chapter 1: Aelio Main Story
 
-If you've just beaten the Prologue and our joining us in Aelio, let me be the first to welcome you to NGS. Don't fret if you haven't unlocked everything yet, as you progress through this first chapter of the story you'll gain access to more features.
+If you've just beaten the Prologue and our joining us in Aelio, let me be the first to welcome you to NGS. Don't fret if you haven't unlocked everything yet, as you progress through this first chapter of the story you'll gain access to more features. In order to progress through the story you'll need to meet certain Battle Power (BP) requirements. The recommended gear will help, but don't feel like you need to grab it if you don't have the N-meseta to fully enhance and augment it. You can [level up](#Appendix-B-Leveling-Up) or make [N-Meseta](#Appendix-D-Making-N-Meseta) to get you to your goals.
 
 ### Aelio Tasks Summary
 
-|Task|BP|Notes|
+|Task|BP|Recommendation|
 |:-|:-|:-|
 |**The First Mission**|830|Equip the Renaissa Gear you receive from Liu Lin.|
 |**Preparing for Battle**|950|Complete the Aelio Cocoons and Towers.|
@@ -60,26 +60,28 @@ After a few side tasks, you might have enough BP to continue on, but you probabl
 2. [Upgrading your gear](#Appendix-A-Raising-Your-Battle-Power).
 3. [Leveling up](#Appendix-B-Leveling-Up).
 
-### Aelio Gear Recommendations
+### Aelio Gear Recommendations[^BPReq]
 
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|Renaissa or Theseus Weapons|
 |Armor|Renaissa or Theseus Armor|
-|Augments|1 or 2 of Boss Soul III, Gigas Stat II, and Stat IV|
+|Augments|Boss Soul III, Gigas Stat II, and Stat IV|
 
 
 
 ## Chapter 2: Retem
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta and augment capsules make sure to augment your gear as well as fully unlocking the potential of your weapon.
+
+[^BPReq]: In order to progress through the story you'll need to meet certain Battle Power (BP) requirements. The recommended gear will help, but don't feel like you need to grab it if you don't have the N-meseta to fully enhance and augment it. You can [level up](#Appendix-B-Leveling-Up) or make [N-Meseta](#Appendix-D-Making-N-Meseta) to get you to your goals.
 
 ### Retem Tasks Summary
 
 |Task|BP|Notes|
 |:-|:-|:-|
-|**The Cornesrstone of Retem's Revival**|1243+|Get Retem Gear OR fully augment your Aelio gear.|
-|**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to level 17 with Retem Gear or level 21 with Aelio gear.|
+|**The Cornesrstone of Retem's Revival**|1243+|Get Retem Gear OR fully augment your Renaissa gear.|
+|**The Truth Behind the Song**|1474+|Complete the Retem Cocoons and Towers. Get to level 17 with Retem Gear or level 21 with Renaissa gear.|
 
 <img src="/Images/Map_Retem.png" alt="Retem Map" width="33%" align="right">
 
@@ -87,7 +89,7 @@ If you haven't already, make sure to complete the Cocoons and Towers for Aelio. 
 
 When you finish **A Happy Ending** you'll have two story quests to complete. **Retem Independent Partisan Squad** and **Mission in Kvaris**. The former unlocks the Rank 2 versions of Retem's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Kvaris.
 
-### Retem Gear Recommendations
+### Retem Gear Recommendations[^BPReq]
 
 |Gear|Recommendations|
 |:-|:-|
@@ -101,7 +103,7 @@ When you finish **A Happy Ending** you'll have two story quests to complete. **R
 
 ## Chapter 3: Kvaris
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio and Retem. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta and augment capsules make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 ### Kvaris Tasks Summary
 
@@ -119,7 +121,7 @@ When you get to Kvaris you'll have to reach 1898 BP to get past **On the Search*
 
 Just like at the end of Retem you'll have two story quests to complete. **Kvaris Independent Partisan Squad** and **A New Battle Begins**. The former unlocks the Rank 2 versions of Kvaris's combat zones and you'll accomplish this as you level up. The later is the proper continuation of the story and leads you into Stia.
 
-### Kvaris Gear Recommendations
+### Kvaris Gear Recommendations[^BPReq]
 
 |Gear|Recommendations|
 |:-|:-|
@@ -135,7 +137,7 @@ Just like at the end of Retem you'll have two story quests to complete. **Kvaris
 
 ## Chapter 4: Stia
 
-If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, and Kvaris. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta and augment capsules make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 ### Stia Tasks Summary
 
@@ -152,7 +154,7 @@ Yet again we'll talk to our good friend Guiden for a 20 million Exp quest. This 
 
 Stia is a little strange. Upon entering Stia and competing the initial tasks, we don't have access to all the cocoons and towers before the next BP requirement in **Preparing for Battle**, only the tower in Stia Outskirts is available. Prior to the quest in **The Battle of Alterra Base** you'll be able to complete the Cocoons in Mediola Outer Area 2 and Dreisen Plant. The final cocoon will have to wait until you've met all the BP requirements.
 
-### Stia Gear Recommendations
+### Stia Gear Recommendations[^BPReq]
 |Gear|Recommendations|
 |:-|:-|
 |Weapon|Crystia, Rugged, Obsidia\*|
@@ -169,7 +171,7 @@ Stia is a little strange. Upon entering Stia and competing the initial tasks, we
 
 ## The Endgame
 
-Congratulations, you've beaten the Main Story of PSO2: NGS! If you haven't already, make sure to complete the Cocoons and Towers. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta make sure to augment your gear as well as fully unlocking the potential of your weapon.
+Congratulations, you've beaten the Main Story of PSO2: NGS! If you haven't already, make sure to complete the Cocoons and Towers. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta and augment capsules make sure to augment your gear as well as fully unlocking the potential of your weapon.
 
 ### Endgame Content
 |Content|BP|Notes|
