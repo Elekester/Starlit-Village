@@ -375,7 +375,7 @@ In the below table, # Gold Primm states the number of Gold Primm items needed to
 #### Enhancement and Limit Break Information
 
 |Limit|# Gold Primm+20|# Gold Primm+30|Limit Break Cost|
-|-:|-:|-:|-:|-:|:-|
+|-:|-:|-:|:-|
 |30|4|2|120k ![N-Meseta](/Images/NGSUIMSTIcon.png), 30 Trinite
 |40|7|4|140k ![N-Meseta](/Images/NGSUIMSTIcon.png), Arms Refiner|
 |50|14|8|180k ![N-Meseta](/Images/NGSUIMSTIcon.png), 8x Arms Refiner, 4x Arms Refiner II|
