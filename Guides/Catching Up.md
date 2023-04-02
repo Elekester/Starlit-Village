@@ -10,7 +10,7 @@ Howdy! Chapter 5 of the story is here and the Slayer class drops soon in Phantas
 
 If you have any questions be sure to ask on our server's [Question Room Channel](https://discord.com/channels/841958014503223308/842084811044159578). If you need to party up, just ask in Alliance Chat and don't forget to post in the [Looking for Group Channel](https://discord.com/channels/841958014503223308/842084893197991946). And if you want to contribute to this guide, feel free to contact me, Elekester#9195, on Discord. [^Edit]
 
-[^Edit]: See the [Edititor's Notes](catching%20up%20editing.md).
+[^Edit]: See the [Edititor's Notes](Catching%20Up%20Editing.md).
 
 
 
