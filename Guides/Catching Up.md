@@ -54,7 +54,7 @@ If you've just beaten the Prologue and our joining us in Aelio, let me be the fi
 |**Preparing for Battle**|950|Complete the Aelio Cocoons and Towers.|
 |**An Abundance of Caution**|1100+|Augment your Renaissa gear, but only enough to meet the requirements if you plan on upgrading in Retem.|
 
-<img src="/Images/Map_Aelio.png" alt="Aelio Map" width="33%" align="right" style="border: 2px solid black;">
+<img src="/Images/Map_Aelio.png" alt="Aelio Map" width="33%" align="right">
 
 Once you've completed the second Cocoon in **Advice from Liu Lin II** you'll  be gifted every weapon in the Renaissa Series and a complete set of Renaissa Armor. You can equip any weapon useable by your main class (or your subclass once you've unlocked it). During **Advice form Rossa** you'll learn about weapon enhancement. If you don't want to accidentally use any items as materials you can lock them in your inventory.
 
