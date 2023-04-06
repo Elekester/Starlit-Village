@@ -364,7 +364,7 @@ Since roughly half the BP armor grants comes from its augments, it is usually th
 |1-9|+30|40|Theseus, Trois De, Renaissa|
 |10-14|+40|55|Cattleya, Qual De, Vialto|
 |15-56|+40|60|Behlgren, Defrozza, Defrozzis, Geant, Greas, Schwarz, Sestato, Vidal, Vidalun, Vijf, Vios, Viosel|
-|57-70|+50|90|Ajax, Eclaireur\*, Efitus, Eptize|
+|57-70|+50|90|Ajax, Eclaireur, Efitus, Eptize|
 
 For an exhaustive list of armor see the [Units page on the Arks-Visiphone](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Units).
 
@@ -382,7 +382,7 @@ In the below table, # Gold Primm states the number of Gold Primm items needed to
 
 #### Enhancement and Limit Break Information
 
-|Limit|# Gold Primm+20|# Gold Primm+30|Weapon Limit Break|
+|Limit|# Gold Primm+20|# Gold Primm+30|Limit Break Cost|
 |-:|-:|-:|:-|
 |30|4|2|120k ![N-Meseta](/Images/NGSUIMSTIcon.png) and 30x Trinite|
 |40|7|4|140k ![N-Meseta](/Images/NGSUIMSTIcon.png) and 1x Arms Refiner|
