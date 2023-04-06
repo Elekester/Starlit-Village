@@ -430,7 +430,7 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 
 **Method 1 Cost:** 1.3mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Method 2 Cost:** 630k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Stats**: +13.7% in one potency, +4.0% potency floor, some HP and PP, +45 BP <br />
+**Stats**: +15.1% in one potency, +2.5% potency floor, some HP and PP, +45 BP <br />
 **Goal:** +80% potency and +17% potency floor overall
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
