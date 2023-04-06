@@ -462,7 +462,7 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 
 ### Weapon Potential
 
-Every weapon has a unique potential that can be unlocked at the Item Lab. The costs and effects vary from weapon to weapon, but generally cost a great deal of minerals, and 10k to 250k ![N-Meseta](/Images/NGSUIMSTIcon.png) each level. Unlocking the Level 4 potential will require 5 N-Ex-Cubes and 120k to 320k ![N-Meseta](/Images/NGSUIMSTIcon.png).
+Every weapon has a unique potential that can be unlocked at the Item Lab. The costs and effects vary from weapon to weapon, but generally cost a great deal of minerals, and 10k to 250k ![N-Meseta](/Images/NGSUIMSTIcon.png) each level. Unlocking the Level 4 and 5 potentials will require 5 N-Ex-Cubes and 120k to 320k ![N-Meseta](/Images/NGSUIMSTIcon.png) each.
 
 ### Fixa
 
