@@ -30,7 +30,6 @@ If you have any questions be sure to ask on our server's [Question Room Channel]
 	- [Appendix C: Upgrading Your Gear](#Appendix-C-Upgrading-Your-Gear)
 	- [Appendix D: Making N-Meseta](#Appendix-D-Making-N-Meseta)
 	- [Appendix E: Add-On Skills](#Appendix-E-Add-On-Skills)
-	- [Footnotes](#Footnotes)
 
 
 
