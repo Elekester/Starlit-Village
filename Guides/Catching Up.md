@@ -167,11 +167,11 @@ Stia is a little strange. Unlike the other regions where you unlock the explorat
 
 
 
-## Chapter 5
+## Chapter 5: Leciel
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, Kvaris, and Stia. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta and augment capsules make sure to augment your gear as well as unlocking the potential of your weapon.
 
-### Stia Tasks Summary
+### Leciel Tasks Summary
 
 |Task|BP|Recommendation|
 |:-|-:|:-|
