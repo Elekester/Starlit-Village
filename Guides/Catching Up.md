@@ -20,6 +20,7 @@ If you have any questions be sure to ask on our server's [Question Room Channel]
 	- [Chapter 2: Retem](#Chapter-2-Retem)
 	- [Chapter 3: Kvaris](#Chapter-3-Kvaris)
 	- [Chapter 4: Stia](#Chapter-4-Stia)
+	- [Chapter 5: Leciel](#Chapter-5-Leciel)
 - [Postgame](#Postgame)
 	- [The Endgame](#The-Endgame)
 	- [Update Preparation](#Update-Preparation)
@@ -29,6 +30,7 @@ If you have any questions be sure to ask on our server's [Question Room Channel]
 	- [Appendix C: Upgrading Your Gear](#Appendix-C-Upgrading-Your-Gear)
 	- [Appendix D: Making N-Meseta](#Appendix-D-Making-N-Meseta)
 	- [Appendix E: Add-On Skills](#Appendix-E-Add-On-Skills)
+	- [Footnotes](#Footnotes)
 
 
 
