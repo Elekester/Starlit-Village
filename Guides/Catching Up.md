@@ -435,7 +435,7 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
-|Mastery III or IV|Mastery III or IV|Mastery III or IV|
+|Mastery IV|Mastery IV|Mastery IV|
 |Might IV|Precision IV|Technique IV|
 |Gigas Might IV|Gigas Precision IV| Gigas Technique IV|
 |Daityl/Dust/Frostyl/Freid Soul IV|Pettas/Ragras/Crocys/Doldor Soul IV|Nex/Renus/Ams/Nils Soul IV|
