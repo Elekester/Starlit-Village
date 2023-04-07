@@ -517,9 +517,9 @@ In the table below **Boost** refers to whether or N-Meseta Earned boosts will in
 
 Each region has its own valuable gathering item you can obtain. They respawn daily and net you 104,000 N-meseta each day. The linked images for each region mark the location you may find the items with treasure chests.
 
-- In [Central Aelio](/Images/Map_Aelio.png) there are 14 alpha reactors. They are each worth 3,500 ![N-Meseta](/Images/NGSUIMSTIcon.png).
+- In [Central Aelio](/Images/Map_Aelio.png) there are 14 alpha reactors. They are each worth 3,500 ![N-Meseta](/Images/NGSUIMSTIcon.png). They spawn in three locations: southwest of the Halphana Plains: West Ryuker, northwest of the Mt. Magnus: West Ryuker, and south of the bridge to Kvaris.
 - In [West Retem](/Images/Map_Retem.png), surrounding the Sagan Mountain Road: east Ryuker, there are 10 Stellar Fragments. They are worth 2,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each.
-- In [Central Kvaris](/Images/Map_Kvaris.png) there are 10 Snoal. They are each worth 3,500 ![N-Meseta](/Images/NGSUIMSTIcon.png).
+- In [Central Kvaris](/Images/Map_Kvaris.png) there are 10 Snoal. They are each worth 3,500 ![N-Meseta](/Images/NGSUIMSTIcon.png). Hop on a board at the Mistra Woods: North Ryuker, the snoal will be scattered on the slopes as far down as the river.
 - At Dreisen Plant in Stia, you can find Invisible Boxes that contain rare augments and minerals.
 
 Additionally you can complete the Daily Tasks to receive 134,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) daily, the Weekly Tasks to receive 200,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each week and your Alliance Tasks to receive 1-5 Beta Reactors worth 100,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each. If you're in a top 10 Alliance, you'll receive 3 for a total of 300,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) from Alliance Tasks.
