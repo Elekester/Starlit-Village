@@ -424,7 +424,7 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 |Alts Secreta II or III†|Alts Secreta II or III†|Alts Secreta II or III†|
 
 \* Remember, the cheapest augments are the ones you already own. Feel free to replace any of the above augments with augments you own as long as they provide the appropriate potency and/or potency floor. <br />
-† If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
+† If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper instead.
 
 #### Budget Augments
 
@@ -441,7 +441,7 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 |Daityl/Dust/Frostyl/Freid Soul IV|Pettas/Ragras/Crocys/Doldor Soul IV|Nex/Renus/Ams/Nils Soul IV|
 |Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
-\* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use Dread Keeper IV or a Dualble IV augment instead.
+\* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use Mastery III or Dread Keeper IV instead.
 
 #### Best in Slot Augments
 
