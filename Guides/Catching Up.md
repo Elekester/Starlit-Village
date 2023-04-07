@@ -435,13 +435,13 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
-|Stia Domina or Melra/Meltech Dualble IV|Stia Domina or Melra/Ratech Dualble IV|Stia Domina or Meltech/Ratech Dualble IV|
+|Stira Domina*|Stira Domina*|Stira Domina*|
 |Might IV|Precision IV|Technique IV|
 |Gigas Might III|Gigas Precision III| Gigas Technique III|
 |Daityl/Dust/Frostyl/Freid Soul IV|Pettas/Ragras/Crocys/Doldor Soul IV|Nex/Renus/Ams/Nils Soul IV|
 |Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
-\* If the decreased damage resistance from Alts Secreta IV is too big a downside for your playstyle, use Mastery III or Dread Keeper IV instead.
+\* If the decreased damage resistance from Stira Domina and Alts Secreta IV is too big a downside for your playstyle, use Melra/Meltech/Ratech Dualble IV, Mastery III or Dread Keeper IV instead.
 
 #### Best in Slot Augments
 
