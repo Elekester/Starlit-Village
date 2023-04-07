@@ -172,7 +172,7 @@ Stia is a little strange. Unlike the other regions where you unlock the explorat
 
 If you haven't already, make sure to complete the Cocoons and Towers for Aelio, Retem, Kvaris, and Stia. Then spend the skill points you receive in both your main and subclass. If you have the N-Meseta and augment capsules make sure to augment your gear as well as unlocking the potential of your weapon.
 
-There are no additional Battle Power requirements in Chapter 5. Enjoy the story and discover the secret of Leciel!
+There are no additional Battle Power requirements in Chapter 5. Enjoy the story and discover the secret of the structure floating in the sky!
 
 
 
