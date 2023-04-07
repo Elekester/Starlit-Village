@@ -441,7 +441,7 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 |Daityl/Dust/Frostyl/Freid Soul IV|Pettas/Ragras/Crocys/Doldor Soul IV|Nex/Renus/Ams/Nils Soul IV|
 |Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
-\* If the decreased damage resistance from Stira Domina and Alts Secreta IV is too big a downside for your playstyle, use Melra/Meltech/Ratech Dualble IV, Mastery III or Dread Keeper IV instead.
+\* If the decreased damage resistance from Stira Domina and Alts Secreta IV is too big a downside for your playstyle, use Melra/Meltech/Ratech Dualble IV, Mastery III or Dread Keeper IV instead. <br />
 † Special thanks to Fumiya and Pruna for their insight on budget augments.
 
 #### Best in Slot Augments
