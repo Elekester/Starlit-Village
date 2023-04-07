@@ -514,7 +514,7 @@ In the table below **Boost** refers to whether or N-Meseta Earned boosts will in
 
 **Rate:** 2.2 million ![N-Meseta](/Images/NGSUIMSTIcon.png)/week (600,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour)
 
-Each region has its own valuable gathering item you can obtain. They respawn daily and net you 104,000 N-meseta each day. The linked images for each region mark the location you may find the items with treasure boxes.
+Each region has its own valuable gathering item you can obtain. They respawn daily and net you 104,000 N-meseta each day. The linked images for each region mark the location you may find the items with treasure chests.
 
 - In [Central Aelio](/Images/Map_Aelio.png) there are 14 alpha reactors. They are each worth 3,500 ![N-Meseta](/Images/NGSUIMSTIcon.png).
 - In [West Retem](/Images/Map_Retem.png), surrounding the Sagan Mountain Road: east Ryuker, there are 10 Stellar Fragments. They are worth 2,000 ![N-Meseta](/Images/NGSUIMSTIcon.png) each.
