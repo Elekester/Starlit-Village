@@ -16,7 +16,7 @@ If you have any questions be sure to ask on our server's [Question Room Channel]
 
 # Table of Contents
 - [Main Story](#Main-Story)
-	- [Chapter 1: Aelio Main Story](#Chapter-1-Aelio-Main-Story)
+	- [Chapter 1: Aelio](#Chapter-1-Aelio)
 	- [Chapter 2: Retem](#Chapter-2-Retem)
 	- [Chapter 3: Kvaris](#Chapter-3-Kvaris)
 	- [Chapter 4: Stia](#Chapter-4-Stia)
