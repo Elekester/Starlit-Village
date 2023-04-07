@@ -435,7 +435,7 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 
 |Melee Weapon|Ranged Weapon|Tech Weapon|
 |:----|:--------|:-------|
-|Melra/Meltech Dualble IV|Melra/Ratech Dualble IV|Meltech/Ratech Dualble IV|
+|Stia Domina or Melra/Meltech Dualble IV|Stia Domina or Melra/Ratech Dualble IV|Stia Domina or Meltech/Ratech Dualble IV|
 |Might IV|Precision IV|Technique IV|
 |Gigas Might III|Gigas Precision III| Gigas Technique III|
 |Daityl/Dust/Frostyl/Freid Soul IV|Pettas/Ragras/Crocys/Doldor Soul IV|Nex/Renus/Ams/Nils Soul IV|
