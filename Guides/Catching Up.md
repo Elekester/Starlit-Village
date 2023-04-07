@@ -423,7 +423,7 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 |Daityl/Dust/Frostyl/Freid Soul III or IV|Pettas/Ragras/Crocys/Doldor Soul III or IV|Nex/Renus/Ams/Nils Soul III or IV|
 |Alts Secreta II or III†|Alts Secreta II or III†|Alts Secreta II or III†|
 
-\* Remember, the cheapest augments are the ones you already own. Feel free to replace any of the above augments with augments you own as long as they provide the appropriate potency and/or potency floor. <br />
+\* Remember, the cheapest augments are the ones you already own. Feel free to replace any of the above augments with augments you own as long as they provide the right type of potency. <br />
 † If the decreased damage resistance from Alts Secreta is too big a downside for your playstyle, use Dread Keeper instead.
 
 #### Budget Augments
