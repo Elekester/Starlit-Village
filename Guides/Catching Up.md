@@ -428,8 +428,8 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 
 #### Budget Augments
 
-**Method 1 Cost:** 1.3mil ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
-**Method 2 Cost:** 630k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
+**Method 1 Cost:** 800k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
+**Method 2 Cost:** 390k ![N-Meseta](/Images/NGSUIMSTIcon.png) <br />
 **Stats**: +15.1% in one potency, +2.5% potency floor, some HP and PP, +45 BP <br />
 **Goal:** +80% potency and +17% potency floor overall
 
@@ -437,7 +437,7 @@ The augments are separated into three categories for Melee Weapons, Ranged Weapo
 |:----|:--------|:-------|
 |Melra/Meltech Dualble IV|Melra/Ratech Dualble IV|Meltech/Ratech Dualble IV|
 |Might IV|Precision IV|Technique IV|
-|Gigas Might IV|Gigas Precision IV| Gigas Technique IV|
+|Gigas Might III|Gigas Precision III| Gigas Technique III|
 |Daityl/Dust/Frostyl/Freid Soul IV|Pettas/Ragras/Crocys/Doldor Soul IV|Nex/Renus/Ams/Nils Soul IV|
 |Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|Alts Secreta IV*|
 
