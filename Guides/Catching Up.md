@@ -507,7 +507,7 @@ In the table below **Boost** refers to whether or N-Meseta Earned boosts will in
 |[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|25|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
 |[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k+|40|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
 |[Purple Triggers](#purple-triggers)|?|41-70|❌|✔️|❌|Higher Ranks drop better augment rewards. The valuable motion drops are available in Aelio, Retem, and Kvaris Rank 2, with Aelio being the fastest and most profitable.|
-|[Geo Lab Rank 2](#geo-lab-rank-2)|800k|70|❌|✔️|❌|Geo Lab Rank 2 can be done at level 65, but most parties will include level 70 players. Higher ranks drop better and rewards. There's a few easy Challenge Settings you can use to get the S rank.|
+|[Geo Lab Rank 2](#geo-lab-rank-2)|800k - 1.2mil|70|❌|✔️|❌|Geo Lab Rank 2 can be done at level 65, but most parties will include level 70 players. Higher ranks drop better and rewards. There's a few easy Challenge Settings you can use to get the S rank.|
 
 <img src="/Images/Phantom_Thief.png" width="25%" align="right">
 
@@ -566,7 +566,7 @@ The Battledia: Purple Devastators quests can be profitable with drops like gigas
 
 ### Geo Lab Rank 2
 
-**Rate:** 800,000 ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
+**Rate:** 1 million ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
 
 The Trinitas in Central Retem, also known as the Geometric Labyrinth or just Geo Lab, has generous augment drops when you achieve A and S scores in Rank 2. The most valuable drops are the regional Domina augments, but Alts Secretas, Dread Keepers, the Gigas Stat IIIs, and the Boss Soul IVs are also worth selling. In order to achieve an S rank you need to apply some of the Challenge Settings, but you don't need to apply them all. Below are two different settings you can use to achieve an S rank. You'll be able to achieve about 20 runs an hour.
 
