@@ -194,7 +194,7 @@ Congratulations, you've beaten the Main Story of PSO2: NGS! If you haven't alrea
 
 <img src="/Images/Geo_Lab.png" width="50%" align="right">
 
-Many players in the endgame will be level 70 with at least +80% potency if not +100% potency on their favorite weapon. Some, especially in pickup games without Alliance members, will expect everyone else to do the same and might complain if you don't. While you should be working on upgrading your gear, if you are harassed for the gear you have equipped, please report the offending players. If you ask the League for help with endgame content, our members will help you out without any expectations of your gear.
+Many players in the endgame will be level 70 with at least +80% potency if not +100% potency on their favorite weapon. Some, especially in pickup games without Alliance members, will expect everyone else to do the same and might complain if you don't. While you should be working on upgrading your gear, if you are harassed for the gear you have equipped, please report the offending players. If you ask the alliance for help with endgame content, our members will help you out without any expectations of your gear.
 
 In order to best support your party you will want to get to level 70 and get as good of gear as you can. For leveling, [Yellow Stias](#Yellow-Triggers-and-the-Trooper-Quests) will be your bread and butter. Get a party of 4 Alliance members and you'll be at level 70 in no time.
 
@@ -530,7 +530,7 @@ Additionally you can complete the Daily Tasks to receive 134,000 ![N-Meseta](/Im
 
 Once on your account you may find Red Boxes scattered around Halpha. Each region contains over 100 of these and each one contains either 10,000 ![N-Meseta](/Images/NGSUIMSTIcon.png), Star Gems, or equipment. This will net you around 2 million ![N-Meseta](/Images/NGSUIMSTIcon.png).
 
-- [The League's Map Guides](https://discord.com/channels/841958014503223308/978354867519258634)
+- [Starlit Village's Map Guides](https://discord.com/channels/841958014503223308/978354867519258634)
 - [ARKS-Visiphone map guide](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Collectables)
 - [RPGSite's guide with images](https://www.rpgsite.net/feature/12946-phantasy-star-online-2-new-genesis-all-red-item-container-locations-kvaris-region)
 
