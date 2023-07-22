@@ -504,7 +504,6 @@ In the table below **Boost** refers to whether or N-Meseta Earned boosts will in
 |:-----|------------------:|:-:|:-------:|:-----------:|:-------:|:---|
 |[Recurring Tasks](#recurring-tasks)|600k - 1.2mil|1|❌|❌|❌|2.2mil ![N-Meseta](/Images/NGSUIMSTIcon.png)/week. Takes 15 minutes to 30 minutes daily to complete.|
 |[Red Boxes](#red-boxes)|300k|1|❌|❌|❌|Red Boxes contain about 2mil ![N-Meseta](/Images/NGSUIMSTIcon.png), obtainable once per account. Rate is a very rough estimate.|
-|[Aelio Yellow Rank 2](#aelio-yellow-rank-2)|740k - 1.5mil|25|❌|✔️|❌|You must sell a a lot of non-stackable items on the Player Shop and the quest rewards fluctuate in demand with updates. Don't expect to receive your N-meseta imediately. You also gain 8mil to 10mil EXP/hour.|
 |[Retem Alnothe Rank 1](#retem-alnothe-rank-1)|270k+|40|✔️|❌|✔️|Lower ranks are better since enemies are defeated faster. Main or Sub Force, Techter, or Bouncer and use Zonde or Talis' Spread Shot to quickly defeat enemies.|
 |[Purple Triggers](#purple-triggers)|?|41-70|❌|✔️|❌|Higher Ranks drop better augment rewards. The valuable motion drops are available in Aelio, Retem, and Kvaris Rank 2, with Aelio being the fastest and most profitable.|
 |[Geo Lab Rank 2](#geo-lab-rank-2)|800k - 1.2mil|70|❌|✔️|❌|Geo Lab Rank 2 can be done at level 65, but most parties will include level 70 players. Higher ranks drop better and rewards. There's a few easy Challenge Settings you can use to get the S rank.|
@@ -533,16 +532,6 @@ Once on your account you may find Red Boxes scattered around Halpha. Each region
 - [Starlit Village's Map Guides](https://discord.com/channels/841958014503223308/978354867519258634)
 - [ARKS-Visiphone map guide](https://pso2na.arks-visiphone.com/wiki/Portal:New_Genesis/Collectables)
 - [RPGSite's guide with images](https://www.rpgsite.net/feature/12946-phantasy-star-online-2-new-genesis-all-red-item-container-locations-kvaris-region)
-
-### Aelio Yellow Rank 2
-
-**Rate:** 740,000 to 1.5 million ![N-Meseta](/Images/NGSUIMSTIcon.png)/hour
-
-**Warning:** This method requires selling a great deal of non-stackable items on the Personal Shop.
-
-The Battledia Yellows, Aelio Troopers and Retem Troopers, both drop Gold Primm Sword +30 and Gold Primm Armor +30 as well as the Domina for that region. In Aelio Yellow Rank 2 you can earn 24,800 to 40,450 ![N-Meseta](/Images/NGSUIMSTIcon.png) each run, accounting for the cost of Yellow Triggers and the seller's fee on the personal shop.
-
-In adition you'll receive boostable experience for running these triggers.
 
 ### Retem Alnothe Rank 1
 
