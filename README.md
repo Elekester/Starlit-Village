@@ -7,4 +7,4 @@
 
 ## Rules
 
-- [Line Strike Tournament Rules](Rules/Line Strike Tournament Rules.md)
+- [Line Strike Tournament Rules](Rules/Line%20Strike%20Tournament%20Rules.md)
