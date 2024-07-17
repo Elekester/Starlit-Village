@@ -93,9 +93,9 @@ The game is considered to have begun once all the correct players in that game h
 
 ### 2.3 End-of-Match Procedure
 
-Once the game is complete, players must report their match to tournament staff.
+Once the final game is complete, players must report their match to tournament staff.
 
-If the match time limit is reached before a winner is determined, the players finish the current game and must be completed within 5 minutes. If the game is not completed it is considered a draw.
+If the match time limit is reached before a match winner is determined, players must finish the current game within 5 minutes. If the game is not completed during this period, it is considered a draw.
 
 Once time is called, no new games should begin.
 
