@@ -1,4 +1,4 @@
-# Tournament Rules
+# Line Strike Tournament Rules
 
 ## Table of Contents
 
