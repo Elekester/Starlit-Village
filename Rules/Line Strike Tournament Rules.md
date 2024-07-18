@@ -115,7 +115,7 @@ If tournament staff pauses a match for more than one minute while the round cloc
 
 ### 2.6 Deck Construction
 
-Players are required to have constructed their decks prior to the tournament beginning and may not alter their constructed decks throughout the tournament.
+Players are required to have constructed their decks prior to the tournament beginning and may not alter their constructed decks throughout the tournament. Players may have up to ten (10) decks constructed at once, in which case they may use any of their constructed decks for any game in the tournament.
 
 ### 2.7 Dropping from a Tournament
 
