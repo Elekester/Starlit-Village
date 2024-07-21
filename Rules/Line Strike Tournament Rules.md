@@ -1,5 +1,3 @@
-Here's the revised and paraphrased content:
-
 # Line Strike Tournament Rules
 
 ## Table of Contents
