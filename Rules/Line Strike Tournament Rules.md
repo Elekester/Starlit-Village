@@ -79,7 +79,7 @@ Spectators are anyone not fitting the above roles. They must not communicate wit
 
 ### 2.1 Match Structure
 
-A match is a series of games where a player wins by reaching a set number of victories, usually two (2). Drawn games do not count towards this goal. If time runs out, the winner is the player with the most game wins; if tied, the match is a draw. Only match results are reported at the end of the tournament.
+A match is a series of games where a player wins by reaching a set number of wins, usually two (2). Drawn games do not count towards this goal. If time runs out, the winner is the player with the most game wins; if tied, the match is a draw. Only match results are reported at the end of the tournament.
 
 ### 2.2 Pregame Procedures
 
