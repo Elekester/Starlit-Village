@@ -1,3 +1,5 @@
+Here's the revised and paraphrased content:
+
 # Line Strike Tournament Rules
 
 ## Table of Contents
@@ -24,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[3.3 Wagering](#33-wagering)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.4 Unsporting Conduct](#34-unsporting-conduct)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.5 Slow Play](#35-slow-play)  
-&nbsp;&nbsp;&nbsp;&nbsp;[3.6 Outside Assisstance](#36-outside-assisstance)  
+&nbsp;&nbsp;&nbsp;&nbsp;[3.6 Outside Assistance](#36-outside-assistance)  
 [4 Tournament Organization](#4-tournament-organization)  
 &nbsp;&nbsp;&nbsp;&nbsp;[4.1 Participation Minimums](#41-participation-minimums)  
 &nbsp;&nbsp;&nbsp;&nbsp;[4.2 Number of Rounds](#42-number-of-rounds)  
@@ -34,44 +36,44 @@
 
 ### 1.1 Tournament Roles
 
-The following roles are defined for tournament purposes:
+The tournament includes the following roles:
 
 - Tournament Organizer
 - Tournament Staff
 - Player
 - Spectator
 
-The first two roles above are considered tournament staff. A single individual may act in any combination of tournament roles. Individuals who are nut tournament staff at a tournament are spectators in any set they are not playing.
+The first two roles are considered tournament staff. One individual can hold multiple roles. Anyone not part of the tournament staff is a spectator when not playing.
 
 ### 1.2 Registration
 
-In order to participate in a Line Strike tournament, players must provide their Player ID Name and Character Name for the character they will play during the tournament. Upon request, they must also provide their Player ID to tournament staff.
+To join a Line Strike tournament, players must provide their Player ID Name and Character Name for the character they will use. They must also provide their Player ID to the tournament staff upon request.
 
 ### 1.3 Tournament Staff
 
-The Tournament staff are available to players and spectators to answer questions, deal with rules infractions, or assisst with reasonable requests.
+Tournament staff are available to answer questions, handle rule violations, and assist with reasonable requests.
 
 ### 1.4 Tournament Organizer
 
-The Tournament Organizer is a single tournament staff member who is the final judicial authority for the tournament and all tournament participants are expected to follow their interpretations. If necessary, the Tournament Organizer may temporarily transfer their duties to any tournamnet staff member if they are unable to fulfill them for a period of time.
+The Tournament Organizer is the main authority for the tournament. All participants must follow their rulings. The Organizer can delegate their responsibilities to another staff member if needed.
 
 ### 1.5 Players
 
-Players are responsible for:
+Players are expected to:
 
-- Behaving in a respectful manner toward tournament staff, other players, and spectators and refraining from unsporting conduct at all times.
-- Complying with announced start times and time limits.
-- Calling attention to any rules or policy infraction they notice in their matches.
-- Bringing to tournament staff's attention any discrepancies in their tournamnet match record.
-- Accurately reporting the results of their matches in a timely manner.
-- Being familiar with the rules contained within this document and any published for the tournament.
-- Being present for the tournament.
+- Treat tournament staff, other players, and spectators respectfully and avoid unsporting conduct.
+- Adhere to announced start times and time limits.
+- Report any rule or policy infractions in their matches.
+- Inform tournament staff of any discrepancies in their match records.
+- Report their match results promptly.
+- Know the rules in this document and any additional rules for the tournament.
+- Be present for the tournament.
 
-Players who do not fulfill their responsibilities may be subject to penalties and review by the tournament staff.
+Players who fail to meet these responsibilities may face penalties.
 
 ### 1.6 Spectators
 
-Any person present at a tournament and not in any other category above is a spectator. Spectators are responsible for not communicating with any player during a match. If spectators believe they have observed a rules or policy violation, they are encouraged to inform tournament staff as soon as possible.
+Spectators are anyone not fitting the above roles. They must not communicate with players during matches. If they notice rule or policy violations, they should inform the tournament staff immediately.
 
 
 
@@ -79,62 +81,52 @@ Any person present at a tournament and not in any other category above is a spec
 
 ### 2.1 Match Structure
 
-A match consists of a series of games that are played until one side has won a set number of games, usually two. Drawn games do not count toward this goal. If the round ends before a player has won the required number of games, the winner of the match is the player who has won the most games at that point. If both players have equal game wins, the match is a draw. Match results, not individual game results, are reported at the end of the tournament.
+A match is a series of games where a player wins by reaching a set number of victories, usually two (2). Drawn games do not count towards this goal. If time runs out, the winner is the player with the most game wins; if tied, the match is a draw. Only match results are reported at the end of the tournament.
 
 ### 2.2 Pregame Procedures
 
-The following steps must be performed in a timely manner before each game begins:
+Before each game:
 
-1. Players sit at their assigned table with their registered character.
-2. Players confirm that their opponent's character name matches the name announced during matchmaking.
-3. Players select any of their constructed decks and begin play.
+1. Players sit at their assigned tables with their registered characters.
+2. Players verify their opponent's character name matches the announced name.
+3. Players choose any of their constructed decks and begin the game.
 
-The game is considered to have begun once all the correct players in that game have sat at their assigned table.
+The game is considered to have begun once all players are sat at the assigned table.
 
 ### 2.3 End-of-Match Procedure
 
-Once the final game is complete, players must report their match to tournament staff. The report should include Match Winner as well as number of games won, loss, and drawn.
+After the final game, players must report the match results to the tournament staff, including the winner and the number of games won, lost, and drawn.
 
-If the match time limit is reached before a match winner is determined, players must finish the current game within 5 minutes. If the game is not completed during this period, it is considered a draw.
-
-Once time is called, no new games should begin.
-
-If tournament staff assigned a time extension, the end-of-match procedure does not begin until the end of the time extension.
+If time expires before a match is finished, players must complete the current game within 5 minutes. If the game is not completed in this time frame, it is a draw. No new games should start after time is called. If tournament staff has assigned a time extension to the match, it is added before the end-of-match procedure begins.
 
 ### 2.4 Conceding or Intentionally Drawing Games or Matches
 
-Until the result of a match has been reported, players may concede or mutually agree to draw in that game or match.
-
-Players may not agree to a concession or draw in exchange for any reward or incentive.
-
-If a player refuses to play, it is assumed they have conceded the match.
+Players may concede or agree to a draw any incomplete game or any match before reporting the match result, but not in exchange for any reward or incentive. Refusing to play counts as conceding the match.
 
 ### 2.5 Time Extensions
 
-If tournament staff pauses a match for more than one minute while the round clock is running, they should extend the match time appropriately.
+If a match is paused for over a minute, the tournament staff should extend the match time accordingly.
 
 ### 2.6 Deck Construction
 
-Players are required to have constructed their decks prior to the tournament beginning and may not alter their constructed decks throughout the tournament. Players may have up to ten (10) decks constructed at once, in which case they may use any of their constructed decks for any game in the tournament.
+Players must have their decks ready before the tournament starts and cannot change them during the tournament. They can have up to ten (10) decks constructed and may use any of them for any game.
 
 ### 2.7 Dropping from a Tournament
 
-Players may drop from a tournament at any time. If a player drops from a tournament before the first round of play has started, they are considered to have not participated in the tournament.
+Players can drop from the tournament anytime. If they drop before the first round, they are considered non-participants.
 
-Players choosing to drop from a tournament must inform tournament staff before pairings for the next round are generated. If a player does not show up for their match, they will be automatically dropped from the tournament unless they report to tournament staff.
-
-Players who have dropped may reenter a tournament at the discretion of the Tournament Organizer. Players may not drop from a tournament in exchange for or influenced by the offer of any reward or incentive.
+Players choosing to drop from a tournament must inform staff before the next round's pairings. Absence without notice results in automatic drop. Reentry is at the Organizer's discretion. Players may not drop from a tournament in exchange for or influenced by the offer of any reward or incentive.
 
 ### 2.8 Tiebreakers
 
 The following tiebreakers are used to determine how a player ranks in a tournament:
 
 1. Match Points
-2. Median-Buchholz system (the sum of opponent's points, with the best and worst scores removed)
-2. Match Wins
+2. Median-Buchholz system (sum of opponents' points, minus the highest and lowest)
+3. Match Wins
 4. Game win percentage
 
-A player earns 1 match points for each match win, 0 points for each match loss, and 0.5 match points for each match draw. Players receiving byes are considered to have won the match.
+Players earn 1 match point for a win, 0 for a loss, and 0.5 for a draw. Byes count as a win.
 
 
 
@@ -142,38 +134,37 @@ A player earns 1 match points for each match win, 0 points for each match loss, 
 
 ### 3.1 Cheating
 
-Cheating will not be tolerated. The Tournament Organizer reviews all cheating allegations, and if they believe that a player has cheated, they will issue an approppriate penalty up to and including disqualifcation from a tournament and a loss of any prize payout.
+Cheating is not tolerated. The Tournament Organizer will review allegations and issue penalties, up to disqualification and loss of prizes.
 
 ### 3.2 Bribery
 
-The decision to drop, concede, or a gree to an intentional draw cannot be made in exchange for or influenced by the offer of any reward or incentive, nor may any in-game decision be influenced in this manner. Making such an
-offer or enticing someone into making an offer is prohibited and is considered bribery. Players may not make any offers to tournament staff in an attempt to influence the outcome of a ruling.
+Decisions to drop, concede, or draw cannot be influenced by rewards or incentives. Offering or enticing someone with such offers is bribery and prohibited. Players cannot offer anything to staff to influence rulings.
 
-It is not bribery when players share prizes they have not yet received in the current tournament and they may agree to such before or during their match, as long as any such sharing does not occur in exchange for any game or match result or the dropping of a player from the tournament.
+It is not bribery when players share prizes they have not yet received in the current tournament and they may agree to do so before or during their match, as long as this does not occur in exchange for any game or match result or the dropping of a player from the tournament.
 
 ### 3.3 Wagering
 
-Tournament staff, players, and spectators may not wager, ange, or bet on any portion of a tournament, match, or game.
+Staff, players, and spectators cannot bet on any part of the tournament.
 
 ### 3.4 Unsporting Conduct
 
-Unsporting conduct will not be tolerated at any time. Unsporting conduct inclues, but is not limited to:
+Unsporting conduct is unacceptable and includes, but is not limited to:
 
-- Engaging in behavior that could reasonably be expected to create a feeling of being bullied or harrassed.
-- Arguing with or insulting tournament staff, players, or spectators.
-- Violating the personal privacy or safety of any tournament staff, player, or spectator.
-- Using social media to bully, shame, or intimidate other participants.
-- Failing to follow the instructions of tournament staff.
+- Bullying or harassing any participant.
+- Insulting or arguing with participants.
+- Violating privacy or safety of participants.
+- Using social media to shame or intimidate other participants.
+- Ignoring staff instructions
 
-Tournament staff should investigate potential matters brought to their attention as soon as possible and take actions to discourage repeat behavior.
+Tournament taff should investigate and discourage repeat behavior.
 
 ### 3.5 Slow Play
 
-Players must begin their games in a timely fashyion and adhere to time limits specified for the tournament. Players must maintain a pace to allow the match to be finished in the announced time limit. Stalling is not acceptable. Players may ask tournament staff to watch their match for slow play. Such a request will be granted if feasible.
+Players must start games on time and keep pace with time limits. Stalling is not acceptable. Players can ask staff to monitor for slow play. Such a request will be granted if feasible.
 
-### 3.6 Outside Assisstance
+### 3.6 Outside Assistance
 
-During matches, players may not seek play advice from spectators and spectators may not give play advice to players.
+Players cannot seek or receive play advice from spectators during matches.
 
 
 
@@ -181,14 +172,14 @@ During matches, players may not seek play advice from spectators and spectators 
 
 ### 4.1 Participation Minimums
 
-A minimum of four (4) players must participate. If the participation minimum is not met, the tournament should not start and no prize payouts should be made.
+At least four (4) players must participate. If this minimum is not met, the tournament won't start, and no prizes will be awarded.
 
 ### 4.2 Number of Rounds
 
-A tournament should consist of at least three (3) rounds. If the rounds cannot be completed for whatever reason, no prize payouts should be made.
+The tournament must have at least three (3) rounds. If rounds cannot be completed, no prizes are awarded.
 
-The number of rounds should be announced at or before the beginning of the first round. It cannot be changed once announced.
+The number of rounds is set before the first round and cannot change.
 
 ### 4.3 Pairing Algorithm
 
-Unless otherwise announced, tournaments are assumed to follow the Swiss pairing algorithm.
+Tournaments use the Swiss pairing algorithm unless otherwise stated.
