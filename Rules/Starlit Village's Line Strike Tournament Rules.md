@@ -1,4 +1,4 @@
-# Line Strike Tournament Rules
+# Starlit Village's Line Strike Tournament Rules
 
 ## Table of Contents
 
