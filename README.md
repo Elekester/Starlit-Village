@@ -7,4 +7,4 @@
 
 ## Rules
 
-- [Line Strike Tournament Rules](Rules/Line%20Strike%20Tournament%20Rules.md)
+- [Line Strike Tournament Rules](https://github.com/Elekester/Starlit-Village/blob/main/Rules/Starlit%20Village's%20Line%20Strike%20Tournament%20Rules.md)
