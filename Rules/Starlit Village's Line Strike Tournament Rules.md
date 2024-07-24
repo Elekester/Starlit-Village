@@ -87,7 +87,7 @@ Before each game:
 
 1. Players sit at their assigned tables with their registered characters.
 2. Players verify their opponent's character name matches the announced name.
-3. Players choose any of their constructed decks and begin the game.
+3. Players choose any of their registered decks and begin the game.
 
 The game is considered to have begun once all players are sat at the assigned table.
 
@@ -105,9 +105,11 @@ Players may concede or agree to a draw any incomplete game or any match before r
 
 If a match is paused for over a minute, the tournament staff should extend the match time accordingly.
 
-### 2.6 Deck Construction
+### 2.6 Deck Construction and Registration
 
-Players must have their decks ready before the tournament starts and cannot change them during the tournament. They can have up to ten (10) decks constructed and may use any of them for any game.
+Players must have their decks ready before the tournament starts and cannot change them during the tournament. They can have up to two (2) decks constructed and may use either of them for any game.
+
+At the Tournament Organizer's discretion, you may be required to register the contents of your decks prior to the start of the tournament.
 
 ### 2.7 Dropping from a Tournament
 
