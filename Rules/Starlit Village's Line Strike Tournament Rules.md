@@ -176,9 +176,9 @@ At least four (4) players must participate. If this minimum is not met, the tour
 
 ### 4.2 Number of Rounds
 
-The tournament must have at least a number of rounds equal to $\lceil \log_2(\text{number of players})\rceil$. If rounds cannot be completed, no prizes are awarded.
+The tournament must have at least a number of rounds equal to $\lceil \log_2(\text{number of players})\rceil$ and at most a number of rounds equal to $(number of players) - 1$.
 
-The number of rounds is set before the first round and cannot change.
+The number of rounds is set before the first round and cannot change. If rounds cannot be completed, no prizes are awarded.
 
 ### 4.3 Pairing Algorithm
 
