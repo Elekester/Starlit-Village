@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 End-of-Match Procedure](#23-end-of-match-procedure)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4 Conceding or Intentionally Drawing Games or Matches](#24-conceding-or-intentionally-drawing-games-or-matches)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.5 Time Extensions](#25-time-extensions)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.6 Deck Construction and Registration](#.6-deck-construction-and-registration)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.6 Deck Construction and Registration](#26-deck-construction-and-registration)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.7 Dropping from a Tournament](#27-dropping-from-a-tournament)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.8 Tiebreakers](#28-tiebreakers)  
 [3 Tournament Violations](#3-tournament-violations)  
@@ -176,7 +176,7 @@ At least four (4) players must participate. If this minimum is not met, the tour
 
 ### 4.2 Number of Rounds
 
-The tournament must have at least a number of rounds equal to $log_2(\text{number of players})$, rounded up to the nearest integer. If rounds cannot be completed, no prizes are awarded.
+The tournament must have at least a number of rounds equal to $\lceil log_2(\text{number of players})\rceil$. If rounds cannot be completed, no prizes are awarded.
 
 The number of rounds is set before the first round and cannot change.
 
