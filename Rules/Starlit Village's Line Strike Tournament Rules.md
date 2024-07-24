@@ -176,7 +176,7 @@ At least four (4) players must participate. If this minimum is not met, the tour
 
 ### 4.2 Number of Rounds
 
-The tournament must have at least three (3) rounds. If rounds cannot be completed, no prizes are awarded.
+The tournament must have at least a number of rounds equal to $log_2(\text{# of rounds})$, rounded up to the nearest integer. If rounds cannot be completed, no prizes are awarded.
 
 The number of rounds is set before the first round and cannot change.
 
