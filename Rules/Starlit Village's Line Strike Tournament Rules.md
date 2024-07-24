@@ -85,11 +85,11 @@ A match is a series of games where a player wins by reaching a set number of win
 
 Before each game:
 
-1. Players sit at their assigned tables with their registered characters.
-2. Players verify their opponent's character name matches the announced name.
-3. Players choose any of their registered decks and begin the game.
+1. Players stand by their assigned tables with their registered characters.
+2. Players verify their opponent's name matches their assigned opponent.
+3. Players sit at their assigned table, choose any of their registered decks, and begin the game.
 
-The game is considered to have begun once all players are sat at the assigned table.
+The game is considered to have begun once all players have chosen their decks.
 
 ### 2.3 End-of-Match Procedure
 
