@@ -122,9 +122,9 @@ Players choosing to drop from a tournament must inform staff before the next rou
 The following tiebreakers are used to determine how a player ranks in a tournament:
 
 1. Match Points
-2. Median-Buchholz system (sum of opponents' points, minus the highest and lowest)
-3. Match Wins
-4. Game win percentage
+2. Median-Buchholz System (sum of opponents' points, minus the highest and lowest)
+3. Match Win Percentage
+4. Wins vs Tied Participants
 
 Players earn 1 match point for a win, 0 for a loss, and 0.5 for a draw. Byes count as a win.
 
